@@ -17,7 +17,9 @@ My secondary research focuses on evaluating artificial language models on tasks 
 **Research interests**
 
 Argument structure 
-Nominal structure 
+
+Nominal structure
+
 Discourse markers
 
 **Contact**
