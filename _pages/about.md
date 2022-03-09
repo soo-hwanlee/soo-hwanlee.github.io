@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -15,9 +15,9 @@ My primary research focuses on morphosyntax and argument structure. I am also in
 My secondary research focuses on evaluating artificial language models on tasks related to the linguisitic phenomena mentioned above.
 
 **Research interests**
-1. Argument structure 
-2. Nominal structure 
-3. Discourse markers
+ Argument structure 
+ Nominal structure 
+ Discourse markers
 
 **Contact**
 
