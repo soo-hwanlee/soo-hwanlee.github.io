@@ -16,11 +16,11 @@ My secondary research focuses on evaluating artificial language models on tasks 
 
 **Research interests**
 
-Argument structure 
+- Argument structure 
 
-Nominal structure
+- Nominal structure
 
-Discourse markers
+- Discourse markers
 
 **Contact**
 
