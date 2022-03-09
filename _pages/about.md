@@ -15,9 +15,9 @@ My primary research focuses on morphosyntax and argument structure. I am also in
 My secondary research focuses on evaluating artificial language models on tasks related to the linguisitic phenomena mentioned above.
 
 **Research interests**
- Argument structure 
- Nominal structure 
- Discourse markers
+Argument structure 
+Nominal structure 
+Discourse markers
 
 **Contact**
 
