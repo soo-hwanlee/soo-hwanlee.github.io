@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a third year Ph.D. student in the Department of Linguistics at NYU. I currently organize NYU Syntax Brown Bag. My advisor is Alec Marantz.
+Welcome! I am a third year Ph.D. student in the [Department of Linguistics](https://as.nyu.edu/linguistics/homepage.html) at NYU. I currently organize [NYU Syntax Brown Bag](https://sites.google.com/a/nyu.edu/nyusyntaxbrownbag/). My advisor is [Alec Marantz](https://wp.nyu.edu/morphlab/alec-marantz/).
 My primary research focuses on morphosyntax and argument structure. I am also interested in how pragmatic phenomena (e.g., presupposition and discourse marking) are represented in syntax. 
 My secondary research focuses on evaluating artificial language models on tasks related to the linguisitic phenomena mentioned above.
 
