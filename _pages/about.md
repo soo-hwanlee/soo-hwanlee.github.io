@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome! I am a third year Ph.D. student in the [Department of Linguistics](https://as.nyu.edu/linguistics/homepage.html) at NYU. I currently organize [NYU Syntax Brown Bag](https://sites.google.com/a/nyu.edu/nyusyntaxbrownbag/). My advisor is [Alec Marantz](https://wp.nyu.edu/morphlab/alec-marantz/).
 
-My primary research focuses on morphosyntax and argument structure. I am also interested in how pragmatic phenomena (e.g., presupposition and discourse marking) are represented in syntax. 
+My primary research focuses on morphosyntax and argument structure. I am also interested in how pragmatic phenomena (e.g., discourse marking and presupposition) are represented in syntax. 
 
 My secondary research focuses on evaluating artificial language models on tasks related to the linguisitic phenomena mentioned above.
 
@@ -22,17 +22,17 @@ My secondary research focuses on evaluating artificial language models on tasks 
 **Papers**
 
 **Theoretical linguistics**
-- To appear || Korean case stacking and the nominal template. Proceedings of PLC 45. (with Yining Nie)
-- 2020 | Speech act phrases in Korean nominal structures. Proceedings of JK 27. 
-- 2020 | Prosody and EPP in Swahili. Proceedings of AMP 2019.
-- 2019 | Nominal mismatches in Swahili locatives. Proceedings of LSA 2019. (with Doo-Won Lee) 
-- 2018 | Suppletion in serial verb constructions. Studies in Generative Grammar 28(3). 
-- 2018 | Suppletive allomorphy conditioned by humbleness in Korean. Proceedings of BLS 44. (with Minjung Kim) 
+- To appear | Korean case stacking and the nominal template. Proceedings of PLC 45. (with Yining Nie) | [bibtex]
+- 2020 | Speech act phrases in Korean nominal structures. Proceedings of JK 27. | [bibtex]
+- 2020 | Prosody and EPP in Swahili. Proceedings of AMP 2019. | [bibtex]
+- 2019 | Nominal mismatches in Swahili locatives. Proceedings of LSA 2019. (with Doo-Won Lee) [bibtex]
+- 2018 | Suppletion in serial verb constructions. Studies in Generative Grammar 28(3). [bibtex]
+- 2018 | Suppletive allomorphy conditioned by humbleness in Korean. Proceedings of BLS 44. (with Minjung Kim) [bibtex]
 
 **Computational linguistics**
-- 2022. Can language models capture syntactic associations without surface cues? A case study of reflexive anaphor licensing in English control constructions. Proceedings of SCiL 2022 (extended abstract). (with Sebastian Schuster) 
-- 2021. NOPE: A Corpus of Naturally-Occurring Presuppositions in English. Proceedings of CoNLL 2021. (with +Alicia Parrish, +Sebastian Schuster, +Alex Warstadt, Omar Agha, Zhuoye Zhao, Samuel R. Bowman, and Tal Linzen) [+ = equal contribution]
-- 2021. Does Putting a Linguist in the Loop Improve NLU Data Collection? Findings of EMNLP 2021. (with Alicia Parrish, Will Huang, Omar Agha, Nikita Nangia, Alex Warstadt, Karmanya Aggarwal, Emily Allaway, Tal Linzen, and Samuel R. Bowman)
+- 2022 | Can language models capture syntactic associations without surface cues? A case study of reflexive anaphor licensing in English control constructions. Proceedings of SCiL 2022 (extended abstract). (with Sebastian Schuster) 
+- 2021 | NOPE: A Corpus of Naturally-Occurring Presuppositions in English. Proceedings of CoNLL 2021. (with +Alicia Parrish, +Sebastian Schuster, +Alex Warstadt, Omar Agha, Zhuoye Zhao, Samuel R. Bowman, and Tal Linzen) [+ = equal contribution]
+- 2021 | Does Putting a Linguist in the Loop Improve NLU Data Collection? Findings of EMNLP 2021. (with Alicia Parrish, Will Huang, Omar Agha, Nikita Nangia, Alex Warstadt, Karmanya Aggarwal, Emily Allaway, Tal Linzen, and Samuel R. Bowman)
 
 
 **Presentations**
