@@ -22,12 +22,12 @@ My secondary research focuses on evaluating artificial language models on tasks 
 **Papers**
 
 **Theoretical linguistics**
-- Korean case stacking and the nominal template. Proceedings of PLC 45. (with Yining Nie) | [bibtex]
-- Speech act phrases in Korean nominal structures. Proceedings of JK 27. | [bibtex]
-- Prosody and EPP in Swahili. Proceedings of AMP 2019. | [bibtex]
-- Nominal mismatches in Swahili locatives. Proceedings of LSA 2019. (with Doo-Won Lee) | [bibtex]
-- Suppletion in serial verb constructions. Studies in Generative Grammar 28(3). | [bibtex]
-- Suppletive allomorphy conditioned by humbleness in Korean. Proceedings of BLS 44. (with Minjung Kim) | [bibtex]
+- Korean case stacking and the nominal template. To appear. Proceedings of PLC 45. (with Yining Nie) | [bibtex]
+- Speech act phrases in Korean nominal structures. 2020. Proceedings of JK 27. | [bibtex]
+- Prosody and EPP in Swahili. 2020. Proceedings of AMP 2019. | [bibtex]
+- Nominal mismatches in Swahili locatives. 2019. Proceedings of LSA 2019. (with Doo-Won Lee) | [bibtex]
+- Suppletion in serial verb constructions. 2018. Studies in Generative Grammar 28(3). | [bibtex]
+- Suppletive allomorphy conditioned by humbleness in Korean. 2018. Proceedings of BLS 44. (with Minjung Kim) | [bibtex]
 
 **Computational linguistics**
 - 2022 | Can language models capture syntactic associations without surface cues? A case study of reflexive anaphor licensing in English control constructions. Proceedings of SCiL 2022 (extended abstract). (with Sebastian Schuster) 
