@@ -30,9 +30,9 @@ My secondary research focuses on evaluating artificial language models on tasks 
 - Suppletive allomorphy conditioned by humbleness in Korean. 2018. Proceedings of BLS 44. (with Minjung Kim) | [bibtex]
 
 **Computational linguistics**
-- 2022 | Can language models capture syntactic associations without surface cues? A case study of reflexive anaphor licensing in English control constructions. Proceedings of SCiL 2022 (extended abstract). (with Sebastian Schuster) 
-- 2021 | NOPE: A Corpus of Naturally-Occurring Presuppositions in English. Proceedings of CoNLL 2021. (with +Alicia Parrish, +Sebastian Schuster, +Alex Warstadt, Omar Agha, Zhuoye Zhao, Samuel R. Bowman, and Tal Linzen) [+ = equal contribution]
-- 2021 | Does Putting a Linguist in the Loop Improve NLU Data Collection? Findings of EMNLP 2021. (with Alicia Parrish, Will Huang, Omar Agha, Nikita Nangia, Alex Warstadt, Karmanya Aggarwal, Emily Allaway, Tal Linzen, and Samuel R. Bowman)
+2022 | Can language models capture syntactic associations without surface cues? A case study of reflexive anaphor licensing in English control constructions. Proceedings of SCiL 2022 (extended abstract). (with Sebastian Schuster) 
+2021 | NOPE: A Corpus of Naturally-Occurring Presuppositions in English. Proceedings of CoNLL 2021. (with +Alicia Parrish, +Sebastian Schuster, +Alex Warstadt, Omar Agha, Zhuoye Zhao, Samuel R. Bowman, and Tal Linzen) [+ = equal contribution]
+2021 | Does Putting a Linguist in the Loop Improve NLU Data Collection? Findings of EMNLP 2021. (with Alicia Parrish, Will Huang, Omar Agha, Nikita Nangia, Alex Warstadt, Karmanya Aggarwal, Emily Allaway, Tal Linzen, and Samuel R. Bowman)
 
 
 **Presentations**
