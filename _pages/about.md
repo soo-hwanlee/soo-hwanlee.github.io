@@ -22,7 +22,7 @@ My secondary research focuses on evaluating artificial language models on tasks 
 **Papers**
 - **Theoretical linguistics**
 To appear | Lee, Soo-Hwan, and Yining Nie. To appear. Korean case stacking and the nominal template. _Proceedings of 45th Annual Penn Linguistics Conference (PLC)_. |
-- 2020 | Lee, Soo-Hwan. 2020. [Speech act phrases in Korean nominal structures. _Proceedings of Japanese/Korean Linguistics (JK) 27_](http://web.stanford.edu/group/cslipublications/cslipublications/ja-ko-contents/JK27/JK27_Lee_Soo-Hwan.pdf). | [bibtex]
+- 2020 | Lee, Soo-Hwan. 2020. [Speech act phrases in Korean nominal structures](http://web.stanford.edu/group/cslipublications/cslipublications/ja-ko-contents/JK27/JK27_Lee_Soo-Hwan.pdf). _Proceedings of Japanese/Korean Linguistics (JK) 27_. | [bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:LJ-WjYQwYnAJ:scholar.google.com/&output=citation&scisdr=CgXIPzGyEJ_e_6JVEY8:AAGBfm0AAAAAYjJTCY85d7H0Gmo7g6GaRbzAJ-cD7wQt&scisig=AAGBfm0AAAAAYjJTCRQv_0ybKwwIbBehJ4I0oWJzIaJC&scisf=4&ct=citation&cd=-1&hl=en)
 - 2020 | Lee, Soo-Hwan. 2020. Prosody and EPP in Swahili. 2020. _Proceedings of the 2019 Annual Meeting on Phonology (AMP)_. | [bibtex]
 - 2019| Lee, Soo-Hwan, and Doo-Won Lee. 2019. Nominal mismatches in Swahili locatives. _Proceedings of the Linguistic Society of America (LSA) 2019_. | [bibtex]
 - 2018| Lee, Soo-Hwan. 2018. Suppletion in serial verb constructions. _Studies in Generative Grammar 28(3)_. | [bibtex]
