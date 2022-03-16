@@ -14,12 +14,12 @@ My primary research focuses on morphosyntax and argument structure. I am also in
 
 My secondary research focuses on evaluating artificial language models on tasks related to the linguisitic phenomena mentioned above.
 
-**Research interests**
+### Research interests
 - Argument structure 
 - Nominal structure
 - Discourse markers
 
-**Papers**
+### Papers
 
 **Theoretical linguistics**
 - To appear | Lee, Soo-Hwan, and Yining Nie. To appear. Korean case stacking and the nominal template. _Proceedings of 45th Annual Penn Linguistics Conference (PLC)_. |
