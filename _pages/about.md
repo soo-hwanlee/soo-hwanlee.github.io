@@ -21,7 +21,7 @@ My secondary research focuses on evaluating artificial language models on tasks 
 
 **Papers**
 - **Theoretical linguistics**
-- To appear | Lee, Soo-Hwan, and Yining Nie. To appear. Korean case stacking and the nominal template. _Proceedings of 45th Annual Penn Linguistics Conference (PLC)_. |
+To appear | Lee, Soo-Hwan, and Yining Nie. To appear. Korean case stacking and the nominal template. _Proceedings of 45th Annual Penn Linguistics Conference (PLC)_. |
 - 2020 | Lee, Soo-Hwan. 2020. Speech act phrases in Korean nominal structures. _Proceedings of Japanese/Korean Linguistics (JK) 27_. | [bibtex]
 - 2020 | Lee, Soo-Hwan. 2020. Prosody and EPP in Swahili. 2020. _Proceedings of the 2019 Annual Meeting on Phonology (AMP)_. | [bibtex]
 - 2019| Lee, Soo-Hwan, and Doo-Won Lee. 2019. Nominal mismatches in Swahili locatives. _Proceedings of the Linguistic Society of America (LSA) 2019_. | [bibtex]
