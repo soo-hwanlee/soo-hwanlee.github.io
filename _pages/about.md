@@ -20,14 +20,13 @@ My secondary research focuses on evaluating artificial language models on tasks 
 - Discourse markers
 
 **Papers**
-
-**Theoretical linguistics**
+- **Theoretical linguistics**
 - To appear | Lee, Soo-Hwan, and Yining Nie. To appear. Korean case stacking and the nominal template. _Proceedings of 45th Annual Penn Linguistics Conference_. |
 - 2020 | Lee, Soo-Hwan. 2020. Speech act phrases in Korean nominal structures. _Proceedings of Japanese/Korean Linguistics 27_. | [bibtex]
 - 2020 | Lee, Soo-Hwan. 2020. Prosody and EPP in Swahili. 2020. _Proceedings of the 2019 Annual Meeting on Phonology_. | [bibtex]
 - 2019| Lee, Soo-Hwan, and Doo-Won Lee. 2019. Nominal mismatches in Swahili locatives. _Proceedings of the Linguistic Society of America 2019_. | [bibtex]
-- Suppletion in serial verb constructions. 2018. Studies in Generative Grammar 28(3). | [bibtex]
-- Suppletive allomorphy conditioned by humbleness in Korean. 2018. Proceedings of BLS 44. (with Minjung Kim) | [bibtex]
+- 2018| Lee, Soo-Hwan. 2018. Suppletion in serial verb constructions. _Studies in Generative Grammar 28(3)_. | [bibtex]
+- 2018| Lee, Soo-Hwan, and Minjung Kim. 2018. Suppletive allomorphy conditioned by humbleness in Korean. _Proceedings of the 44th Annual Meeting of the Berkeley Linguistics Society_. | [bibtex]
 
 **Computational linguistics**
 - 2022 | Can language models capture syntactic associations without surface cues? A case study of reflexive anaphor licensing in English control constructions. Proceedings of SCiL 2022 (extended abstract). (with Sebastian Schuster) 
