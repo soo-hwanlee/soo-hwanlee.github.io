@@ -21,15 +21,15 @@ My secondary research focuses on evaluating artificial language models on tasks 
 
 **Papers**
 - **Theoretical linguistics**
-- To appear | Lee, Soo-Hwan, and Yining Nie. To appear. Korean case stacking and the nominal template. _Proceedings of 45th Annual Penn Linguistics Conference_. |
-- 2020 | Lee, Soo-Hwan. 2020. Speech act phrases in Korean nominal structures. _Proceedings of Japanese/Korean Linguistics 27_. | [bibtex]
-- 2020 | Lee, Soo-Hwan. 2020. Prosody and EPP in Swahili. 2020. _Proceedings of the 2019 Annual Meeting on Phonology_. | [bibtex]
-- 2019| Lee, Soo-Hwan, and Doo-Won Lee. 2019. Nominal mismatches in Swahili locatives. _Proceedings of the Linguistic Society of America 2019_. | [bibtex]
+- To appear | Lee, Soo-Hwan, and Yining Nie. To appear. Korean case stacking and the nominal template. _Proceedings of 45th Annual Penn Linguistics Conference (PLC)_. |
+- 2020 | Lee, Soo-Hwan. 2020. Speech act phrases in Korean nominal structures. _Proceedings of Japanese/Korean Linguistics (JK) 27_. | [bibtex]
+- 2020 | Lee, Soo-Hwan. 2020. Prosody and EPP in Swahili. 2020. _Proceedings of the 2019 Annual Meeting on Phonology (AMP)_. | [bibtex]
+- 2019| Lee, Soo-Hwan, and Doo-Won Lee. 2019. Nominal mismatches in Swahili locatives. _Proceedings of the Linguistic Society of America (LSA) 2019_. | [bibtex]
 - 2018| Lee, Soo-Hwan. 2018. Suppletion in serial verb constructions. _Studies in Generative Grammar 28(3)_. | [bibtex]
-- 2018| Lee, Soo-Hwan, and Minjung Kim. 2018. Suppletive allomorphy conditioned by humbleness in Korean. _Proceedings of the 44th Annual Meeting of the Berkeley Linguistics Society_. | [bibtex]
+- 2018| Lee, Soo-Hwan, and Minjung Kim. 2018. Suppletive allomorphy conditioned by humbleness in Korean. _Proceedings of the 44th Annual Meeting of the Berkeley Linguistics Society (BLS)_. | [bibtex]
 
 **Computational linguistics**
-- 2022 | Can language models capture syntactic associations without surface cues? A case study of reflexive anaphor licensing in English control constructions. Proceedings of SCiL 2022 (extended abstract). (with Sebastian Schuster) 
+- 2022 | Lee, Soo-Hwan, and Sebastian Schuster. 2022. Can language models capture syntactic associations without surface cues? A case study of reflexive anaphor licensing in English control constructions. Proceedings of the Society for Computation in Linguistics (SCiL) 2022 (extended abstract). (with Sebastian Schuster) 
 - 2021 | NOPE: A Corpus of Naturally-Occurring Presuppositions in English. Proceedings of CoNLL 2021. (with +Alicia Parrish, +Sebastian Schuster, +Alex Warstadt, Omar Agha, Zhuoye Zhao, Samuel R. Bowman, and Tal Linzen) [+ = equal contribution]
 - 2021 | Does Putting a Linguist in the Loop Improve NLU Data Collection? Findings of EMNLP 2021. (with Alicia Parrish, Will Huang, Omar Agha, Nikita Nangia, Alex Warstadt, Karmanya Aggarwal, Emily Allaway, Tal Linzen, and Samuel R. Bowman)
 
