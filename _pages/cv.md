@@ -9,51 +9,37 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+> You can view my CV [here](https://drive.google.com/file/d/179gAZeh3Whq_oIFBZT6fh5i8rnAj-QFk/view?usp=sharing) (last updated May 24, 2022).
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## Education
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- 2019–present \| New York University (Ph.D.)
+- 2019 \| Sogang University (M.A.)
+- 2018 \| Sogang University (B.A.)  summa cum laude
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Non-degree education            
+
+- 2018 \| Linguistic Society of Korea (LSK) Linguistic School, Seoul National University
+
+## Fellowships & scholarships 
+
+- 2019–2024 \| Henry M. MacCracken Fellowship, New York University
+- 2019 \| Dean's Student Travel Grant Award, New York University
+- 2018 \| Linguistic Society of Korea (LSK) Scholarship
+
+## Teaching
+
+- 2022 (Spring) \| First Language Acquisition (TA for Ailís Cournane), NYU
+- 2021 (Spring) \| Language (Intro to Linguistics) (TA for Lucas Champollion), NYU
+
+## Affiliation
+
+- 2018–present \| Linguistic Society of America (LSA) 
+
+## Languages
+
+- Korean (native)
+- English (fluent)
+- Swahili (fieldwork)
+- Blackfoot (fieldwork)
+- Ewe (Tongugbe) (research)
