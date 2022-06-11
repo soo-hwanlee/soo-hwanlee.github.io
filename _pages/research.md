@@ -9,18 +9,18 @@ author_profile: true
 
 ### Theoretical linguistics
 
-- To appear \| [Korean case stacking and the nominal template](https://yiningnie.github.io/files/Lee-Nie-2021-PLC.pdf). Proceedings of PLC 45. (with Yining Nie)
-- 2020 \| [Speech act phrases in Korean nominal structures](http://web.stanford.edu/group/cslipublications/cslipublications/ja-ko-contents/JK27/JK27_Lee_Soo-Hwan.pdf). Proceedings of JK 27.
-- 2020 \| [Prosody and EPP in Swahili](http://www.google.com/url?q=http%3A%2F%2Fwww.journals.linguisticsociety.org%2Fproceedings%2Findex.php%2Famphonology%2Farticle%2Fview%2F4658&sa=D&sntz=1&usg=AOvVaw2Q2JfSuFMS41AQlCiG8gIc). Proceedings of AMP 2019.
-- 2019 \| [Nominal mismatches in Swahili locatives](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/4473). Proceedings of LSA 2019. (with Doo-Won Lee)
-- 2018 \| [Suppletion in serial verb constructions](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002383221). Studies in Generative Grammar 28(3).
-- 2018 \| [Suppletive allomorphy conditioned by humbleness in Korean](http://linguistics.berkeley.edu/bls/previous_proceedings/BLS44_proceedings.pdf). Proceedings of BLS 44. (with Minjung Kim)
+- To appear \| [Korean case stacking and the nominal template](https://yiningnie.github.io/files/Lee-Nie-2021-PLC.pdf). _Proceedings of PLC 45_. (with Yining Nie)
+- 2020 \| [Speech act phrases in Korean nominal structures](http://web.stanford.edu/group/cslipublications/cslipublications/ja-ko-contents/JK27/JK27_Lee_Soo-Hwan.pdf). _Proceedings of JK 27_.
+- 2020 \| [Prosody and EPP in Swahili](http://www.google.com/url?q=http%3A%2F%2Fwww.journals.linguisticsociety.org%2Fproceedings%2Findex.php%2Famphonology%2Farticle%2Fview%2F4658&sa=D&sntz=1&usg=AOvVaw2Q2JfSuFMS41AQlCiG8gIc). _Proceedings of AMP 2019_.
+- 2019 \| [Nominal mismatches in Swahili locatives](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/4473). _Proceedings of LSA 2019_. (with Doo-Won Lee)
+- 2018 \| [Suppletion in serial verb constructions](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002383221). _Studies in Generative Grammar_ 28(3).
+- 2018 \| [Suppletive allomorphy conditioned by humbleness in Korean](http://linguistics.berkeley.edu/bls/previous_proceedings/BLS44_proceedings.pdf). _Proceedings of BLS 44_. (with Minjung Kim)
 
 ### Computational linguistics
 
-- 2022 \| [Can language models capture syntactic associations without surface cues? A case study of reflexive anaphor licensing in English control constructions](https://scholarworks.umass.edu/scil/vol5/iss1/19/). Proceedings of SCiL 2022 (extended abstract). (with Sebastian Schuster)
-- 2021 \| [NOPE: A Corpus of Naturally-Occurring Presuppositions in English](https://aclanthology.org/2021.conll-1.28/). Proceedings of CoNLL 2021. (with *Alicia Parrish, *Sebastian Schuster, *Alex Warstadt, Omar Agha, Zhuoye Zhao, Samuel R. Bowman, and Tal Linzen) [* = equal contribution]
-- 2021 \| [Does Putting a Linguist in the Loop Improve NLU Data Collection?](https://aclanthology.org/2021.findings-emnlp.421/) Findings of EMNLP 2021. (with Alicia Parrish, Will Huang, Omar Agha, Nikita Nangia, Alex Warstadt, Karmanya Aggarwal, Emily Allaway, Tal Linzen, and Samuel R. Bowman)
+- 2022 \| [Can language models capture syntactic associations without surface cues? A case study of reflexive anaphor licensing in English control constructions](https://scholarworks.umass.edu/scil/vol5/iss1/19/). _Proceedings of SCiL 2022_ (extended abstract). (with Sebastian Schuster)
+- 2021 \| [NOPE: A Corpus of Naturally-Occurring Presuppositions in English](https://aclanthology.org/2021.conll-1.28/). _Proceedings of CoNLL 2021_. (with *Alicia Parrish, *Sebastian Schuster, *Alex Warstadt, Omar Agha, Zhuoye Zhao, Samuel R. Bowman, and Tal Linzen) [* = equal contribution]
+- 2021 \| [Does Putting a Linguist in the Loop Improve NLU Data Collection?](https://aclanthology.org/2021.findings-emnlp.421/) _Findings of EMNLP 2021_. (with Alicia Parrish, Will Huang, Omar Agha, Nikita Nangia, Alex Warstadt, Karmanya Aggarwal, Emily Allaway, Tal Linzen, and Samuel R. Bowman)
 
 ---
 
