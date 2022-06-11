@@ -11,7 +11,7 @@ redirect_from:
 
 Welcome! I am a third year Ph.D. student in the [Department of Linguistics](https://as.nyu.edu/linguistics/homepage.html) at NYU. I currently organize [NYU Syntax Brown Bag](https://sites.google.com/a/nyu.edu/nyusyntaxbrownbag/). My advisor is [Alec Marantz](https://wp.nyu.edu/morphlab/alec-marantz/).
 
-My primary research focuses on morphosyntax and argument structure. I am also interested in how pragmatic phenomena (e.g., discourse marking and presupposition) are represented in syntax. 
+My primary research focuses on morphosyntax and argument structure. I am also interested in how discourse markers and presuppositions are represented in syntax. 
 
 My secondary research focuses on evaluating artificial language models on tasks related to the linguisitic phenomena mentioned above.
 
@@ -21,7 +21,7 @@ My secondary research focuses on evaluating artificial language models on tasks 
 - Nominal structure
 - Discourse markers
 
-## Papers
+<!-- ## Papers
 
 ### Theoretical linguistics
 
@@ -38,7 +38,7 @@ My secondary research focuses on evaluating artificial language models on tasks 
 - 2021 \| NOPE: A Corpus of Naturally-Occurring Presuppositions in English. Proceedings of CoNLL 2021. (with +Alicia Parrish, +Sebastian Schuster, +Alex Warstadt, Omar Agha, Zhuoye Zhao, Samuel R. Bowman, and Tal Linzen) [+ = equal contribution]
 - 2021 \| Does Putting a Linguist in the Loop Improve NLU Data Collection? Findings of EMNLP 2021. (with Alicia Parrish, Will Huang, Omar Agha, Nikita Nangia, Alex Warstadt, Karmanya Aggarwal, Emily Allaway, Tal Linzen, and Samuel R. Bowman)
 
-## Presentations
+## Presentations -->
 
 
 ## Contact
