@@ -33,11 +33,3 @@ redirect_from:
 ## Affiliation
 
 - 2018–present \| Linguistic Society of America (LSA) 
-
-## Languages
-
-- Korean (native)
-- English (fluent)
-- Swahili (fieldwork)
-- Blackfoot (fieldwork)
-- Ewe (Tongugbe) (research)
