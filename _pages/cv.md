@@ -13,7 +13,7 @@ redirect_from:
 
 - 2019–present \| New York University (Ph.D.)
 - 2019 \| Sogang University (M.A.)
-- 2018 \| Sogang University (B.A.)  summa cum laude
+- 2018 \| Sogang University (B.A.)  _summa cum laude_
 
 ## Non-degree education            
 
