@@ -10,7 +10,7 @@ author_profile: true
 ### Theoretical linguistics
 
 - To appear \| [Korean case stacking and the nominal template](https://yiningnie.github.io/files/Lee-Nie-2021-PLC.pdf). _Proceedings of PLC 45_. (with Yining Nie)
-- 2020 \| [Speech act phrases in Korean nominal structures](http://web.stanford.edu/group/cslipublications/cslipublications/ja-ko-contents/JK27/JK27_Lee_Soo-Hwan.pdf). _Proceedings of JK 27_. [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:LJ-WjYQwYnAJ:scholar.google.com/&output=citation&scisdr=CgX42R3lEIHJ0zh1i94:AAGBfm0AAAAAYq1zk94WhzSk8BOZX8iZLaBtrbDA2tXw&scisig=AAGBfm0AAAAAYq1zk_g3DzvMw6vHWkzXJnD0uaRaPTc8&scisf=4&ct=citation&cd=-1&hl=ko)
+- 2020 \| [Speech act phrases in Korean nominal structures](http://web.stanford.edu/group/cslipublications/cslipublications/ja-ko-contents/JK27/JK27_Lee_Soo-Hwan.pdf). _Proceedings of JK 27_. [[Bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:LJ-WjYQwYnAJ:scholar.google.com/&output=citation&scisdr=CgX42R3lEIHJ0zh1i94:AAGBfm0AAAAAYq1zk94WhzSk8BOZX8iZLaBtrbDA2tXw&scisig=AAGBfm0AAAAAYq1zk_g3DzvMw6vHWkzXJnD0uaRaPTc8&scisf=4&ct=citation&cd=-1&hl=ko)
 - 2020 \| [Prosody and EPP in Swahili](http://www.google.com/url?q=http%3A%2F%2Fwww.journals.linguisticsociety.org%2Fproceedings%2Findex.php%2Famphonology%2Farticle%2Fview%2F4658&sa=D&sntz=1&usg=AOvVaw2Q2JfSuFMS41AQlCiG8gIc). _Proceedings of AMP 2019_.
 - 2019 \| [Nominal mismatches in Swahili locatives](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/4473). _Proceedings of LSA 2019_. (with Doo-Won Lee)
 - 2018 \| [Suppletion in serial verb constructions](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002383221). _Studies in Generative Grammar_ 28(3).
