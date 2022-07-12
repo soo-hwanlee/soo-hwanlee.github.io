@@ -10,8 +10,8 @@ author_profile: true
 ### Theoretical linguistics
 
 - To appear \| Korean case stacking and the nominal template. _Proceedings of PLC 45_. (with Yining Nie) [[paper](https://yiningnie.github.io/files/Lee-Nie-2021-PLC.pdf)]
-- 2020 \| [Speech act phrases in Korean nominal structures](http://web.stanford.edu/group/cslipublications/cslipublications/ja-ko-contents/JK27/JK27_Lee_Soo-Hwan.pdf). _Proceedings of JK 27_.
-- 2020 \| [Prosody and EPP in Swahili](http://journals.linguisticsociety.org/proceedings/index.php/amphonology/article/view/4658). _Proceedings of AMP 2019_.
+- 2020 \| [Speech act phrases in Korean nominal structures]. _Proceedings of JK 27_. [[paper](http://web.stanford.edu/group/cslipublications/cslipublications/ja-ko-contents/JK27/JK27_Lee_Soo-Hwan.pdf)]
+- 2020 \| [Prosody and EPP in Swahili]. _Proceedings of AMP 2019_. [[paper](http://journals.linguisticsociety.org/proceedings/index.php/amphonology/article/view/4658)]
 - 2019 \| [Nominal mismatches in Swahili locatives](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/4473). _Proceedings of LSA 2019_. (with Doo-Won Lee)
 - 2018 \| [Suppletion in serial verb constructions](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002383221). _Studies in Generative Grammar_ 28(3).
 - 2018 \| [Suppletive allomorphy conditioned by humbleness in Korean](http://linguistics.berkeley.edu/bls/previous_proceedings/BLS44_proceedings.pdf). _Proceedings of BLS 44_. (with Minjung Kim)
