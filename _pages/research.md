@@ -7,7 +7,7 @@ author_profile: true
 
 ## Papers
 
-### Theoretical linguistics
+### Theoretical
 
 - To appear \| Korean case stacking and the nominal template. _Proceedings of PLC 45_. (with Yining Nie) [[paper](https://yiningnie.github.io/files/Lee-Nie-2021-PLC.pdf)]
 - 2020 \| Speech act phrases in Korean nominal structures. _Proceedings of JK 27_. [[paper](http://web.stanford.edu/group/cslipublications/cslipublications/ja-ko-contents/JK27/JK27_Lee_Soo-Hwan.pdf)]
@@ -16,7 +16,7 @@ author_profile: true
 - 2018 \| Suppletion in serial verb constructions. _Studies in Generative Grammar_ 28(3). [[paper](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002383221)]
 - 2018 \| Suppletive allomorphy conditioned by humbleness in Korean. _Proceedings of BLS 44_. (with Minjung Kim) [[paper](http://linguistics.berkeley.edu/bls/previous_proceedings/BLS44_proceedings.pdf)]
 
-### Computational linguistics
+### Computational & experimental
 
 - 2022 \| Can language models capture syntactic associations without surface cues? A case study of reflexive anaphor licensing in English control constructions. _Proceedings of SCiL 2022_ (extended abstract). (with Sebastian Schuster) [[paper](https://scholarworks.umass.edu/scil/vol5/iss1/19/)]
 - 2021 \| NOPE: A Corpus of Naturally-Occurring Presuppositions in English. _Proceedings of CoNLL 2021_. (with +Alicia Parrish, +Sebastian Schuster, +Alex Warstadt, Omar Agha, Zhuoye Zhao, Samuel R. Bowman, and Tal Linzen) [+ = equal contribution]  [[paper](https://aclanthology.org/2021.conll-1.28/)]
@@ -26,7 +26,7 @@ author_profile: true
 
 ## Presentations
 
-### Theoretical linguistics
+### Theoretical
 
 - 2022 \| Introducing arguments in and out of the thematic domain: Evidence from Korean case markers. Yale Syntax Reading Group. [invited talk]
 - 2022 \| Negation in Ewe (Tongugbe) agent nominalization. [CLS 58](http://chicagolinguisticsociety.org/). (with Selikem Gotah) [talk]
@@ -41,7 +41,7 @@ author_profile: true
 - 2018 \| Suppletive allomorphy of pronouns conditioned by humbleness in Korean. [BLS 44](http://linguistics.berkeley.edu/bls/proceedings.html). (with Minjung Kim) [poster]
 - 2017 \| Suppletive passivization of mac- ‘to be hit’ in Korean. [BLS 43](http://linguistics.berkeley.edu/bls/proceedings.html). (with Minjung Kim) [poster]
 
-### Computational linguistics
+### Computational & experimental
 
 - 2022 \| Can language models capture syntactic associations without surface cues? A case study of reflexive anaphor licensing in English control constructions. [SCiL 2022](https://blogs.umass.edu/scil/schedule-for-scil-2022/). (with Sebastian Schuster) [talk]
 - 2021 \| NOPE: A Corpus of Naturally-Occurring Presuppositions in English. [CoNLL 2021](https://www.conll.org/2021). (with +Alicia Parrish, +Sebastian Schuster, +Alex Warstadt, Omar Agha, Zhuoye Zhao, Samuel R. Bowman, and Tal Linzen) [+ = equal contribution] [talk]
