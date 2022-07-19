@@ -11,9 +11,9 @@ redirect_from:
 
 Welcome! I am a fourth year Ph.D. student in the [Department of Linguistics](https://as.nyu.edu/linguistics/homepage.html) at NYU. My advisor is [Alec Marantz](https://wp.nyu.edu/morphlab/alec-marantz/).
 
-My primary research focuses on morphosyntax and argument structure. I am also interested in how discourse markers and presuppositions are represented in syntax. 
+My primary research focuses on morphosyntax and argument structure in particular. I am also interested in how discourse markers are represented in syntax. 
 
-My secondary research focuses on evaluating artificial language models on tasks related to the linguisitic phenomena mentioned above.
+My secondary research focuses on evaluating artificial language models on tasks related to the linguisitic phenomena.
 
 ## Research interests
 
