@@ -9,18 +9,18 @@ author_profile: true
 
 ### Theoretical
 
-- To appear \| Korean case stacking and the nominal template. _Proceedings of PLC 45_. (with Yining Nie) [[paper](https://yiningnie.github.io/files/Lee-Nie-2021-PLC.pdf)]
-- 2020 \| Speech act phrases in Korean nominal structures. _Proceedings of JK 27_. [[paper](http://web.stanford.edu/group/cslipublications/cslipublications/ja-ko-contents/JK27/JK27_Lee_Soo-Hwan.pdf)]
-- 2020 \| Prosody and EPP in Swahili. _Proceedings of AMP 2019_. [[paper](http://journals.linguisticsociety.org/proceedings/index.php/amphonology/article/view/4658)]
-- 2019 \| Nominal mismatches in Swahili locatives. _Proceedings of LSA 2019_. (with Doo-Won Lee) [[paper](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/4473)]
-- 2018 \| Suppletion in serial verb constructions. _Studies in Generative Grammar_ 28(3). [[paper](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002383221)]
-- 2018 \| Suppletive allomorphy conditioned by humbleness in Korean. _Proceedings of BLS 44_. (with Minjung Kim) [[paper](http://linguistics.berkeley.edu/bls/previous_proceedings/BLS44_proceedings.pdf)]
+- To appear \| Korean case stacking and the nominal template. _Proceedings of PLC 45_. (with Yining Nie) [[link](https://yiningnie.github.io/files/Lee-Nie-2021-PLC.pdf)]
+- 2020 \| Speech act phrases in Korean nominal structures. _Proceedings of JK 27_. [[link](http://web.stanford.edu/group/cslipublications/cslipublications/ja-ko-contents/JK27/JK27_Lee_Soo-Hwan.pdf)]
+- 2020 \| Prosody and EPP in Swahili. _Proceedings of AMP 2019_. [[link](http://journals.linguisticsociety.org/proceedings/index.php/amphonology/article/view/4658)]
+- 2019 \| Nominal mismatches in Swahili locatives. _Proceedings of LSA 2019_. (with Doo-Won Lee) [[link](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/4473)]
+- 2018 \| Suppletion in serial verb constructions. _Studies in Generative Grammar_ 28(3). [[link](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002383221)]
+- 2018 \| Suppletive allomorphy conditioned by humbleness in Korean. _Proceedings of BLS 44_. (with Minjung Kim) [[link](http://linguistics.berkeley.edu/bls/previous_proceedings/BLS44_proceedings.pdf)]
 
 ### Computational & experimental
 
-- 2022 \| Can language models capture syntactic associations without surface cues? A case study of reflexive anaphor licensing in English control constructions. _Proceedings of SCiL 2022_ (extended abstract). (with Sebastian Schuster) [[paper](https://scholarworks.umass.edu/scil/vol5/iss1/19/)]
-- 2021 \| NOPE: A Corpus of Naturally-Occurring Presuppositions in English. _Proceedings of CoNLL 2021_. (with +Alicia Parrish, +Sebastian Schuster, +Alex Warstadt, Omar Agha, Zhuoye Zhao, Samuel R. Bowman, and Tal Linzen) [+ = equal contribution]  [[paper](https://aclanthology.org/2021.conll-1.28/)]
-- 2021 \| Does Putting a Linguist in the Loop Improve NLU Data Collection? _Findings of EMNLP 2021_. (with Alicia Parrish, Will Huang, Omar Agha, Nikita Nangia, Alex Warstadt, Karmanya Aggarwal, Emily Allaway, Tal Linzen, and Samuel R. Bowman) [[paper](https://aclanthology.org/2021.findings-emnlp.421/)]
+- 2022 \| Can language models capture syntactic associations without surface cues? A case study of reflexive anaphor licensing in English control constructions. _Proceedings of SCiL 2022_ (extended abstract). (with Sebastian Schuster) [[link](https://scholarworks.umass.edu/scil/vol5/iss1/19/)]
+- 2021 \| NOPE: A Corpus of Naturally-Occurring Presuppositions in English. _Proceedings of CoNLL 2021_. (with +Alicia Parrish, +Sebastian Schuster, +Alex Warstadt, Omar Agha, Zhuoye Zhao, Samuel R. Bowman, and Tal Linzen) [+ = equal contribution]  [[link](https://aclanthology.org/2021.conll-1.28/)]
+- 2021 \| Does Putting a Linguist in the Loop Improve NLU Data Collection? _Findings of EMNLP 2021_. (with Alicia Parrish, Will Huang, Omar Agha, Nikita Nangia, Alex Warstadt, Karmanya Aggarwal, Emily Allaway, Tal Linzen, and Samuel R. Bowman) [[link](https://aclanthology.org/2021.findings-emnlp.421/)]
 
 ---
 
