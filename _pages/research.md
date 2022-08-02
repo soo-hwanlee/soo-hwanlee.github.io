@@ -43,7 +43,7 @@ author_profile: true
 
 ### Computational & experimental
 
-- Upcoming \| Considering all the stars visible… MEG correlates of English post-nominal modification. [SNL 2022](https://www.neurolang.org/). (with Nigel Flower and Liina Pylkkänen) [poster]
+- Upcoming \| Considering all the stars visible: MEG correlates of English post-nominal modification. [SNL 2022](https://www.neurolang.org/). (with Nigel Flower and Liina Pylkkänen) [poster]
 - 2022 \| Can language models capture syntactic associations without surface cues? A case study of reflexive anaphor licensing in English control constructions. [SCiL 2022](https://blogs.umass.edu/scil/schedule-for-scil-2022/). (with Sebastian Schuster) [talk]
 - 2021 \| NOPE: A Corpus of Naturally-Occurring Presuppositions in English. [CoNLL 2021](https://www.conll.org/2021). (with +Alicia Parrish, +Sebastian Schuster, +Alex Warstadt, Omar Agha, Zhuoye Zhao, Samuel R. Bowman, and Tal Linzen) [+ = equal contribution] [talk]
 - 2021 \| Does Putting a Linguist in the Loop Improve NLU Data Collection? [EMNLP 2021](https://2021.emnlp.org/). (with Alicia Parrish, Will Huang, Omar Agha, Nikita Nangia, Alex Warstadt, Karmanya Aggarwal, Emily Allaway, Tal Linzen, and Samuel R. Bowman) [talk]
