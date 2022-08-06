@@ -13,7 +13,7 @@ Welcome! I am a fourth year Ph.D. student in the [Department of Linguistics](htt
 
 My primary research focuses on morphosyntax and argument structure in particular. I am also interested in how discourse markers are represented in syntax. 
 
-My secondary research focuses on evaluating artificial language models (and humans) on tasks related to linguisitic phenomena.
+My secondary research focuses on evaluating artificial language models (and humans) on tasks related to linguistic phenomena such as subject \& object control, post-nominal modification, and presuppositions.
 
 ## Research interests
 
