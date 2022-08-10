@@ -27,6 +27,7 @@ You can view my CV [here](https://drive.google.com/file/d/179gAZeh3Whq_oIFBZT6fh
 
 ## Teaching
 
+- 2022 (Fall) \| Grammatical Analysis (Syntax) (TA for Stephanie Harves), NYU
 - 2022 (Spring) \| First Language Acquisition (TA for Ailís Cournane), NYU
 - 2021 (Spring) \| Language (Intro to Linguistics) (TA for Lucas Champollion), NYU
 
