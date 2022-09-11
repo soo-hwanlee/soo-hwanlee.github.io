@@ -28,7 +28,7 @@ author_profile: true
 
 ### Theoretical
 
-- Upcoming \| Introducing arguments in and out of the thematic domain: Evidence from Korean case markers. [MIT Syntax Square](https://linguistics.mit.edu/syntax-square/), [Yale Syntax Reading Group](https://ling.yale.edu/research/reading-groups). [invited talks]
+- Upcoming \| Introducing arguments in and out of the thematic domain: Evidence from Korean case markers. [Penn Syntax Lab](https://web.sas.upenn.edu/syntax-lab/), [MIT Syntax Square](https://linguistics.mit.edu/syntax-square/), [Yale Syntax Reading Group](https://ling.yale.edu/research/reading-groups). [invited talks]
 - 2022 \| Negation in Ewe (Tongugbe) agent nominalization. [CLS 58](http://chicagolinguisticsociety.org/). (with Selikem Gotah) [talk]
 - 2022 \| Linearly adjacent allomorphs and syntactic copies. [CLS 58](http://chicagolinguisticsociety.org/). [poster]
 - 2021 \| Korean case stacking and the nominal template. [PLC 45](https://www.ling.upenn.edu/Events/PLC/plc45/index.html). (with Yining Nie) [talk]
