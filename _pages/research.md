@@ -9,8 +9,8 @@ author_profile: true
 
 ### Theoretical
 
-- In progress \| Multiple allomorphs and syntactic copies. [[lingbuzz](https://ling.auf.net/lingbuzz/006794)]
-- In progress \| Negation in Ewe (Tongugbe) agent nominalization. (with Selikem Gotah) [[lingbuzz](https://ling.auf.net/lingbuzz/006823)]
+- Manuscript \| Multiple allomorphs and syntactic copies. [[lingbuzz](https://ling.auf.net/lingbuzz/006794)]
+- Manuscript \| Negation in Ewe (Tongugbe) agent nominalization. (with Selikem Gotah) [[lingbuzz](https://ling.auf.net/lingbuzz/006823)]
 - To appear \| Korean case stacking and the nominal template. _Proceedings of PLC 45_. (with Yining Nie) [[link](https://yiningnie.github.io/files/Lee-Nie-2021-PLC.pdf)]
 - 2020 \| Speech act phrases in Korean nominal structures. _Proceedings of JK 27_. [[link](http://web.stanford.edu/group/cslipublications/cslipublications/ja-ko-contents/JK27/JK27_Lee_Soo-Hwan.pdf)]
 - 2020 \| Prosody and EPP in Swahili. _Proceedings of AMP 2019_. [[link](http://journals.linguisticsociety.org/proceedings/index.php/amphonology/article/view/4658)]
