@@ -30,8 +30,8 @@ author_profile: true
 
 ### Theoretical
 
+- Upcoming \| Negation in Ewe (Tongugbe) agent nominalization. [NELS 53](https://nels53.uni-goettingen.de/). (with Selikem Gotah) [poster]
 - 2022 \| Introducing arguments in and out of the thematic domain: Evidence from Korean case markers. [Penn Syntax Lab](https://web.sas.upenn.edu/syntax-lab/), [MIT Syntax Square](http://whamit.mit.edu/2022/09/12/syntax-square-9-13-soo-hwan-lee-nyu/), [Yale Syntax Reading Group](https://ling.yale.edu/research/reading-groups). [invited talks]
-- 2022 \| Negation in Ewe (Tongugbe) agent nominalization. [CLS 58](http://chicagolinguisticsociety.org/). (with Selikem Gotah) [talk]
 - 2022 \| Linearly adjacent allomorphs and syntactic copies. [CLS 58](http://chicagolinguisticsociety.org/). [poster]
 - 2021 \| Korean case stacking and the nominal template. [PLC 45](https://www.ling.upenn.edu/Events/PLC/plc45/index.html). (with Yining Nie) [talk]
 - 2021 \| Expressives and non-repeatability in Korean. [LSA 2021](https://www.linguisticsociety.org/node/34814/schedule). [poster]
