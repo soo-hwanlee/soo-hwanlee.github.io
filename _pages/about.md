@@ -19,7 +19,7 @@ My secondary research focuses on evaluating artificial language models (and huma
 
 - Argument structure
 - Nominal structure
-- Case markers & discourse particles
+- Case & discourse particles
 
 <!-- ## Papers
 
