@@ -13,7 +13,7 @@ Welcome! I am a fourth year Ph.D. student in the [Department of Linguistics](htt
 
 My primary research focuses on morphosyntax and argument structure in particular. One of my ongoing projects focuses on the interaction between case markers and discourse particles in syntax. 
 
-My secondary research focuses on evaluating artificial language models (and humans) on tasks related to linguistic phenomena including, but not limited to, control and anaphor binding.
+My secondary research focuses on evaluating artificial language models (and human participants) on tasks related to linguistic phenomena including, but not limited to, control and anaphor binding.
 
 ## Research interests
 
