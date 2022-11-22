@@ -11,7 +11,7 @@ author_profile: true
 
 - Manuscript \| Multiple allomorphs and syntactic copies. [[lingbuzz](https://ling.auf.net/lingbuzz/006794)]
 - Manuscript \| Negation in Ewe (Tongugbe) agent nominalization. (with Selikem Gotah) [[lingbuzz](https://ling.auf.net/lingbuzz/006823)]
-- To appear \| Korean case stacking and the nominal template. _Proceedings of PLC 45_. (with Yining Nie) [[link](https://yiningnie.github.io/files/Lee-Nie-2021-PLC.pdf)]
+- 2022 \| Korean case stacking and the nominal template. _Proceedings of PLC 45_. (with Yining Nie) [[link](https://repository.upenn.edu/pwpl/vol28/iss1/11/)]
 - 2020 \| Speech act phrases in Korean nominal structures. _Proceedings of JK 27_. [[link](http://web.stanford.edu/group/cslipublications/cslipublications/ja-ko-contents/JK27/JK27_Lee_Soo-Hwan.pdf)]
 - 2020 \| Prosody and EPP in Swahili. _Proceedings of AMP 2019_. [[link](http://journals.linguisticsociety.org/proceedings/index.php/amphonology/article/view/4658)]
 - 2019 \| Nominal mismatches in Swahili locatives. _Proceedings of LSA 2019_. (with Doo-Won Lee) [[link](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/4473)]
@@ -31,7 +31,7 @@ author_profile: true
 ### Theoretical
 
 - Upcoming \| Negation in Ewe (Tongugbe) agent nominalization. [NELS 53](https://nels53.uni-goettingen.de/). (with Selikem Gotah) [poster]
-- 2022 \| Introducing arguments in and out of the thematic domain: Evidence from Korean case markers. [Penn Syntax Lab](https://web.sas.upenn.edu/syntax-lab/), [MIT Syntax Square](http://whamit.mit.edu/2022/09/12/syntax-square-9-13-soo-hwan-lee-nyu/), [Yale Syntax Reading Group](https://ling.yale.edu/research/reading-groups). [invited talks]. [JK 30 abstract](https://www.sfu.ca/content/dam/sfu/xsyn/jk30/abstracts/Lee.pdf)
+- 2022 \| Introducing arguments in and out of the thematic domain: Evidence from Korean case markers. [Penn Syntax Lab](https://web.sas.upenn.edu/syntax-lab/), [MIT Syntax Square](http://whamit.mit.edu/2022/09/12/syntax-square-9-13-soo-hwan-lee-nyu/), [Yale Syntax Reading Group](https://ling.yale.edu/research/reading-groups). [invited talks], [JK 30 abstract](https://www.sfu.ca/content/dam/sfu/xsyn/jk30/abstracts/Lee.pdf)
 - 2022 \| Linearly adjacent allomorphs and syntactic copies. [CLS 58](http://chicagolinguisticsociety.org/). [poster]
 - 2021 \| Korean case stacking and the nominal template. [PLC 45](https://www.ling.upenn.edu/Events/PLC/plc45/index.html). (with Yining Nie) [talk]
 - 2021 \| Expressives and non-repeatability in Korean. [LSA 2021](https://www.linguisticsociety.org/node/34814/schedule). [poster]
