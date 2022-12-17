@@ -17,7 +17,7 @@ author_profile: true
 - 2019 \| Nominal mismatches in Swahili locatives. _Proceedings of LSA 2019_. (with Doo-Won Lee) [[link](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/4473)]
 - 2018 \| Suppletion in serial verb constructions. _Studies in Generative Grammar_ 28(3). [[link](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002383221)]
 - 2018 \| Suppletive allomorphy conditioned by humbleness in Korean. _Proceedings of BLS 44_. (with Minjung Kim) [[link](http://linguistics.berkeley.edu/bls/previous_proceedings/BLS44_proceedings.pdf)]
-- 2017 | Suppletive passivization of _mac_ ‘to be hit’ in Korean. _Proceedings of BLS 43_. (with Minjung Kim) [[link](https://escholarship.org/uc/item/6s83k9xm)]
+- 2017 \| Suppletive passivization of _mac_ ‘to be hit’ in Korean. _Proceedings of BLS 43_. (with Minjung Kim) [[link](https://escholarship.org/uc/item/6s83k9xm)]
 
 ### Computational & experimental
 
