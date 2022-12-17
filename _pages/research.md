@@ -41,7 +41,7 @@ author_profile: true
 - 2019 \| Nominal mismatches in Swahili locatives. [LSA 2019](https://www.linguisticsociety.org/node/9647/schedule). (with Doo-Won Lee) [poster]
 - 2018 \| Case drop and idioms in Korean. [Psycholinguistics Round Table 2018](https://gradmypage.cufs.ac.kr/PublicRelationAction.do?cmd=filedown&dirname=bbs_path&brdcode=12&grpcode=1&filename=PsyRTprogram2018May19HanyangUniversity(FINAL).pdf). (with Michael Barrie) [talk]
 - 2018 \| Suppletive allomorphy of pronouns conditioned by humbleness in Korean. [BLS 44](http://linguistics.berkeley.edu/bls/proceedings.html). (with Minjung Kim) [poster]
-- 2017 \| Suppletive passivization of mac- ‘to be hit’ in Korean. [BLS 43](http://linguistics.berkeley.edu/bls/proceedings.html). (with Minjung Kim) [poster]
+- 2017 \| Suppletive passivization of _mac-_ ‘to be hit’ in Korean. [BLS 43](http://linguistics.berkeley.edu/bls/proceedings.html). (with Minjung Kim) [poster]
 
 ### Computational & experimental
 
