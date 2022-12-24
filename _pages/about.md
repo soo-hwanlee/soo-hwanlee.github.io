@@ -11,7 +11,7 @@ redirect_from:
 
 Welcome! I am a fourth year Ph.D. student in the [Department of Linguistics](https://as.nyu.edu/departments/linguistics/homepage.html) at NYU. My advisor is [Alec Marantz](https://wp.nyu.edu/morphlab/alec-marantz/).
 
-My primary research focuses on morphosyntax and argument structure in particular. One of my ongoing projects focuses on how arguments are syntactically represented in passives, causatives, and vocatives.
+My primary research focuses on morphosyntax and argument structure. One of my ongoing projects focuses on how arguments are syntactically represented in passives, causatives, and vocatives.
 
 My secondary research focuses on evaluating artificial language models (and human participants) on tasks related to linguistic phenomena including, but not limited to, control and anaphor binding.
 
