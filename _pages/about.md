@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a fourth year Ph.D. student in the [Department of Linguistics](https://as.nyu.edu/departments/linguistics/homepage.html) at NYU. My advisor is [Alec Marantz](https://wp.nyu.edu/morphlab/alec-marantz/).
+Welcome! I am a fourth year Ph.D. student in the [Department of Linguistics at NYU](https://as.nyu.edu/departments/linguistics/homepage.html). My advisor is [Alec Marantz](https://wp.nyu.edu/morphlab/alec-marantz/).
 
 My primary research focuses on morphosyntax and argument structure. One of my ongoing projects focuses on how arguments are syntactically represented in passives, causatives, and vocatives.
 
