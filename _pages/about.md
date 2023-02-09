@@ -13,7 +13,7 @@ Welcome! I am a fourth year Ph.D. student in the [Department of Linguistics at N
 
 My primary research focuses on morphosyntax and argument structure. One of my ongoing projects focuses on how arguments are syntactically represented in passives, causatives, and vocatives.
 
-My secondary research focuses on evaluating artificial language models (and human participants) on tasks related to linguistic phenomena including, but not limited to, control and anaphor binding.
+My secondary research focuses on evaluating artificial language models (and human participants) on tasks related to linguistic dependencies including, but not limited to, control and anaphor binding.
 
 ## Research interests
 
