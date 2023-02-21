@@ -31,7 +31,7 @@ author_profile: true
 
 ### Theoretical
 
-- 2023 \| Addressees as applied arguments in syntax. [S-Lab, University of Maryland](https://linguistics.umd.edu/resources-facilities/regular-meetings-talks) (Upcoming), [The Korean Generative Grammar Circle & Hansung University Workshop](http://www.kggc.org/subList/20000002693?pmode=detail&nttSeq=1000000208) [invited talks]
+- 2023 \| Addressees as applied arguments in syntax. [S-Lab at University of Maryland](https://linguistics.umd.edu/resources-facilities/regular-meetings-talks) (Upcoming), [The Korean Generative Grammar Circle & Hansung University Workshop](http://www.kggc.org/subList/20000002693?pmode=detail&nttSeq=1000000208) [invited talks]
 - 2023 \| Negation in Ewe (Tongugbe) agent nominalization. [NELS 53](https://nels53.uni-goettingen.de/). (with Selikem Gotah) [poster]
 - 2022 \| Introducing arguments in and out of the thematic domain: Evidence from Korean case markers. [Penn Syntax Lab](https://web.sas.upenn.edu/syntax-lab/), [MIT Syntax Square](http://whamit.mit.edu/2022/09/12/syntax-square-9-13-soo-hwan-lee-nyu/), [Yale Syntax Reading Group](https://ling.yale.edu/research/reading-groups). [invited talks], [JK 30 abstract](https://www.sfu.ca/content/dam/sfu/xsyn/jk30/abstracts/Lee.pdf)
 - 2022 \| Linearly adjacent allomorphs and syntactic copies. [CLS 58](http://chicagolinguisticsociety.org/). [poster]
