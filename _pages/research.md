@@ -26,6 +26,10 @@ author_profile: true
 - 2021 \| NOPE: A Corpus of Naturally-Occurring Presuppositions in English. _Proceedings of CoNLL 2021_. (with +Alicia Parrish, +Sebastian Schuster, +Alex Warstadt, Omar Agha, Zhuoye Zhao, Samuel R. Bowman, and Tal Linzen) [+ = equal contribution]  [[link](https://aclanthology.org/2021.conll-1.28/)]
 - 2021 \| Does Putting a Linguist in the Loop Improve NLU Data Collection? _Findings of EMNLP 2021_. (with Alicia Parrish, Will Huang, Omar Agha, Nikita Nangia, Alex Warstadt, Karmanya Aggarwal, Emily Allaway, Tal Linzen, and Samuel R. Bowman) [[link](https://aclanthology.org/2021.findings-emnlp.421/)]
 
+## Book chapters
+
+- To appear \| Korean case stacking and the nominal template. _Discourse Particles in Asian Languages_. [[link](https://www.routledge.com/Discourse-Particles-in-Asian-Languages/McCready-Nomoto/p/book/9781032547589)]
+
 ---
 
 ## Presentations
