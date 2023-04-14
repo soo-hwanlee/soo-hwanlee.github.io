@@ -22,6 +22,7 @@ author_profile: true
 
 ### Computational & experimental
 
+- To appear \| Do language models know how to be polite?. _Proceedings of SCiL 2023_ (extended abstract). (with Shaonan Wang)
 - 2022 \| Can language models capture syntactic associations without surface cues? A case study of reflexive anaphor licensing in English control constructions. _Proceedings of SCiL 2022_ (extended abstract). (with Sebastian Schuster) [[link](https://scholarworks.umass.edu/scil/vol5/iss1/19/)]
 - 2021 \| NOPE: A Corpus of Naturally-Occurring Presuppositions in English. _Proceedings of CoNLL 2021_. (with +Alicia Parrish, +Sebastian Schuster, +Alex Warstadt, Omar Agha, Zhuoye Zhao, Samuel R. Bowman, and Tal Linzen) [+ = equal contribution]  [[link](https://aclanthology.org/2021.conll-1.28/)]
 - 2021 \| Does Putting a Linguist in the Loop Improve NLU Data Collection? _Findings of EMNLP 2021_. (with Alicia Parrish, Will Huang, Omar Agha, Nikita Nangia, Alex Warstadt, Karmanya Aggarwal, Emily Allaway, Tal Linzen, and Samuel R. Bowman) [[link](https://aclanthology.org/2021.findings-emnlp.421/)]
@@ -52,6 +53,7 @@ author_profile: true
 
 ### Computational & experimental
 
+- Forthcoming \| Do language models know how to be polite?. [SCiL 2023](https://blogs.umass.edu/scil/scil-2023/). (with Shaonan Wang) [poster]
 - 2022 \| Considering all the stars visible: MEG correlates of English post-nominal modification. [SNL 2022](https://www.neurolang.org/). (with Nigel Flower and Liina Pylkkänen) [poster]
 - 2022 \| Can language models capture syntactic associations without surface cues? A case study of reflexive anaphor licensing in English control constructions. [SCiL 2022](https://blogs.umass.edu/scil/schedule-for-scil-2022/). (with Sebastian Schuster) [talk]
 - 2021 \| NOPE: A Corpus of Naturally-Occurring Presuppositions in English. [CoNLL 2021](https://www.conll.org/2021). (with +Alicia Parrish, +Sebastian Schuster, +Alex Warstadt, Omar Agha, Zhuoye Zhao, Samuel R. Bowman, and Tal Linzen) [+ = equal contribution] [talk]
