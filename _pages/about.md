@@ -20,7 +20,7 @@ My secondary research focuses on evaluating artificial language models (and huma
 - Argument structure
 - Nominal structure
 - Case & discourse markers
-- (Non-)syntactic dependencies
+- Syntactic dependencies
 
 <!-- ## Papers
 
