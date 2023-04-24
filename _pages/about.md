@@ -13,7 +13,7 @@ Welcome! I am a fourth year Ph.D. student in the [Department of Linguistics at N
 
 My primary research focuses on morphosyntax and argument structure. It is commonly assumed that argument structure is established inside the thematic domain (below TP). A question arises as to whether argument structure can be established outside the thematic domain (above TP). One of my ongoing projects focuses on how arguments are syntactically represented in the left periphery. Specifically, my analysis lends support to the claim that the discourse participants such as the 'addressee' is represented in syntax. Overall, it draws parallels between the thematic domain and the speech act domain, which have been considered to be two separate domains.
 
-My secondary research focuses on evaluating artificial language models (and human participants) on tasks related to linguistic dependencies including, but not limited to, control and anaphor binding. My research so far shows that purely data-driven language models do not fully emphasize these linguistic dependencies that humans are able to acquire naturally.
+My secondary research focuses on evaluating artificial language models (and human participants) on tasks related to linguistic dependencies including, but not limited to, control and anaphor binding. My research so far shows that purely data-driven language models do not fully emphasize these linguistic dependencies.
 
 ## Research interests
 
