@@ -11,7 +11,7 @@ author_profile: true
 
 - Under revision \| Addressees as applied arguments. [[lingbuzz](https://ling.auf.net/lingbuzz/007138)]
 - Under revision \| Negation in Ewe (Tongugbe) agent nominalization. (with Selikem Gotah) [[lingbuzz](https://ling.auf.net/lingbuzz/006823)]
-- Manuscript \| Multiple allomorphs and syntactic copies. [[lingbuzz](https://ling.auf.net/lingbuzz/006794)]
+- To appear \| Linearly adjacent allomorphs and syntactic copies. _Proceedings of CLS 58_.
 - 2022 \| Korean case stacking and the nominal template. _Proceedings of PLC 45_. (with Yining Nie) [[link](https://repository.upenn.edu/pwpl/vol28/iss1/11/)]
 - 2020 \| Speech act phrases in Korean nominal structures. _Proceedings of JK 27_. [[link](http://web.stanford.edu/group/cslipublications/cslipublications/ja-ko-contents/JK27/JK27_Lee_Soo-Hwan.pdf)]
 - 2020 \| Prosody and EPP in Swahili. _Proceedings of AMP 2019_. [[link](http://journals.linguisticsociety.org/proceedings/index.php/amphonology/article/view/4658)]
