@@ -19,10 +19,11 @@ author_profile: true
 - 2019 \| Nominal mismatches in Swahili locatives. _Proceedings of LSA 2019_. (with Doo-Won Lee) [[link](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/4473)]
 - 2018 \| Suppletion in serial verb constructions. _Studies in Generative Grammar_ 28(3). [[link](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002383221)]
 - 2018 \| Suppletive allomorphy conditioned by humbleness in Korean. _Proceedings of BLS 44_. (with Minjung Kim) [[link](http://linguistics.berkeley.edu/bls/previous_proceedings/BLS44_proceedings.pdf)]
-- 2017 \| Suppletive passivization of _mac_ ‘to be hit’ in Korean. _Proceedings of BLS 43_. (with Minjung Kim) [[link](https://escholarship.org/uc/item/6s83k9xm)]
+<!-- - 2017 \| Suppletive passivization of _mac_ ‘to be hit’ in Korean. _Proceedings of BLS 43_. (with Minjung Kim) [[link](https://escholarship.org/uc/item/6s83k9xm)] -->
 
 ### Computational & experimental
 
+- To appear \| Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models. _Transactions on Machine Learning Research_. (with 443 other authors)
 - To appear \| Do language models know how to be polite?. _Proceedings of SCiL 2023_ (extended abstract). (with Shaonan Wang)
 - 2022 \| Can language models capture syntactic associations without surface cues? A case study of reflexive anaphor licensing in English control constructions. _Proceedings of SCiL 2022_ (extended abstract). (with Sebastian Schuster) [[link](https://scholarworks.umass.edu/scil/vol5/iss1/19/)]
 - 2021 \| NOPE: A Corpus of Naturally-Occurring Presuppositions in English. _Proceedings of CoNLL 2021_. (with +Alicia Parrish, +Sebastian Schuster, +Alex Warstadt, Omar Agha, Zhuoye Zhao, Samuel R. Bowman, and Tal Linzen) [+ = equal contribution]  [[link](https://aclanthology.org/2021.conll-1.28/)]
@@ -50,7 +51,7 @@ author_profile: true
 - 2019 \| Nominal mismatches in Swahili locatives. [LSA 2019](https://www.linguisticsociety.org/node/9647/schedule). (with Doo-Won Lee) [poster]
 - 2018 \| Case drop and idioms in Korean. [Psycholinguistics Round Table 2018](https://gradmypage.cufs.ac.kr/PublicRelationAction.do?cmd=filedown&dirname=bbs_path&brdcode=12&grpcode=1&filename=PsyRTprogram2018May19HanyangUniversity(FINAL).pdf). (with Michael Barrie) [talk]
 - 2018 \| Suppletive allomorphy of pronouns conditioned by humbleness in Korean. [BLS 44](http://linguistics.berkeley.edu/bls/proceedings.html). (with Minjung Kim) [poster]
-- 2017 \| Suppletive passivization of _mac_ ‘to be hit’ in Korean. [BLS 43](http://linguistics.berkeley.edu/bls/proceedings.html). (with Minjung Kim) [poster]
+<!-- - 2017 \| Suppletive passivization of _mac_ ‘to be hit’ in Korean. [BLS 43](http://linguistics.berkeley.edu/bls/proceedings.html). (with Minjung Kim) [poster] -->
 
 ### Computational & experimental
 
