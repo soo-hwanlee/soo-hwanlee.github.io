@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a fourth year Ph.D. student in the [Department of Linguistics at NYU](https://as.nyu.edu/departments/linguistics/homepage.html). My advisor is [Alec Marantz](https://wp.nyu.edu/morphlab/alec-marantz/).
+Welcome! I am a fourth year Ph.D. candidate in the [Department of Linguistics at NYU](https://as.nyu.edu/departments/linguistics/homepage.html). My advisor is [Alec Marantz](https://wp.nyu.edu/morphlab/alec-marantz/).
 
 My primary research focuses on morphosyntax and argument structure. One of my ongoing projects focuses on how arguments are syntactically represented in the left periphery. Specifically, my analysis lends support to the claim that the discourse participants such as the 'addressee' is represented as an argument in syntax. Overall, it draws parallels between the thematic domain and the speech act domain, which have been considered to be two separate domains.
 
