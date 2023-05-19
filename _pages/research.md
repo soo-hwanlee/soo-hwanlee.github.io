@@ -39,7 +39,7 @@ author_profile: true
 
 ### Theoretical
 
-- Upcoming \| A in A' domain. [Implicational Hierarchies in Clausal Complementation](https://ich.univie.ac.at/). [invited talk]
+<!-- - Upcoming \| A in A' domain. [Implicational Hierarchies in Clausal Complementation](https://ich.univie.ac.at/). [invited talk] -->
 - 2023 \| Addressees as applied arguments. [S-Lab at University of Maryland](https://linguistics.umd.edu/events/s-lab-soo-hwan-lee-nyu/addressees-applied-arguments-syntax), [The Korean Generative Grammar Circle & Hansung University Workshop](http://www.kggc.org/subList/20000002693?pmode=detail&nttSeq=1000000208). [invited talks]
 - 2023 \| Negation in Ewe (Tongugbe) agent nominalization. [NELS 53](https://nels53.uni-goettingen.de/). (with Selikem Gotah) [poster]
 - 2022 \| Introducing arguments in and out of the thematic domain: Evidence from Korean case markers. [Penn Syntax Lab](https://web.sas.upenn.edu/syntax-lab/), [MIT Syntax Square](http://whamit.mit.edu/2022/09/12/syntax-square-9-13-soo-hwan-lee-nyu/), [Yale Syntax Reading Group](https://ling.yale.edu/research/reading-groups). [invited talks]
@@ -56,7 +56,7 @@ author_profile: true
 
 ### Computational & experimental
 
-- Forthcoming \| Do language models know how to be polite?. [SCiL 2023](https://blogs.umass.edu/scil/scil-2023/). (with Shaonan Wang) [poster]
+- Upcoming \| Do language models know how to be polite?. [SCiL 2023](https://blogs.umass.edu/scil/scil-2023/). (with Shaonan Wang) [poster]
 - 2022 \| Considering all the stars visible: MEG correlates of English post-nominal modification. [SNL 2022](https://www.neurolang.org/). (with Nigel Flower and Liina Pylkkänen) [poster]
 - 2022 \| Can language models capture syntactic associations without surface cues? A case study of reflexive anaphor licensing in English control constructions. [SCiL 2022](https://blogs.umass.edu/scil/schedule-for-scil-2022/). (with Sebastian Schuster) [talk]
 - 2021 \| NOPE: A Corpus of Naturally-Occurring Presuppositions in English. [CoNLL 2021](https://www.conll.org/2021). (with +Alicia Parrish, +Sebastian Schuster, +Alex Warstadt, Omar Agha, Zhuoye Zhao, Samuel R. Bowman, and Tal Linzen) [+ = equal contribution] [talk]
