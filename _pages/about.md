@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a fifth year Ph.D. student in the [Department of Linguistics at NYU](https://as.nyu.edu/departments/linguistics/homepage.html). My advisor is [Alec Marantz](https://wp.nyu.edu/morphlab/alec-marantz/).
+Welcome! I am a fifth year PhD student in the [Department of Linguistics at NYU](https://as.nyu.edu/departments/linguistics/homepage.html). My advisor is [Alec Marantz](https://wp.nyu.edu/morphlab/alec-marantz/).
 
 My primary research focuses on morphosyntax and argument structure. One of my ongoing projects focuses on how nominal arguments are syntactically represented in the left periphery. Specifically, my analysis lends support to the claim that A-properties can be observed outside TP. My analysis also draws parallels between the thematic domain and the speech act domain, which have been considered to be two separate domains.
 
