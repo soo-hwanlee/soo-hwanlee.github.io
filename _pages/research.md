@@ -56,7 +56,7 @@ author_profile: true
 
 ### Computational & experimental
 
-- Upcoming \| Do language models know how to be polite?. [SCiL 2023](https://blogs.umass.edu/scil/scil-2023/). (with Shaonan Wang) [poster]
+- 2023 \| Do language models know how to be polite?. [SCiL 2023](https://blogs.umass.edu/scil/scil-2023/). (with Shaonan Wang) [poster]
 - 2022 \| Considering all the stars visible: MEG correlates of English post-nominal modification. [SNL 2022](https://www.neurolang.org/). (with Nigel Flower and Liina Pylkkänen) [poster]
 - 2022 \| Can language models capture syntactic associations without surface cues? A case study of reflexive anaphor licensing in English control constructions. [SCiL 2022](https://blogs.umass.edu/scil/schedule-for-scil-2022/). (with Sebastian Schuster) [talk]
 - 2021 \| NOPE: A Corpus of Naturally-Occurring Presuppositions in English. [CoNLL 2021](https://www.conll.org/2021). (with +Alicia Parrish, +Sebastian Schuster, +Alex Warstadt, Omar Agha, Zhuoye Zhao, Samuel R. Bowman, and Tal Linzen) [+ = equal contribution] [talk]
