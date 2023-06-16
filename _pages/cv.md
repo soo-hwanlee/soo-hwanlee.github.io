@@ -17,7 +17,7 @@ You can view my CV [here](https://drive.google.com/file/d/15D1FlYEauwxWHC2-YGRsA
 
 ## Non-degree education            
 
-- 2018 \| Linguistic Society of Korea (LSK) Linguistic School, Seoul National University
+- 2018 \| Linguistic Society of Korea (LSK) Linguistic School
 
 ## Fellowships & scholarships 
 
