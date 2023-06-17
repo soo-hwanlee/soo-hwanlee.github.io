@@ -13,7 +13,7 @@ Welcome! I am a fifth year PhD student in the [Department of Linguistics at NYU]
 
 My primary research focuses on morphosyntax and argument structure. One of my ongoing projects focuses on how nominal arguments are syntactically represented in the left periphery. Specifically, my analysis lends support to the claim that A-properties can be observed outside TP. My analysis also draws parallels between the thematic domain and the speech act domain, which have been considered to be two separate domains.
 
-My secondary research focuses on evaluating artificial language models (and human participants) on tasks related to linguistic dependencies including, but not limited to, control and anaphor binding. My research so far shows that purely data-driven language models do not fully recognize these linguistic dependencies.
+My secondary research focuses on evaluating artificial language models (and human participants) on tasks related to linguistic dependencies including, but not limited to, control and anaphor binding. My research so far shows that purely data-driven large language models do not fully recognize these linguistic dependencies.
 
 ## Research interests
 
