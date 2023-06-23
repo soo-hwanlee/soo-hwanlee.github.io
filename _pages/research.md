@@ -31,7 +31,7 @@ author_profile: true
 
 ## Book chapters
 
-- To appear \| Formality weakening and the underspecified expressive _yo_ in Korean. In Elin McCready and Hiroki Nomoto, editors. _Discourse Particles in Asian Languages_. Routledge. [[link](https://www.routledge.com/Discourse-Particles-in-Asian-Languages/McCready-Nomoto/p/book/9781032547589)]
+- To appear \| Formality weakening and the underspecified expressive _yo_ in Korean. In Elin McCready and Hiroki Nomoto, editors. _Discourse Particles in Asian Languages_. Routledge. [[link](https://www.taylorfrancis.com/chapters/edit/10.4324/9781351057837-8/formality-weakening-underspecified-expressive-yo-korean-soo-hwan-lee)]
 
 ---
 
