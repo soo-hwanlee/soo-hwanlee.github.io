@@ -9,8 +9,8 @@ author_profile: true
 
 ### Theoretical
 
+- Accepted with minor revisions \| Negation in Ewe (Tongugbe) agent nominalization. _Syntax_. (with Selikem Gotah) [[lingbuzz](https://ling.auf.net/lingbuzz/006823)]
 - Under revision \| A in A'-domain: Addressees as applied arguments. [[lingbuzz](https://ling.auf.net/lingbuzz/007138)]
-- Under revision \| Negation in Ewe (Tongugbe) agent nominalization. (with Selikem Gotah) [[lingbuzz](https://ling.auf.net/lingbuzz/006823)]
 - Manuscript \| Multiple allomorphs and syntactic copies. [[lingbuzz](https://ling.auf.net/lingbuzz/006794)]
 - 2023 \| Introducing arguments beyond the thematic domain. _Proceedings of LSA 2023_. [[link](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/5463)]
 - 2022 \| Korean case stacking and the nominal template. _Proceedings of PLC 45_. (with Yining Nie) [[link](https://repository.upenn.edu/pwpl/vol28/iss1/11/)]
