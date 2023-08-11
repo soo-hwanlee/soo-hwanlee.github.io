@@ -13,7 +13,7 @@ You can view my CV [here](https://drive.google.com/file/d/1QYtnxqd84wo7HxAqGjDQ4
 
 - 2019–present \| New York University (Ph.D.)
 - 2019 \| Sogang University (M.A.)
-- 2018 \| Sogang University (B.A.)  _summa cum laude_
+- 2018 \| Sogang University (B.A.)
 
 ## Non-degree education            
 
