@@ -11,9 +11,9 @@ redirect_from:
 
 Welcome! I am a 5th year PhD candidate in the [Department of Linguistics at NYU](https://as.nyu.edu/departments/linguistics/homepage.html). My advisor is [Alec Marantz](https://wp.nyu.edu/morphlab/alec-marantz/).
 
-My primary research focuses on syntax and argument structure in particular. One of my ongoing projects focuses on how nominal arguments are syntactically represented (in the left periphery). My analysis lends support to the claim that A-properties can be observed outside TP. My analysis also draws parallels between the thematic domain and the speech act domain, which have been considered to be two separate domains.
+My research focuses on syntax and argument structure in particular. One of my ongoing projects focuses on how nominal arguments are syntactically represented (in the left periphery). My analysis lends support to the claim that A-properties can be observed outside TP. My analysis also draws parallels between the thematic domain and the speech act domain, which have been considered to be two separate domains.
 
-My secondary research focuses on evaluating artificial language models (and human participants) on tasks related to linguistic dependencies including, but not limited to, control and anaphor binding. My research so far suggests that purely data-driven large language models do not fully recognize these linguistic dependencies.
+My research also focuses on evaluating artificial language models (and human participants) on tasks related to linguistic dependencies including, but not limited to, control and anaphor binding. My research so far suggests that purely data-driven large language models do not fully recognize these linguistic dependencies.
 
 ## Research interests
 
