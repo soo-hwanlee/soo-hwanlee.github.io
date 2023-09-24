@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a 5th year PhD candidate in the [Department of Linguistics at NYU](https://as.nyu.edu/departments/linguistics/homepage.html). My advisor is [Alec Marantz](https://wp.nyu.edu/morphlab/alec-marantz/).
+Welcome! I am a PhD candidate in the [Department of Linguistics at NYU](https://as.nyu.edu/departments/linguistics/homepage.html). My advisor is [Alec Marantz](https://wp.nyu.edu/morphlab/alec-marantz/).
 
 My research focuses on syntax and argument structure. One of my ongoing projects focuses on how nominal arguments are syntactically and semantically represented (in the left periphery). My analysis lends support to the claim that A-properties can be observed outside TP. In another project, I argue that argument structure can be established inside subject nominalization.
 
