@@ -22,7 +22,7 @@ You can view my CV [here](https://drive.google.com/file/d/1FsxJxLnRUxvbUct4VnDdh
 ## Fellowships & scholarships 
 
 - 2019–2024 \| Henry M. MacCracken Fellowship, New York University
-- 2019 \| Dean's Student Travel Grant Award, New York University
+<!-- - 2019 \| Dean's Student Travel Grant Award, New York University -->
 - 2018 \| Linguistic Society of Korea (LSK) Scholarship
 
 ## Teaching
