@@ -19,8 +19,8 @@ author_profile: true
 - 2018 \| Suppletion in serial verb constructions. _Studies in Generative Grammar_ 28(3). [[link](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002383221)]
 - 2018 \| Suppletive allomorphy conditioned by humbleness in Korean. _Proceedings of BLS 44_. (with Minjung Kim) [[link](http://linguistics.berkeley.edu/bls/previous_proceedings/BLS44_proceedings.pdf)]
 <!-- - 2017 \| Suppletive passivization of _mac_ ‘to be hit’ in Korean. _Proceedings of BLS 43_. (with Minjung Kim) [[link](https://escholarship.org/uc/item/6s83k9xm)] -->
-- Under revision \| A in A'-domain: Addressees as applied arguments. [[lingbuzz](https://ling.auf.net/lingbuzz/007138)]
-- Under revision \| Korean case stacking: Case, discourse and the nominal
+- Submitted \| A in A'-domain: Addressees as applied arguments. [[lingbuzz](https://ling.auf.net/lingbuzz/007138)]
+- Submitted \| Korean case stacking: Case, discourse and the nominal
 template. [[link](https://drive.google.com/file/d/1jT8qD-f3xJ6oE4ViEq2qJ2NMD9rKN3od/view)]
 
 ### Computational & experimental
