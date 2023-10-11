@@ -10,6 +10,8 @@ author_profile: true
 ### Theoretical
 
 - Under revision \| A in A'-domain: Addressees as applied arguments. [[lingbuzz](https://ling.auf.net/lingbuzz/007138)]
+- Under revision \| Korean case stacking: Case, discourse and the nominal
+template. [[link](https://drive.google.com/file/d/1jT8qD-f3xJ6oE4ViEq2qJ2NMD9rKN3od/view)]
 - Accepted \| Syntactic negation in Ewe (Tongugbe) agent nominalization. _Syntax_. (with Selikem Gotah) [[link](https://drive.google.com/file/d/1DEtxisADXYv6KKAtcR_CzS7Z5NhS-wSF/view?usp=drive_link)]
 - To appear \| Linearly adjacent allomorphs and syntactic copies. _Proceedings of CLS 58_. [[link](https://drive.google.com/file/d/1d3dcfSZVnCHE1Jb4LtTeYaAvJ7m0JfN3/view?usp=drive_link)]
 - 2023 \| Introducing arguments beyond the thematic domain. _Proceedings of LSA 2023_. [[link](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/5463)]
