@@ -9,9 +9,6 @@ author_profile: true
 
 ### Theoretical
 
-- Under revision \| A in A'-domain: Addressees as applied arguments. [[lingbuzz](https://ling.auf.net/lingbuzz/007138)]
-- Under revision \| Korean case stacking: Case, discourse and the nominal
-template. [[link](https://drive.google.com/file/d/1jT8qD-f3xJ6oE4ViEq2qJ2NMD9rKN3od/view)]
 - Accepted \| Syntactic negation in Ewe (Tongugbe) agent nominalization. _Syntax_. (with Selikem Gotah) [[link](https://drive.google.com/file/d/1DEtxisADXYv6KKAtcR_CzS7Z5NhS-wSF/view?usp=drive_link)]
 - To appear \| Linearly adjacent allomorphs and syntactic copies. _Proceedings of CLS 58_. [[link](https://drive.google.com/file/d/1d3dcfSZVnCHE1Jb4LtTeYaAvJ7m0JfN3/view?usp=drive_link)]
 - 2023 \| Introducing arguments beyond the thematic domain. _Proceedings of LSA 2023_. [[link](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/5463)]
@@ -22,6 +19,9 @@ template. [[link](https://drive.google.com/file/d/1jT8qD-f3xJ6oE4ViEq2qJ2NMD9rKN
 - 2018 \| Suppletion in serial verb constructions. _Studies in Generative Grammar_ 28(3). [[link](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002383221)]
 - 2018 \| Suppletive allomorphy conditioned by humbleness in Korean. _Proceedings of BLS 44_. (with Minjung Kim) [[link](http://linguistics.berkeley.edu/bls/previous_proceedings/BLS44_proceedings.pdf)]
 <!-- - 2017 \| Suppletive passivization of _mac_ ‘to be hit’ in Korean. _Proceedings of BLS 43_. (with Minjung Kim) [[link](https://escholarship.org/uc/item/6s83k9xm)] -->
+- Under revision \| A in A'-domain: Addressees as applied arguments. [[lingbuzz](https://ling.auf.net/lingbuzz/007138)]
+- Under revision \| Korean case stacking: Case, discourse and the nominal
+template. [[link](https://drive.google.com/file/d/1jT8qD-f3xJ6oE4ViEq2qJ2NMD9rKN3od/view)]
 
 ### Computational & experimental
 
