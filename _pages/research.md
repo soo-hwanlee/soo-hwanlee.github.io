@@ -47,6 +47,7 @@ template. [[link](https://drive.google.com/file/d/1jT8qD-f3xJ6oE4ViEq2qJ2NMD9rKN
 
 ### Theoretical
 
+- 2023 \| Two types of honorifics in syntax. [BCGL 16](https://www.crissp.be/bcgl-16-the-morphosyntax-of-speaker-and-hearer/program/). [talk]
 - 2023 \| Negation in Ewe (Tongugbe) agent nominalization. [NELS 53](https://nels53.uni-goettingen.de/). (with Selikem Gotah) [poster]
 - 2022 \| Linearly adjacent allomorphs and syntactic copies. [CLS 58](http://chicagolinguisticsociety.org/). [poster]
 - 2021 \| Korean case stacking and the nominal template. [PLC 45](https://www.ling.upenn.edu/Events/PLC/plc45/index.html). (with Yining Nie) [talk]
