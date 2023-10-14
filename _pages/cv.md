@@ -9,7 +9,7 @@ redirect_from:
 
 You can view my CV [here](https://drive.google.com/file/d/12XoLKXxWdkC8eNd3Ac1_QE3oGuhzzPUo/view?usp=drive_link) (last updated October 8, 2023).
 
-## Education
+<!-- ## Education
 
 - 2019–present \| New York University (Ph.D.)
 - 2019 \| Sogang University (M.A.)
@@ -22,8 +22,8 @@ You can view my CV [here](https://drive.google.com/file/d/12XoLKXxWdkC8eNd3Ac1_Q
 ## Fellowships & scholarships 
 
 - 2019–2024 \| Henry M. MacCracken Fellowship, New York University
+- 2019 \| Dean's Student Travel Grant Award, New York University
 - 2018 \| Linguistic Society of Korea (LSK) Scholarship
-<!-- - 2019 \| Dean's Student Travel Grant Award, New York University -->
 
 ## Teaching
 
@@ -33,4 +33,4 @@ You can view my CV [here](https://drive.google.com/file/d/12XoLKXxWdkC8eNd3Ac1_Q
 
 ## Affiliation
 
-- 2018–present \| Linguistic Society of America (LSA) 
+- 2018–present \| Linguistic Society of America (LSA) -->
