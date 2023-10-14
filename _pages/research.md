@@ -47,7 +47,7 @@ template. [[link](https://drive.google.com/file/d/1jT8qD-f3xJ6oE4ViEq2qJ2NMD9rKN
 
 ### Theoretical
 
-- Upcoming \| Tense-associated nominalization in Oshiwambo. [LSA 2024](https://virtual.oxfordabstracts.com/#/event/public/4438/information?page=1813). [talk]
+- Upcoming \| Tense-associated nominalization in Oshiwambo. [LSA 2024](https://virtual.oxfordabstracts.com/#/event/public/4438/information?page=1813). (with Olivia Ndapo) [talk]
 - Upcoming \| Agent nominalization without _of_-insertion in Setswana. [LSA 2024](https://virtual.oxfordabstracts.com/#/event/public/4438/information?page=1813). [poster]
 - 2023 \| Two types of honorifics in syntax. [BCGL 16](https://www.crissp.be/bcgl-16-the-morphosyntax-of-speaker-and-hearer/program/). [talk]
 - 2023 \| Negation in Ewe (Tongugbe) agent nominalization. [NELS 53](https://nels53.uni-goettingen.de/). (with Selikem Gotah) [poster]
