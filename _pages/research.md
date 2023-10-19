@@ -22,7 +22,7 @@ author_profile: true
 - Submitted \| A in A'-domain: Addressees as applied arguments. [[link](https://drive.google.com/file/d/1oo9WH7YRkgCWDZWInF3Uh6PPD25A-oSe/view?usp=drive_link)]
 - Submitted \| Korean case stacking: Case, discourse and the nominal
 template. [[link](https://drive.google.com/file/d/1jT8qD-f3xJ6oE4ViEq2qJ2NMD9rKN3od/view)]
-- In progress \| Dissertation chapters 1--3. [[link](https://drive.google.com/file/d/15bUuhrMwZkvT2ZWwecwtCbNms6zORZuR/view?usp=share_link)]
+- In progress \| Dissertation chapters 1—3. [[link](https://drive.google.com/file/d/15bUuhrMwZkvT2ZWwecwtCbNms6zORZuR/view?usp=share_link)]
 
 ### Computational & experimental
 
