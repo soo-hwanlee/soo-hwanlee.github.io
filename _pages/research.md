@@ -22,7 +22,7 @@ author_profile: true
 <!-- - 2017 \| Suppletive passivization of _mac_ ‘to be hit’ in Korean. _Proceedings of BLS 43_. (with Minjung Kim) [[link](https://escholarship.org/uc/item/6s83k9xm)] -->
 - Submitted \| A in A'-domain: Addressees as applied arguments. [[link](https://drive.google.com/file/d/1oo9WH7YRkgCWDZWInF3Uh6PPD25A-oSe/view?usp=drive_link)]
 - Submitted \| Korean case stacking: Case, discourse and the nominal
-template. (with Yining Nie) [[link](https://drive.google.com/file/d/1jT8qD-f3xJ6oE4ViEq2qJ2NMD9rKN3od/view)]
+template. (with Yining Nie) [[link](https://drive.google.com/file/d/1S__lZblmE0ma9xcOKhPRWZrqoG13cj1F/view?usp=drive_link)]
 - In progress \| Dissertation chapters 1-3. [[link](https://drive.google.com/file/d/15bUuhrMwZkvT2ZWwecwtCbNms6zORZuR/view?usp=share_link)]
 
 ### Computational & experimental
