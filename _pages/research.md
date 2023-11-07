@@ -35,7 +35,7 @@ template. (with Yining Nie) [[link](https://drive.google.com/file/d/1S__lZblmE0m
 
 ## Book chapters
 
-- 2023 \| Formality weakening and the underspecified expressive _yo_ in Korean. In Elin McCready and Hiroki Nomoto, editors. _Discourse Particles in Asian Languages_. Routledge. [[link](https://www.taylorfrancis.com/chapters/edit/10.4324/9781351057837-8/formality-weakening-underspecified-expressive-yo-korean-soo-hwan-lee)]
+- 2023 \| Formality weakening and the underspecified expressive _yo_ in Korean. In Elin McCready and Hiroki Nomoto, editors. _Discourse Particles in Asian Languages_. Routledge. [[link](https://www.taylorfrancis.com/chapters/edit/10.4324/9781351057837-8/formality-weakening-underspecified-expressive-yo-korean-soo-hwan-lee)], [[preprint](https://drive.google.com/file/d/1HHpJpLLq1ACZt-wj2p_psUYbMETVjZ3v/view?usp=drive_link)]]
 
 ---
 
