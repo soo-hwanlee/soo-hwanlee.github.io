@@ -15,7 +15,7 @@ My research primarily focuses on syntax and morphology. One of my ongoing projec
 
 <!-- My analysis also draws parallels between the thematic domain and the speech act domain, which have been considered to be two separate domains. -->
 
-My research also focuses on evaluating artificial language models (and human participants) on tasks related to linguistic dependencies including, but not limited to, control, anaphor binding, and politeness. My research so far suggests that purely data-driven large language models do not fully recognize these linguistic dependencies. I value research on low-resource languages.
+My research also focuses on evaluating artificial language models (and human participants) on tasks related to linguistic dependencies including, but not limited to, control, anaphor binding, and politeness. My research so far suggests that purely data-driven large language models do not fully recognize these linguistic dependencies.
 
 ## Research interests
 
