@@ -11,11 +11,11 @@ redirect_from:
 
 Welcome! I am a PhD candidate in the [Department of Linguistics at NYU](https://as.nyu.edu/departments/linguistics/homepage.html). My advisor is [Alec Marantz](https://wp.nyu.edu/morphlab/alec-marantz/).
 
-My research primarily focuses on syntax and morphology. One of my ongoing projects focuses on how nominal arguments are syntactically and semantically represented. I also examine whether argument structure can be established in (agent/subject) nominalizations.
+My research primarily focuses on syntax and morphology. One of my ongoing projects focuses on how nominal arguments are represented in syntax. I also examine the syntactic size of derived and non-derived nominals by drawing evidence from understudied languages.
 
 <!-- My analysis also draws parallels between the thematic domain and the speech act domain, which have been considered to be two separate domains. -->
 
-My research also focuses on evaluating artificial language models (and human participants) on tasks related to linguistic dependencies including, but not limited to, control, anaphor binding, and politeness. My research so far suggests that purely data-driven large language models do not fully recognize these linguistic dependencies.
+My research also focuses on evaluating artificial language models (and human participants) on tasks related to linguistic dependencies including, but not limited to, control, anaphor binding, and politeness. My research so far suggests that purely data-driven large language models do not fully recognize these linguistic dependencies. I value research on low-resource languages.
 
 ## Research interests
 
