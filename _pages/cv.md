@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-You can view my CV [here](https://drive.google.com/file/d/1ZEdmCd9hoiM4dDsAGrLMaJXGHJh5F2Wc/view?usp=drive_link) (last updated December 20, 2023).
+You can view my CV [here](https://drive.google.com/file/d/1UdUxumy2qav-8nyeLHXuumFKIFWjCDo5/view?usp=drive_link) (last updated February 2024).
 
 <!-- ## Education
 
