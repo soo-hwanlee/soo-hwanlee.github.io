@@ -52,7 +52,7 @@ template. (with Yining Nie) [[link](https://drive.google.com/file/d/1S__lZblmE0m
 ### Theoretical
 
 <!-- - Upcoming \| PCC disguised as honorificity. [GLOW in Asia 14](https://ling.cuhk.edu.hk/glowxiv/). [poster] -->
-- 2024 \| Tense-associated nominalization in Oshiwambo. [LSA 2024](https://virtual.oxfordabstracts.com/#/event/public/4438/information?page=1813). (with Olivia Ndapo) [talk]
+- Upcoming \| Tense-associated nominalization in Oshiwambo. [ACAL 55](https://acal55.mull-lab.org/), [LSA 2024](https://virtual.oxfordabstracts.com/#/event/public/4438/information?page=1813). (with Olivia Ndapo) [talk, talk]
 - 2024 \| Agent nominalization without _of_-insertion in Setswana. [LSA 2024](https://virtual.oxfordabstracts.com/#/event/public/4438/information?page=1813). [poster]
 - 2023 \| Two types of honorifics in syntax. [BCGL 16](https://www.crissp.be/bcgl-16-the-morphosyntax-of-speaker-and-hearer/program/). [talk]
 - 2023 \| Introducing arguments in and out of the thematic domain. [JK 30](https://www.sfu.ca/xsyn/jk30.html). [poster]
