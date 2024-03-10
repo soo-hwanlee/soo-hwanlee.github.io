@@ -9,6 +9,7 @@ author_profile: true
 
 ### Theoretical
 
+- In progress \| Dissertation chapters 1-4. [[link](https://drive.google.com/file/d/1LiTYA20J57MEVCIzBqVOi2lHizEiaX4q/view?usp=drive_link)]
 - To appear \| Subject nominalizations in Setswana.  _Proceedings of LSA 2024_. [[link](https://drive.google.com/file/d/1wT0KFCY2zzAxWjWnxc3VbhYPq9Ua6hL3/view?usp=sharing)]
 - 2024 \| Syntactic negation in Ewe (Tongugbe) agent nominalizations. _Syntax_. (with Selikem Gotah) [[link](https://onlinelibrary.wiley.com/doi/full/10.1111/synt.12280)] (A previous version of this work appeared in the _Proceedings of NELS 53_. [[link](https://drive.google.com/file/d/1NkJsoPUg_y5F1lkbQKu96Nl2jp73W69L/view?usp=drive_link)])
 - 2023 \| Linearly adjacent allomorphs and syntactic copies. _Proceedings of CLS 58_. [[link](https://drive.google.com/file/d/1BxvMkJIQpcQGlKAjzkcIEqlEiiFS7_i_/view?usp=drive_link)]
@@ -24,7 +25,6 @@ author_profile: true
 - Submitted \| A in A'-domain: Addressees as applied arguments. [[link](https://drive.google.com/file/d/1oo9WH7YRkgCWDZWInF3Uh6PPD25A-oSe/view?usp=drive_link)]
 - Submitted \| Korean case stacking: Case, discourse and the nominal
 template. (with Yining Nie) [[link](https://drive.google.com/file/d/1S__lZblmE0ma9xcOKhPRWZrqoG13cj1F/view?usp=drive_link)]
-- In progress \| Dissertation chapters 1-4. [[link](https://drive.google.com/file/d/1xtTF2Ka5ljmajsN8W7TdWn10bKyGWWAD/view?usp=drive_link)]
 
 ### Computational & experimental
 
