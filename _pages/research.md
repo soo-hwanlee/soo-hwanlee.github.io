@@ -9,7 +9,7 @@ author_profile: true
 
 ### Theoretical
 
-- In progress \| [Dissertation] Introducing arguments in and out of the thematic domain. (with Gurmeet Kaur and Shaonan Wang) [[link](https://drive.google.com/file/d/1LiTYA20J57MEVCIzBqVOi2lHizEiaX4q/view?usp=drive_link)]
+- In progress \| [Dissertation] Introducing arguments in and out of the thematic domain. [[link](https://drive.google.com/file/d/1LiTYA20J57MEVCIzBqVOi2lHizEiaX4q/view?usp=drive_link)]
 - To appear \| Subject nominalizations in Setswana.  _Proceedings of LSA 2024_. [[link](https://drive.google.com/file/d/1wT0KFCY2zzAxWjWnxc3VbhYPq9Ua6hL3/view?usp=sharing)]
 - 2024 \| Syntactic negation in Ewe (Tongugbe) agent nominalizations. _Syntax_. (with Selikem Gotah) [[link](https://onlinelibrary.wiley.com/doi/full/10.1111/synt.12280)] (A previous version of this work appeared in the _Proceedings of NELS 53_. [[link](https://drive.google.com/file/d/1NkJsoPUg_y5F1lkbQKu96Nl2jp73W69L/view?usp=drive_link)])
 - 2023 \| Linearly adjacent allomorphs and syntactic copies. _Proceedings of CLS 58_. [[link](https://drive.google.com/file/d/1BxvMkJIQpcQGlKAjzkcIEqlEiiFS7_i_/view?usp=drive_link)]
@@ -28,7 +28,7 @@ template. (with Yining Nie) [[link](https://drive.google.com/file/d/1S__lZblmE0m
 
 ### Computational & experimental
 
-- In progress \| Language model performance on politeness dependencies in Hindi and Korean. [[link](https://drive.google.com/file/d/1lYB1hD_88c9yUukzNRJ8BMuIpT0mj4rt/view?usp=sharing)]
+- In progress \| Language model performance on politeness dependencies in Hindi and Korean. (with Gurmeet Kaur and Shaonan Wang) [[link](https://drive.google.com/file/d/1lYB1hD_88c9yUukzNRJ8BMuIpT0mj4rt/view?usp=sharing)]
 - 2023 \| Do language models know how to be polite?. _Proceedings of SCiL 2023_. (with Shaonan Wang) [[link](https://scholarworks.umass.edu/scil/vol6/iss1/36/)]
 - 2023 \| Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models. _Transactions on Machine Learning Research (TMLR)_. (with 443 authors) [[link](https://openreview.net/pdf?id=uyTL5Bvosj)]
 - 2022 \| Can language models capture syntactic associations without surface cues? A case study of reflexive anaphor licensing in English control constructions. _Proceedings of SCiL 2022_. (with Sebastian Schuster) [[link](https://scholarworks.umass.edu/scil/vol5/iss1/19/)]
