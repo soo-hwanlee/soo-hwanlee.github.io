@@ -13,7 +13,7 @@ author_profile: true
 
 ### Theoretical
 
-- Submitted \| TP inside subject nominalizations: Evidence from Oshiwambo (with Olivia Ndapo) [[link](https://drive.google.com/file/d/197CIgp_6w-od4zqKrHvJIRTZlcTSEklV/view?usp=drive_link)]
+- Submitted \| TP inside subject nominalizations: Evidence from Oshiwambo (with Olivia Ndapo) [[link](https://ling.auf.net/lingbuzz/007960)]
 - Submitted \| Korean case stacking: Case, discourse and the nominal
 template. (with Yining Nie) [[link](https://drive.google.com/file/d/1S__lZblmE0ma9xcOKhPRWZrqoG13cj1F/view?usp=drive_link)]
 - Submitted \| A in A'-domain: Addressees as applied arguments. [[link](https://drive.google.com/file/d/1oo9WH7YRkgCWDZWInF3Uh6PPD25A-oSe/view?usp=drive_link)]
