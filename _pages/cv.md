@@ -32,6 +32,10 @@ You can view my CV [here](https://drive.google.com/file/d/1eAniBi6I7yRreoKB0fLbq
 - 2021 (Spring) \| Language (Intro to Linguistics) (TA for Lucas Champollion), NYU
 - 2017 (Spring) \| English (Student teacher), Sacred Heart Girls’ High School, Seoul, South Korea
 
+  ## Workshops
+
+- Upcoming \| Workshop on publishing and conferences, The Linguistics Association of NYU (LANYU)
+
 <!-- ## Affiliation
 
 - 2018–present \| Linguistic Society of America (LSA) -->
