@@ -13,7 +13,7 @@ author_profile: true
 
 ### Theoretical
 
-- In prep \| PCC and honorification: the higher nominal blocks person agreement with the lower nominal. _Proceedings of CLS 60_. [[abstract](https://drive.google.com/file/d/1hWhaLbjl_S8IG3vIwXDaGJkOrbNaOKV0/view?usp=drive_link)]
+- In prep. \| PCC and honorification: the higher nominal blocks person agreement with the lower nominal. [[abstract](https://drive.google.com/file/d/1hWhaLbjl_S8IG3vIwXDaGJkOrbNaOKV0/view?usp=drive_link)]
 - Submitted \| TP inside subject nominalizations: Evidence from Oshiwambo (with Olivia Ndapo) [[link](https://ling.auf.net/lingbuzz/007960)]
 - Submitted \| Korean case stacking: Case, discourse and the nominal
 template. (with Yining Nie) [[link](https://drive.google.com/file/d/1S__lZblmE0ma9xcOKhPRWZrqoG13cj1F/view?usp=drive_link)]
@@ -33,7 +33,7 @@ template. (with Yining Nie) [[link](https://drive.google.com/file/d/1S__lZblmE0m
 
 ### Computational & experimental
 
-- In progress \| Language model performance on politeness dependencies in Hindi and Korean. (with Gurmeet Kaur and Shaonan Wang) [[link](https://drive.google.com/file/d/1lYB1hD_88c9yUukzNRJ8BMuIpT0mj4rt/view?usp=sharing)]
+- In prep. \| Language model performance on politeness dependencies in Hindi and Korean. (with Gurmeet Kaur and Shaonan Wang) [[link](https://drive.google.com/file/d/1lYB1hD_88c9yUukzNRJ8BMuIpT0mj4rt/view?usp=sharing)]
 - 2023 \| Do language models know how to be polite?. _Proceedings of SCiL 2023_. (with Shaonan Wang) [[link](https://scholarworks.umass.edu/scil/vol6/iss1/36/)]
 - 2023 \| Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models. _Transactions on Machine Learning Research (TMLR)_. (with 443 authors) [[link](https://openreview.net/pdf?id=uyTL5Bvosj)]
 - 2022 \| Can language models capture syntactic associations without surface cues? A case study of reflexive anaphor licensing in English control constructions. _Proceedings of SCiL 2022_. (with Sebastian Schuster) [[link](https://scholarworks.umass.edu/scil/vol5/iss1/19/)]
