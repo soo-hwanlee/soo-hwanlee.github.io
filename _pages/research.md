@@ -13,6 +13,7 @@ author_profile: true
 
 ### Theoretical
 
+- In prep \| PCC and honorification: the higher nominal blocks person agreement with the lower nominal. _Proceedings of CLS 60_. [[abstract](https://drive.google.com/file/d/1hWhaLbjl_S8IG3vIwXDaGJkOrbNaOKV0/view?usp=drive_link)]
 - Submitted \| TP inside subject nominalizations: Evidence from Oshiwambo (with Olivia Ndapo) [[link](https://ling.auf.net/lingbuzz/007960)]
 - Submitted \| Korean case stacking: Case, discourse and the nominal
 template. (with Yining Nie) [[link](https://drive.google.com/file/d/1S__lZblmE0ma9xcOKhPRWZrqoG13cj1F/view?usp=drive_link)]
