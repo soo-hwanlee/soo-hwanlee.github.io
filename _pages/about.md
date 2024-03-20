@@ -11,7 +11,7 @@ redirect_from:
 
 Welcome! I am a PhD candidate in the [Department of Linguistics at NYU](https://as.nyu.edu/departments/linguistics/homepage.html). My advisor is [Alec Marantz](https://wp.nyu.edu/morphlab/alec-marantz/).
 
-My research primarily focuses on syntax and morphology. One of my ongoing projects focuses on how nominal arguments are represented in (non-)thematic domains. I also examine the syntactic size of (non-)derived nominals by drawing evidence from understudied and underrepresented Bantu & Kwa family languages.
+My research primarily focuses on syntax and morphology. One of my ongoing projects focuses on how nominal arguments are represented in (non-)thematic domains. I also examine the syntactic size of (non-)derived nominals by drawing evidence from understudied and underrepresented Bantu and Kwa family languages.
 
 <!-- My analysis also draws parallels between the thematic domain and the speech act domain, which have been considered to be two separate domains. -->
 
