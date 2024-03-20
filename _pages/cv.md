@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Teaching"
 permalink: /teaching/
 author_profile: true
 redirect_from:
@@ -30,7 +30,7 @@ You can view my CV [here](https://drive.google.com/file/d/1eAniBi6I7yRreoKB0fLbq
 - 2022 (Fall) \| Grammatical Analysis (Syntax) (TA for Stephanie Harves), NYU
 - 2022 (Spring) \| First Language Acquisition (TA for Ailís Cournane), NYU
 - 2021 (Spring) \| Language (Intro to Linguistics) (TA for Lucas Champollion), NYU
-- 2017 (Spring) \| English (Student teacher), Sacred Heart Girls’ High School, Seoul, South Korea
+- 2017 (Spring) \| English (Student teacher,Teaching practicum), Sacred Heart Girls’ High School, South Korea
 
 ## Workshops
 
