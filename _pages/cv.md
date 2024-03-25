@@ -32,7 +32,7 @@ You can view my CV [here](https://drive.google.com/file/d/1eAniBi6I7yRreoKB0fLbq
 - 2021 (Spring) \| Language (Intro to Linguistics) (TA for Lucas Champollion), NYU
 - 2017 (Spring) \| English (Teaching practicum as a student teacher), Sacred Heart Girls’ High School, South Korea
 
-## Workshops
+## Workshop
 
 - Upcoming \| Workshop on publishing and conferences, The Linguistics Association of NYU (LANYU)
 
