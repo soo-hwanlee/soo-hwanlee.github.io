@@ -38,7 +38,7 @@ You can view my CV [here](https://drive.google.com/file/d/1CsbQwz9syMswSvexGjfqu
 
 ## Workshop
 
-- Upcoming \| Workshop on publishing and conferences, The Linguistics Association of NYU (LANYU)
+- Upcoming \| Workshop on Publishing and Conferences, The Linguistics Association of NYU (LANYU)
 
 <!-- ## Affiliation
 
