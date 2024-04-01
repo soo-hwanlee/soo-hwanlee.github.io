@@ -32,6 +32,10 @@ You can view my CV [here](https://drive.google.com/file/d/1CsbQwz9syMswSvexGjfqu
 - 2021 (Spring) \| Language (Intro to Linguistics) (TA for Lucas Champollion), NYU
 - 2017 (Spring) \| English (Teaching practicum as a student teacher), Sacred Heart Girls’ High School, South Korea
 
+## Guest lecture
+
+- Upcoming \| Seminar in Syntax: Argument structure, NYU
+
 ## Workshop
 
 - Upcoming \| Workshop on publishing and conferences, The Linguistics Association of NYU (LANYU)
