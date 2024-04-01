@@ -34,7 +34,7 @@ You can view my CV [here](https://drive.google.com/file/d/1CsbQwz9syMswSvexGjfqu
 
 ## Guest lecture
 
-- Upcoming \| Seminar in Syntax: Argument structure (Instructor: Alec Marantz), NYU
+- Upcoming \| Seminar in syntax: Argument structure (Instructor: Alec Marantz), NYU
 
 ## Workshop
 
