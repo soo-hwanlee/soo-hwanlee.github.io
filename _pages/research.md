@@ -7,7 +7,7 @@ author_profile: true
 
 ## Dissertation
 
-- Preliminary draft \| Introducing arguments in and out of the thematic domain. [[link]()]
+- Preliminary draft \| Introducing arguments in and out of the thematic domain. [[link](https://drive.google.com/file/d/1zBlDZlMUgKu19Pk9sham1rJkodk2NuxI/view?usp=drive_link)]
 
 ## Papers
 
