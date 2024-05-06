@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a linguist in the [Department of Linguistics at NYU](https://as.nyu.edu/departments/linguistics/homepage.html). I recently defended my dissertation (Advisor: [Alec Marantz](https://wp.nyu.edu/morphlab/alec-marantz/)).
+Welcome! I am a linguist in the [Department of Linguistics at NYU](https://as.nyu.edu/departments/linguistics/homepage.html). I recently defended my dissertation (advisor: [Alec Marantz](https://wp.nyu.edu/morphlab/alec-marantz/)).
 
 My research primarily focuses on syntax and morphology. One of my ongoing projects focuses on how nominal arguments are represented and licensed in (non-)thematic domains. I also examine the syntactic size of (non-)derived nominals by drawing evidence from understudied and underrepresented Bantu and Kwa family languages.
 
