@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: "CV"
+title: "Teaching"
 permalink: /teaching/
 author_profile: true
 redirect_from:
   - /resume
 ---
-
-You can view my CV [here](https://drive.google.com/file/d/1GwiXyJXMLkEwfjQfsJxNORQoS8jpfxC6/view?usp=drive_link) (last updated May 2024).
 
 <!-- ## Education
 
