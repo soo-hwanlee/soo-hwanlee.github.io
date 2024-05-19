@@ -11,7 +11,7 @@ redirect_from:
 
 Welcome! I am a linguist in the [Department of Linguistics at NYU](https://as.nyu.edu/departments/linguistics/homepage.html). I recently defended my dissertation (advisor: [Alec Marantz](https://wp.nyu.edu/morphlab/alec-marantz/)). Here is my [CV](https://drive.google.com/file/d/1qdQoNqkNTdGhoftkGfqMfiJb6D3QgG3u/view?usp=drive_link).
 
-My research primarily focuses on syntax and morphology. One of my ongoing projects focuses on how nominal arguments are represented and licensed by case in syntax. I also examine the syntactic size of (non-)derived nominals by drawing evidence from understudied and underrepresented Bantu and Kwa family languages.
+My research primarily focuses on syntax and morphology. One of my ongoing projects focuses on how nominal arguments are represented and licensed by case. I also examine the syntactic size of (non-)derived nominals by drawing evidence from understudied and underrepresented Bantu and Kwa family languages.
 
 <!-- My analysis also draws parallels between the thematic domain and the speech act domain, which have been considered to be two separate domains. -->
 
