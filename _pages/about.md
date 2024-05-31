@@ -22,7 +22,7 @@ My research also focuses on evaluating large language models (and human particip
 - Argument structure
 - Nominal structure
 - Case & discourse markers
-- Linguistic dependencies
+- (L)LM performance
 
 <!-- ## Papers
 
