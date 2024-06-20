@@ -15,7 +15,7 @@ My research primarily focuses on syntax and morphology. A theoretical framework 
 
 <!-- My analysis also draws parallels between the thematic domain and the speech act domain, which have been considered to be two separate domains. -->
 
-My research also focuses on evaluating large language models (LLMs) on tasks related to linguistic dependencies, including, but not limited to, agreement, anaphor binding, control, and politeness. My research so far suggests that large language models do not fully recognize these linguistic dependencies. I am also interested in how language models handle low-resource and typologically diverse languages.
+My research also focuses on evaluating large language models (LLMs) on tasks related to linguistic dependencies, including, but not limited to, agreement, anaphor binding, control, and politeness. My research so far suggests that LLMs do not fully recognize these linguistic dependencies. I am also interested in how LMs handle low-resource and typologically diverse languages.
 
 ## Research interests
 
