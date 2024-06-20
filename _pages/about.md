@@ -11,7 +11,7 @@ redirect_from:
 
 Welcome! I recently received my PhD from the [Department of Linguistics at NYU](https://as.nyu.edu/departments/linguistics/homepage.html) (advisor: [Alec Marantz](https://wp.nyu.edu/morphlab/alec-marantz/)). You can find my CV [here](https://drive.google.com/file/d/1PLmvD_9RoMFEamP9kN_JOc1tprveRRil/view?usp=drive_link).
 
-My research primarily focuses on syntax and morphology. A theoretical framework I work with is Distributed Morphology. One of my ongoing projects focuses on how nominal arguments are represented and licensed in syntax. I also examine the syntactic size of (non-)derived nominals by drawing evidence from understudied and underrepresented Bantu and Kwa family languages.
+My research primarily focuses on syntax and morphology. A theoretical framework I adopt is Distributed Morphology. One of my ongoing projects focuses on how nominal arguments are represented and licensed in syntax. I also examine the syntactic size of (non-)derived nominals by drawing evidence from understudied and underrepresented Bantu and Kwa family languages.
 
 <!-- My analysis also draws parallels between the thematic domain and the speech act domain, which have been considered to be two separate domains. -->
 
