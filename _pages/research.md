@@ -48,16 +48,14 @@ template. (with Yining Nie) [[link](https://drive.google.com/file/d/1S__lZblmE0m
 
 ---
 
-## Presentations
-
-### Invited talks
+## Invited talks
 
 - 2024 \| Subject nominalizations in Ewe and Oshiwambo (joint work with Selikem Gotah and Olivia Ndapo). [Yale Syntax Reading Group](https://ling.yale.edu/research/reading-groups).
 - 2023 \| A in A'-domain. [Implicational Hierarchies in Clausal Complementation Workshop](https://ich.univie.ac.at/?page_id=158).
 - 2023 \| Addressees as applied arguments. [S-Lab at University of Maryland](https://linguistics.umd.edu/events/s-lab-soo-hwan-lee-nyu/addressees-applied-arguments-syntax), [The Korean Generative Grammar Circle & Hansung University Workshop](http://www.kggc.org/subList/20000002693?pmode=detail&nttSeq=1000000208).
 - 2022 \| Introducing arguments in and out of the thematic domain: Evidence from Korean case markers. [Penn Syntax Lab](https://web.sas.upenn.edu/syntax-lab/2022/10/07/upcoming-talks/), [MIT Syntax Square](http://whamit.mit.edu/2022/09/12/syntax-square-9-13-soo-hwan-lee-nyu/), [Yale Syntax Reading Group](https://ling.yale.edu/research/reading-groups).
 
-### Theoretical
+##  Talks & posters (theoretical)
 
 - 2024 \| Tense-associated nominalization in Oshiwambo. [ACAL 55](https://acal55.mull-lab.org/), [LSA 2024](https://virtual.oxfordabstracts.com/#/event/public/4438/information?page=1813). (with Olivia Ndapo) [talk, talk]
 - 2024 \| PCC and honorification. [CLS 60](http://chicagolinguisticsociety.org/). [poster]
@@ -75,7 +73,7 @@ template. (with Yining Nie) [[link](https://drive.google.com/file/d/1S__lZblmE0m
 - 2018 \| Suppletive allomorphy of pronouns conditioned by humbleness in Korean. [BLS 44](http://linguistics.berkeley.edu/bls/proceedings.html). (with Minjung Kim) [poster]
 <!-- - 2017 \| Suppletive passivization of _mac_ ‘to be hit’ in Korean. [BLS 43](http://linguistics.berkeley.edu/bls/proceedings.html). (with Minjung Kim) [poster] -->
 
-### Computational & experimental
+## Talks & posters (computational & experimental)
 
 - 2023 \| Do language models know how to be polite?. [SCiL 2023](https://blogs.umass.edu/scil/scil-2023/). (with Shaonan Wang) [poster]
 - 2022 \| Considering all the stars visible: MEG correlates of English post-nominal modification. [SNL 2022](https://www.neurolang.org/). (with Nigel Flower and Liina Pylkkänen) [poster]
