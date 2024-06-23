@@ -11,13 +11,12 @@ author_profile: true
 
 ## Theoretical
 
-### Journal papers & book chapters
+### Journal papers
 
 - Submitted \| Korean case stacking: Case, discourse and the nominal
 template. (with Yining Nie) [[link](https://drive.google.com/file/d/1S__lZblmE0ma9xcOKhPRWZrqoG13cj1F/view?usp=drive_link)]
 - Revise & resubmit \| TP inside subject nominalizations: Evidence from Oshiwambo. _Glossa_. (with Olivia Ndapo) [[link](https://ling.auf.net/lingbuzz/007960)]
 - 2024 \| Syntactic negation in Ewe (Tongugbe) agent nominalizations. _Syntax_. (with Selikem Gotah) [[link](https://onlinelibrary.wiley.com/doi/full/10.1111/synt.12280)]
-- 2023 \| Formality weakening and the underspecified expressive _yo_ in Korean. In Elin McCready and Hiroki Nomoto, editors. _Discourse Particles in Asian Languages_. Routledge. [[link](https://www.taylorfrancis.com/chapters/edit/10.4324/9781351057837-8/formality-weakening-underspecified-expressive-yo-korean-soo-hwan-lee)] & [[preprint](https://drive.google.com/file/d/1HHpJpLLq1ACZt-wj2p_psUYbMETVjZ3v/view?usp=drive_link)]
 
 ### Proceedings papers
 
@@ -36,9 +35,15 @@ template. (with Yining Nie) [[link](https://drive.google.com/file/d/1S__lZblmE0m
 <!-- - Submitted \| A in A'-domain: Addressees as applied arguments. [[link](https://drive.google.com/file/d/1G0W6B5fcx0BjO_YvzagCMT4wOtWCLz0W/view?usp=drive_link)] -->
 <!-- - 2017 \| Suppletive passivization of _mac_ ‘to be hit’ in Korean. _Proceedings of BLS 43_. (with Minjung Kim) [[link](https://escholarship.org/uc/item/6s83k9xm)] -->
 
+### Book chapters
+
+- 2023 \| Formality weakening and the underspecified expressive _yo_ in Korean. In Elin McCready and Hiroki Nomoto, editors. _Discourse Particles in Asian Languages_. Routledge. [[link](https://www.taylorfrancis.com/chapters/edit/10.4324/9781351057837-8/formality-weakening-underspecified-expressive-yo-korean-soo-hwan-lee)] & [[preprint](https://drive.google.com/file/d/1HHpJpLLq1ACZt-wj2p_psUYbMETVjZ3v/view?usp=drive_link)]
+  
+
 ## Computational & experimental
 
 - In prep. \| Language model performance on politeness dependencies in Hindi and Korean. (with Gurmeet Kaur and Shaonan Wang) [[link](https://drive.google.com/file/d/1lYB1hD_88c9yUukzNRJ8BMuIpT0mj4rt/view?usp=sharing)]
+- Revise & publish \| Language model performance on English control constructions and its implications. _The Journal of Linguistics Science_. [[link]()]
 - 2023 \| Do language models know how to be polite?. _Proceedings of SCiL 2023_. (with Shaonan Wang) [[link](https://openpublishing.library.umass.edu/scil/article/id/972/)]
 - 2023 \| Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models. _Transactions on Machine Learning Research (TMLR)_. (with 443 authors) [[link](https://openreview.net/pdf?id=uyTL5Bvosj)]
 - 2022 \| Can language models capture syntactic associations without surface cues? A case study of reflexive anaphor licensing in English control constructions. _Proceedings of SCiL 2022_. (with Sebastian Schuster) [[link](https://aclanthology.org/2022.scil-1.18/)]
