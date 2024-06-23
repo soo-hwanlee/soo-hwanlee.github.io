@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
+title: ""
 permalink: /teaching/
 author_profile: true
 redirect_from:
@@ -23,7 +23,7 @@ redirect_from:
 - 2019 \| Dean's Student Travel Grant Award, New York University
 - 2018 \| Linguistic Society of Korea (LSK) Scholarship -->
 
-<!-- ## Teaching -->
+## Teaching
 
 - 2022 (Fall) \| Grammatical Analysis (Syntax) (TA for Stephanie Harves), NYU
 - 2022 (Spring) \| First Language Acquisition (TA for Ailís Cournane), NYU
