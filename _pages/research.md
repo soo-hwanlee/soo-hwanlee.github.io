@@ -9,15 +9,19 @@ author_profile: true
 
 - Preliminary draft (defended) \| Introducing Arguments and Case. [[link](https://drive.google.com/file/d/1eutHNcCGUwL9tcELN1rPTrtiqM2TITPw/view?usp=drive_link)] -->
 
-## Papers
+## Theoretical
 
-### Theoretical
+### Journal papers & book chapters
 
 - Submitted \| Korean case stacking: Case, discourse and the nominal
 template. (with Yining Nie) [[link](https://drive.google.com/file/d/1S__lZblmE0ma9xcOKhPRWZrqoG13cj1F/view?usp=drive_link)]
 - Revise & resubmit \| TP inside subject nominalizations: Evidence from Oshiwambo. _Glossa_. (with Olivia Ndapo) [[link](https://ling.auf.net/lingbuzz/007960)]
-- 2024 \| Subject nominalizations in Setswana. _Proceedings of LSA 2024_. [[link](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/5662)]
 - 2024 \| Syntactic negation in Ewe (Tongugbe) agent nominalizations. _Syntax_. (with Selikem Gotah) [[link](https://onlinelibrary.wiley.com/doi/full/10.1111/synt.12280)] (A previous version of this work appeared in the _Proceedings of NELS 53_. [[link](https://drive.google.com/file/d/1NkJsoPUg_y5F1lkbQKu96Nl2jp73W69L/view?usp=drive_link)])
+- - 2023 \| Formality weakening and the underspecified expressive _yo_ in Korean. In Elin McCready and Hiroki Nomoto, editors. _Discourse Particles in Asian Languages_. Routledge. [[link](https://www.taylorfrancis.com/chapters/edit/10.4324/9781351057837-8/formality-weakening-underspecified-expressive-yo-korean-soo-hwan-lee)] & [[preprint](https://drive.google.com/file/d/1HHpJpLLq1ACZt-wj2p_psUYbMETVjZ3v/view?usp=drive_link)]
+
+### Proceedings papers
+
+- 2024 \| Subject nominalizations in Setswana. _Proceedings of LSA 2024_. [[link](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/5662)]
 - 2023 \| Linearly adjacent allomorphs and syntactic copies. _Proceedings of CLS 58_. [[link](https://drive.google.com/file/d/1BxvMkJIQpcQGlKAjzkcIEqlEiiFS7_i_/view?usp=drive_link)]
 - 2023 \| Introducing arguments beyond the thematic domain. _Proceedings of LSA 2023_. [[link](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/5463)]
 - 2022 \| Korean case stacking and the nominal template. _Proceedings of PLC 45_. (with Yining Nie) [[link](https://repository.upenn.edu/pwpl/vol28/iss1/11/)]
@@ -31,7 +35,7 @@ template. (with Yining Nie) [[link](https://drive.google.com/file/d/1S__lZblmE0m
 <!-- - Submitted \| A in A'-domain: Addressees as applied arguments. [[link](https://drive.google.com/file/d/1G0W6B5fcx0BjO_YvzagCMT4wOtWCLz0W/view?usp=drive_link)] -->
 <!-- - 2017 \| Suppletive passivization of _mac_ ‘to be hit’ in Korean. _Proceedings of BLS 43_. (with Minjung Kim) [[link](https://escholarship.org/uc/item/6s83k9xm)] -->
 
-### Computational & experimental
+## Computational & experimental
 
 - In prep. \| Language model performance on politeness dependencies in Hindi and Korean. (with Gurmeet Kaur and Shaonan Wang) [[link](https://drive.google.com/file/d/1lYB1hD_88c9yUukzNRJ8BMuIpT0mj4rt/view?usp=sharing)]
 - 2023 \| Do language models know how to be polite?. _Proceedings of SCiL 2023_. (with Shaonan Wang) [[link](https://openpublishing.library.umass.edu/scil/article/id/972/)]
@@ -40,9 +44,6 @@ template. (with Yining Nie) [[link](https://drive.google.com/file/d/1S__lZblmE0m
 - 2021 \| NOPE: A Corpus of Naturally-Occurring Presuppositions in English. _Proceedings of CoNLL 2021_. (with +Alicia Parrish, +Sebastian Schuster, +Alex Warstadt, Omar Agha, Zhuoye Zhao, Samuel R. Bowman, and Tal Linzen) [+ = equal contribution]  [[link](https://aclanthology.org/2021.conll-1.28/)]
 - 2021 \| Does Putting a Linguist in the Loop Improve NLU Data Collection? _Findings of ACL: EMNLP 2021_. (with Alicia Parrish, Will Huang, Omar Agha, Nikita Nangia, Alex Warstadt, Karmanya Aggarwal, Emily Allaway, Tal Linzen, and Samuel R. Bowman) [[link](https://aclanthology.org/2021.findings-emnlp.421/)]
 
-## Book chapters
-
-- 2023 \| Formality weakening and the underspecified expressive _yo_ in Korean. In Elin McCready and Hiroki Nomoto, editors. _Discourse Particles in Asian Languages_. Routledge. [[link](https://www.taylorfrancis.com/chapters/edit/10.4324/9781351057837-8/formality-weakening-underspecified-expressive-yo-korean-soo-hwan-lee)] & [[preprint](https://drive.google.com/file/d/1HHpJpLLq1ACZt-wj2p_psUYbMETVjZ3v/view?usp=drive_link)]
 
 ---
 
