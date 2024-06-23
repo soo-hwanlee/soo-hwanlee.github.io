@@ -41,6 +41,7 @@ template. (with Yining Nie) [[link](https://drive.google.com/file/d/1S__lZblmE0m
 <!-- ### Theses
 - 2019 \| _Gender stacking in Swahili_. Master's thesis. Sogang University. [[link](https://drive.google.com/file/d/1Ieou_edDvC5XSdBRykbxW_sPLAe0hBNq/view?usp=drive_link)] -->
 
+---
 
 ## Computational & experimental
 
@@ -62,7 +63,7 @@ template. (with Yining Nie) [[link](https://drive.google.com/file/d/1S__lZblmE0m
 - 2023 \| Addressees as applied arguments. [S-Lab at University of Maryland](https://linguistics.umd.edu/events/s-lab-soo-hwan-lee-nyu/addressees-applied-arguments-syntax), [The Korean Generative Grammar Circle & Hansung University Workshop](http://www.kggc.org/subList/20000002693?pmode=detail&nttSeq=1000000208).
 - 2022 \| Introducing arguments in and out of the thematic domain: Evidence from Korean case markers. [Penn Syntax Lab](https://web.sas.upenn.edu/syntax-lab/2022/10/07/upcoming-talks/), [MIT Syntax Square](http://whamit.mit.edu/2022/09/12/syntax-square-9-13-soo-hwan-lee-nyu/), [Yale Syntax Reading Group](https://ling.yale.edu/research/reading-groups).
 
-##  Talks & posters (theoretical)
+<!-- ##  Talks & posters (theoretical)
 
 - 2024 \| Tense-associated nominalization in Oshiwambo. [ACAL 55](https://acal55.mull-lab.org/), [LSA 2024](https://virtual.oxfordabstracts.com/#/event/public/4438/information?page=1813). (with Olivia Ndapo) [talk, talk]
 - 2024 \| PCC and honorification. [CLS 60](http://chicagolinguisticsociety.org/). [poster]
@@ -78,12 +79,12 @@ template. (with Yining Nie) [[link](https://drive.google.com/file/d/1S__lZblmE0m
 - 2019 \| Nominal mismatches in Swahili locatives. [LSA 2019](https://www.linguisticsociety.org/node/9647/schedule). (with Doo-Won Lee) [poster]
 - 2018 \| Case drop and idioms in Korean. [Psycholinguistics Round Table 2018](https://gradmypage.cufs.ac.kr/PublicRelationAction.do?cmd=filedown&dirname=bbs_path&brdcode=12&grpcode=1&filename=PsyRTprogram2018May19HanyangUniversity(FINAL).pdf). (with Michael Barrie) [talk]
 - 2018 \| Suppletive allomorphy of pronouns conditioned by humbleness in Korean. [BLS 44](http://linguistics.berkeley.edu/bls/proceedings.html). (with Minjung Kim) [poster]
-<!-- - 2017 \| Suppletive passivization of _mac_ ‘to be hit’ in Korean. [BLS 43](http://linguistics.berkeley.edu/bls/proceedings.html). (with Minjung Kim) [poster] -->
+<!-- - 2017 \| Suppletive passivization of _mac_ ‘to be hit’ in Korean. [BLS 43](http://linguistics.berkeley.edu/bls/proceedings.html). (with Minjung Kim) [poster] --> -->
 
-## Talks & posters (computational & experimental)
+<!-- ## Talks & posters (computational & experimental)
 
 - 2023 \| Do language models know how to be polite?. [SCiL 2023](https://blogs.umass.edu/scil/scil-2023/). (with Shaonan Wang) [poster]
 - 2022 \| Considering all the stars visible: MEG correlates of English post-nominal modification. [SNL 2022](https://www.neurolang.org/). (with Nigel Flower and Liina Pylkkänen) [poster]
 - 2022 \| Can language models capture syntactic associations without surface cues? A case study of reflexive anaphor licensing in English control constructions. [SCiL 2022](https://blogs.umass.edu/scil/schedule-for-scil-2022/). (with Sebastian Schuster) [talk]
 - 2021 \| NOPE: A Corpus of Naturally-Occurring Presuppositions in English. [CoNLL 2021](https://www.conll.org/2021). (with +Alicia Parrish, +Sebastian Schuster, +Alex Warstadt, Omar Agha, Zhuoye Zhao, Samuel R. Bowman, and Tal Linzen) [+ = equal contribution] [talk]
-- 2021 \| Does Putting a Linguist in the Loop Improve NLU Data Collection? [EMNLP 2021](https://2021.emnlp.org/). (with Alicia Parrish, Will Huang, Omar Agha, Nikita Nangia, Alex Warstadt, Karmanya Aggarwal, Emily Allaway, Tal Linzen, and Samuel R. Bowman) [talk]
+- 2021 \| Does Putting a Linguist in the Loop Improve NLU Data Collection? [EMNLP 2021](https://2021.emnlp.org/). (with Alicia Parrish, Will Huang, Omar Agha, Nikita Nangia, Alex Warstadt, Karmanya Aggarwal, Emily Allaway, Tal Linzen, and Samuel R. Bowman) [talk] -->
