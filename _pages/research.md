@@ -21,7 +21,7 @@ template. (with Yining Nie) [[link](https://drive.google.com/file/d/1S__lZblmE0m
 ### Proceedings papers
 
 - 2024 \| Subject nominalizations in Setswana. _Proceedings of LSA 2024_. [[link](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/5662)]
-- 2023 \| Negation in Ewe (Tongugbe) agent nominalizations. _Proceedings of NELS 53_. [[link](https://drive.google.com/file/d/1NkJsoPUg_y5F1lkbQKu96Nl2jp73W69L/view?usp=drive_link)])
+- 2023 \| Negation in Ewe (Tongugbe) agent nominalizations. _Proceedings of NELS 53_. [[link](https://drive.google.com/file/d/1NkJsoPUg_y5F1lkbQKu96Nl2jp73W69L/view?usp=drive_link)]
 - 2023 \| Linearly adjacent allomorphs and syntactic copies. _Proceedings of CLS 58_. [[link](https://drive.google.com/file/d/1BxvMkJIQpcQGlKAjzkcIEqlEiiFS7_i_/view?usp=drive_link)]
 - 2023 \| Introducing arguments beyond the thematic domain. _Proceedings of LSA 2023_. [[link](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/5463)]
 - 2022 \| Korean case stacking and the nominal template. _Proceedings of PLC 45_. (with Yining Nie) [[link](https://repository.upenn.edu/pwpl/vol28/iss1/11/)]
