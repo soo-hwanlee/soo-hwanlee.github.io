@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I recently received my PhD from the [Department of Linguistics at NYU](https://as.nyu.edu/departments/linguistics/homepage.html) (Advisor: Prof. [Alec Marantz](https://wp.nyu.edu/morphlab/alec-marantz/)). You can find my CV [here](https://drive.google.com/file/d/1PLmvD_9RoMFEamP9kN_JOc1tprveRRil/view?usp=drive_link).
+Welcome! I recently received my PhD from the [Department of Linguistics at NYU](https://as.nyu.edu/departments/linguistics/homepage.html) (advisor: [Alec Marantz](https://wp.nyu.edu/morphlab/alec-marantz/)). You can find my CV [here](https://drive.google.com/file/d/1PLmvD_9RoMFEamP9kN_JOc1tprveRRil/view?usp=drive_link).
 
 <!--This coming September, I will be a postdoctoral fellow in the Language Contact and Cognition Lab (PI: Prof. [Marlyse Baptista](https://web.sas.upenn.edu/marlysebaptista/)) in the [Department of Linguistics at the University of Pennsylvania](https://www.ling.upenn.edu/). -->
 
