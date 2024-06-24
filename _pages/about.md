@@ -13,7 +13,7 @@ Welcome! I recently received my PhD from the [Department of Linguistics at NYU](
 
 <!--This coming September, I will be a postdoctoral fellow in the Language Contact and Cognition Lab (PI: Prof. [Marlyse Baptista](https://web.sas.upenn.edu/marlysebaptista/)) in the [Department of Linguistics at the University of Pennsylvania](https://www.ling.upenn.edu/). -->
 
-My research primarily focuses on syntax and morphology. A theoretical framework I adopt is Distributed Morphology. One of my ongoing projects focuses on how nominal arguments are represented and licensed in syntax. I also examine the syntactic size of (non-)derived nominals by drawing evidence from understudied and underrepresented Bantu and Kwa family languages.
+My research primarily focuses on syntax and morphology. A theoretical framework I adopt is Distributed Morphology. One of my ongoing projects focuses on how nominal arguments are represented and licensed in syntax. I also examine the syntactic size of (un)derived nominals by drawing evidence from understudied and underrepresented Bantu and Kwa family languages.
 
 My research also focuses on evaluating large language models (LLMs) on tasks related to linguistic dependencies, including, but not limited to, agreement, anaphor binding, control, and politeness. My research so far suggests that LLMs do not fully recognize these linguistic dependencies. I am also interested in how LMs handle low-resource and typologically diverse languages.
 
