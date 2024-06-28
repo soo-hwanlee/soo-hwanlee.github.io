@@ -11,6 +11,10 @@ author_profile: true
 
 ## Theoretical
 
+### Theses
+- 2024 \| _Introducing Arguments and Case_. Doctoral dissertation. NYU. [[lingbuzz](https://ling.auf.net/lingbuzz/008237)]
+- 2019 \| _Gender stacking in Swahili_. Master's thesis. Sogang University. [[link](https://drive.google.com/file/d/1Ieou_edDvC5XSdBRykbxW_sPLAe0hBNq/view?usp=drive_link)]
+
 ### Journal papers
 
 - Submitted \| Korean case stacking: Case, discourse and the nominal
@@ -38,8 +42,6 @@ template. (with Yining Nie) [[link](https://drive.google.com/file/d/1S__lZblmE0m
 
 - 2023 \| Formality weakening and the underspecified expressive _yo_ in Korean. In Elin McCready and Hiroki Nomoto, editors. _Discourse Particles in Asian Languages_. Routledge. [[link](https://www.taylorfrancis.com/chapters/edit/10.4324/9781351057837-8/formality-weakening-underspecified-expressive-yo-korean-soo-hwan-lee)] & [[preprint](https://drive.google.com/file/d/1HHpJpLLq1ACZt-wj2p_psUYbMETVjZ3v/view?usp=drive_link)]
   
-<!-- ### Theses
-- 2019 \| _Gender stacking in Swahili_. Master's thesis. Sogang University. [[link](https://drive.google.com/file/d/1Ieou_edDvC5XSdBRykbxW_sPLAe0hBNq/view?usp=drive_link)] -->
 
 ---
 
