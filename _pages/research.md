@@ -11,9 +11,9 @@ author_profile: true
 
 ## Theoretical
 
-### Theses
+### Thesis
 - 2024 \| _Introducing Arguments and Case_. Doctoral dissertation. NYU. [[lingbuzz](https://ling.auf.net/lingbuzz/008237)]
-- 2019 \| _Gender stacking in Swahili_. Master's thesis. Sogang University. [[link](https://drive.google.com/file/d/1Ieou_edDvC5XSdBRykbxW_sPLAe0hBNq/view?usp=drive_link)]
+<!-- - 2019 \| _Gender stacking in Swahili_. Master's thesis. Sogang University. [[link](https://drive.google.com/file/d/1Ieou_edDvC5XSdBRykbxW_sPLAe0hBNq/view?usp=drive_link)] -->
 
 ### Journal papers
 
