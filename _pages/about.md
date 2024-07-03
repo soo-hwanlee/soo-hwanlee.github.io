@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! This coming September, I will be a postdoctoral fellow in the Language Contact and Cognition Lab (PI: Prof. [Marlyse Baptista](https://web.sas.upenn.edu/marlysebaptista/)) in the [Department of Linguistics at the University of Pennsylvania](https://www.ling.upenn.edu/). I received my PhD in Linguistics from NYU (Advisor: Prof. [Alec Marantz](https://wp.nyu.edu/morphlab/alec-marantz/)). You can find my dissertation [here](https://ling.auf.net/lingbuzz/008237) and my CV [here](https://drive.google.com/file/d/1PLmvD_9RoMFEamP9kN_JOc1tprveRRil/view?usp=drive_link).
+Welcome! This coming September, I will be a postdoctoral fellow in the Language Contact and Cognition Lab (PI: Prof. [Marlyse Baptista](https://web.sas.upenn.edu/marlysebaptista/)) in the [Department of Linguistics at the University of Pennsylvania](https://www.ling.upenn.edu/). I received my PhD in Linguistics from NYU (Advisor: Prof. [Alec Marantz](https://wp.nyu.edu/morphlab/alec-marantz/)). You can find my dissertation [here](https://ling.auf.net/lingbuzz/008237), my CV [here](https://drive.google.com/file/d/1PLmvD_9RoMFEamP9kN_JOc1tprveRRil/view?usp=drive_link), and my academic siblings (!) [here](https://academictree.org/linguistics/tree.php?pid=20966&fontsize=1&pnodecount=4&cnodecount=2).
 
 My research primarily focuses on syntax and morphology. A theoretical framework I adopt is Distributed Morphology. One of my ongoing projects focuses on how nominal arguments are represented and licensed in syntax. I also examine the syntactic size of (un)derived nominals by drawing evidence from understudied and underrepresented Bantu and Kwa family languages.
 
