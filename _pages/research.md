@@ -24,6 +24,7 @@ template. (with Yining Nie) [[link](https://drive.google.com/file/d/1S__lZblmE0m
 
 ### Proceedings papers
 
+- To appear \| PCC and honorification. _Proceedings of CLS 60_.
 - 2024 \| Subject nominalizations in Setswana. _Proceedings of LSA 2024_. [[link](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/5662)]
 - 2023 \| Negation in Ewe (Tongugbe) agent nominalizations. _Proceedings of NELS 53_. (with Selikem Gotah) [[link](https://drive.google.com/file/d/1NkJsoPUg_y5F1lkbQKu96Nl2jp73W69L/view?usp=drive_link)]
 - 2023 \| Linearly adjacent allomorphs and syntactic copies. _Proceedings of CLS 58_. [[link](https://drive.google.com/file/d/1BxvMkJIQpcQGlKAjzkcIEqlEiiFS7_i_/view?usp=drive_link)]
@@ -62,6 +63,7 @@ template. (with Yining Nie) [[link](https://drive.google.com/file/d/1S__lZblmE0m
 
 ## Invited talks
 
+- Upcoming \| TBA. [NYU Syntax Brown Bag](https://sites.google.com/a/nyu.edu/nyusyntaxbrownbag/).
 - 2024 \| Subject nominalizations in Ewe and Oshiwambo (joint work with Selikem Gotah and Olivia Ndapo). [Yale Syntax Reading Group](https://ling.yale.edu/research/reading-groups).
 - 2023 \| A in A'-domain. [Implicational Hierarchies in Clausal Complementation Workshop](https://ich.univie.ac.at/?page_id=158).
 - 2023 \| Addressees as applied arguments. [S-Lab at University of Maryland](https://linguistics.umd.edu/events/s-lab-soo-hwan-lee-nyu/addressees-applied-arguments-syntax), [The Korean Generative Grammar Circle & Hansung University Workshop](http://www.kggc.org/subList/20000002693?pmode=detail&nttSeq=1000000208).
