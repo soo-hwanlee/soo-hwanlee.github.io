@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! This coming September, I will be a postdoctoral researcher in the Language Contact and Cognition Lab (PI: [Marlyse Baptista](https://web.sas.upenn.edu/marlysebaptista/)) in the [Department of Linguistics at the University of Pennsylvania](https://www.ling.upenn.edu/). I received my PhD in Linguistics from NYU (Advisor: [Alec Marantz](https://wp.nyu.edu/morphlab/alec-marantz/)). You can find my dissertation [here](https://ling.auf.net/lingbuzz/008237) and my CV [here](https://drive.google.com/file/d/1nkX6Px4xcpFlVhYZSQC3WGs0zzqI8q9r/view?usp=drive_link). 
+Welcome! This coming September, I will be a postdoctoral researcher in the Language Contact and Cognition Lab (PI: [Marlyse Baptista](https://web.sas.upenn.edu/marlysebaptista/)) in the [Department of Linguistics at the University of Pennsylvania](https://www.ling.upenn.edu/). I received my PhD in Linguistics from NYU (Advisor: [Alec Marantz](https://wp.nyu.edu/morphlab/alec-marantz/)). You can find my dissertation [here](https://ling.auf.net/lingbuzz/008237) and my CV [here](https://drive.google.com/file/d/1cV-8bSq9cHctpdFsd0PnY1tsYFM1SyY5/view?usp=drive_link). 
 
 <!-- and my academic family tree [here](https://academictree.org/linguistics/tree.php?pid=20966&fontsize=1&pnodecount=4&cnodecount=2)! -->
 
