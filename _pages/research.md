@@ -64,7 +64,7 @@ template. _NLLT_. (with Yining Nie) [[link](https://drive.google.com/file/d/1S__
 
 ## Invited talks
 
-- Upcoming \| No escape from syntax: Evidence from small and large subject nominalizations. [NYU Syntax Brown Bag](https://sites.google.com/a/nyu.edu/nyusyntaxbrownbag/).
+- Upcoming \| No escape from syntax: Evidence from small and big subject nominalizations. [NYU Syntax Brown Bag](https://sites.google.com/a/nyu.edu/nyusyntaxbrownbag/).
 - 2024 \| Subject nominalizations in Ewe and Oshiwambo (joint work with Selikem Gotah and Olivia Ndapo). [Yale Syntax Reading Group](https://ling.yale.edu/research/reading-groups).
 - 2023 \| A in A'-domain. [Implicational Hierarchies in Clausal Complementation Workshop](https://ich.univie.ac.at/?page_id=158).
 - 2023 \| Addressees as applied arguments. [S-Lab at University of Maryland](https://linguistics.umd.edu/events/s-lab-soo-hwan-lee-nyu/addressees-applied-arguments-syntax), [The Korean Generative Grammar Circle & Hansung University Workshop](http://www.kggc.org/subList/20000002693?pmode=detail&nttSeq=1000000208).
