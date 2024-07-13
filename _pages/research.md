@@ -21,7 +21,7 @@ author_profile: true
 - Revise & resubmit \| Korean case stacking: Case, discourse and the nominal
 template. _NLLT_. (with Yining Nie) [[link](https://drive.google.com/file/d/1S__lZblmE0ma9xcOKhPRWZrqoG13cj1F/view?usp=drive_link)]
 - Revise & resubmit \| TP inside subject nominalizations: Evidence from Oshiwambo. _Glossa_. (with Olivia Ndapo) [[link](https://ling.auf.net/lingbuzz/007960)]
-- Revise with minor revisions \| Two types of English possessive free relatives: Quantifier float versus Incorporation. _Studies in Linguistics_. [[link]()]
+- Revise (minor revisions) \| Two types of English possessive free relatives: Quantifier float versus Incorporation. _Studies in Linguistics_. [[link]()]
 - 2024 \| Syntactic negation in Ewe (Tongugbe) agent nominalizations. _Syntax_. (with Selikem Gotah) [[link](https://onlinelibrary.wiley.com/doi/full/10.1111/synt.12280)]
 
 ### Proceedings papers
