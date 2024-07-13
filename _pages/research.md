@@ -25,7 +25,7 @@ template. _NLLT_. (with Yining Nie) [[link](https://drive.google.com/file/d/1S__
 
 ### Proceedings papers
 
-- To appear \| The Person Case Constraint (PCC) and honorification. _Proceedings of CLS 60_. [[draft](https://drive.google.com/file/d/1BgtS5DV0jDTHfdmYo2I9LxNB91NSJqh-/view?usp=drive_link)]
+- To appear \| The Person Case Constraint (PCC) and honorification. _Proceedings of CLS 60_. [[draft](https://drive.google.com/file/d/1cjP3M0NYLd8y6Vx0X5s0OsZw5kRZCMkb/view?usp=drive_link)]
 - 2024 \| Subject nominalizations in Setswana. _Proceedings of LSA 2024_. [[link](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/5662)]
 - 2023 \| Negation in Ewe (Tongugbe) agent nominalizations. _Proceedings of NELS 53_. (with Selikem Gotah) [[link](https://drive.google.com/file/d/1NkJsoPUg_y5F1lkbQKu96Nl2jp73W69L/view?usp=drive_link)]
 - 2023 \| Linearly adjacent allomorphs and syntactic copies. _Proceedings of CLS 58_. [[link](https://drive.google.com/file/d/1BxvMkJIQpcQGlKAjzkcIEqlEiiFS7_i_/view?usp=drive_link)]
