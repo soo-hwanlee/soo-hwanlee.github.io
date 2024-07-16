@@ -23,6 +23,7 @@ template. _NLLT_. (with Yining Nie) [[link](https://drive.google.com/file/d/1S__
 - Revise & resubmit \| TP inside subject nominalizations: Evidence from Oshiwambo. _Glossa_. (with Olivia Ndapo) [[link](https://ling.auf.net/lingbuzz/007960)]
 - Revise with minor revisions \| Two types of English possessive free relatives. _Studies in Linguistics_. [[link](https://drive.google.com/file/d/1htlM_dZayygr9-Z84pK9nBIImshKnOWI/view?usp=drive_link)]
 - 2024 \| Syntactic negation in Ewe (Tongugbe) agent nominalizations. _Syntax_. (with Selikem Gotah) [[link](https://onlinelibrary.wiley.com/doi/full/10.1111/synt.12280)]
+- 2018 \| Suppletion in serial verb constructions. _Studies in Generative Grammar_ 28(3). [[link](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002383221)]
 
 ### Proceedings papers
 
@@ -35,7 +36,6 @@ template. _NLLT_. (with Yining Nie) [[link](https://drive.google.com/file/d/1S__
 - 2020 \| Speech act phrases in Korean nominal structures. _Proceedings of JK 27_. [[link](http://web.stanford.edu/group/cslipublications/cslipublications/ja-ko-contents/JK27/JK27_Lee_Soo-Hwan.pdf)]
 - 2020 \| Prosody and EPP in Swahili. _Proceedings of AMP 2019_. [[link](http://journals.linguisticsociety.org/proceedings/index.php/amphonology/article/view/4658)]
 - 2019 \| Nominal mismatches in Swahili locatives. _Proceedings of LSA 2019_. (with Doo-Won Lee) [[link](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/4473)]
-- 2018 \| Suppletion in serial verb constructions. _Studies in Generative Grammar_ 28(3). [[link](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002383221)]
 - 2018 \| Suppletive allomorphy conditioned by humbleness in Korean. _Proceedings of BLS 44_. (with Minjung Kim) [[link](http://linguistics.berkeley.edu/bls/previous_proceedings/BLS44_proceedings.pdf)]
 <!-- - In prep. \| PCC and honorification: the higher nominal blocks person agreement with the lower nominal. [[abstract](https://drive.google.com/file/d/1hWhaLbjl_S8IG3vIwXDaGJkOrbNaOKV0/view?usp=drive_link)] -->
 <!-- - Submitted \| A in A'-domain: Addressees as applied arguments. [[link](https://drive.google.com/file/d/1G0W6B5fcx0BjO_YvzagCMT4wOtWCLz0W/view?usp=drive_link)] -->
