@@ -5,14 +5,10 @@ permalink: /research/
 author_profile: true
 ---
 
-<!-- ## Dissertation
-
-- Preliminary draft (defended) \| Introducing Arguments and Case. [[link](https://drive.google.com/file/d/1eutHNcCGUwL9tcELN1rPTrtiqM2TITPw/view?usp=drive_link)] -->
-
 ## Theoretical
 
 ### Thesis
-- 2024 \| _Introducing Arguments and Case_. Doctoral dissertation. NYU. <!-- [[link](https://ling.auf.net/lingbuzz/008237)] -->
+- 2024 \| _Introducing Arguments and Case_. Doctoral dissertation. NYU. [[link](https://ling.auf.net/lingbuzz/008237)]
 <!-- - 2019 \| _Gender stacking in Swahili_. Master's thesis. Sogang University. [[link](https://drive.google.com/file/d/1Ieou_edDvC5XSdBRykbxW_sPLAe0hBNq/view?usp=drive_link)] -->
 
 ### Journal papers
