@@ -17,7 +17,7 @@ author_profile: true
 - Revise & resubmit \| Korean case stacking: Case, discourse and the nominal
 template. _NLLT_. (with Yining Nie) [[link](https://drive.google.com/file/d/1S__lZblmE0ma9xcOKhPRWZrqoG13cj1F/view?usp=drive_link)]
 - Revise & resubmit \| TP inside subject nominalizations: Evidence from Oshiwambo. _Glossa_. (with Olivia Ndapo) [[link](https://ling.auf.net/lingbuzz/007960)]
-- Accepted \| Two types of English possessive free relatives. _Studies in Linguistics_. [[link](https://drive.google.com/file/d/1Ajf1AweD7POy_D76SaHEAzPBct8zVEYc/view?usp=drive_link)]
+- 2024 \| Two types of English possessive free relatives. _Studies in Linguistics_. [[link](https://drive.google.com/file/d/1Ajf1AweD7POy_D76SaHEAzPBct8zVEYc/view?usp=drive_link)]
 - 2024 \| Syntactic negation in Ewe (Tongugbe) agent nominalizations. _Syntax_. (with Selikem Gotah) [[link](https://onlinelibrary.wiley.com/doi/full/10.1111/synt.12280)]
 - 2018 \| Suppletion in serial verb constructions. _Studies in Generative Grammar_. [[link](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002383221)]
 
@@ -49,7 +49,7 @@ template. _NLLT_. (with Yining Nie) [[link](https://drive.google.com/file/d/1S__
 ### Papers
 
 - In prep. \| Language model performance on politeness dependencies in Hindi and Korean. (with Gurmeet Kaur and Shaonan Wang) [[link](https://drive.google.com/file/d/1lYB1hD_88c9yUukzNRJ8BMuIpT0mj4rt/view?usp=sharing)]
-- Accepted \| Language model performance on English control constructions and its implications. _The Journal of Linguistic Science_. [[link](https://drive.google.com/file/d/1z9k7zT0VfAk1s5kq6O6XTscl3tiO1RvL/view?usp=drive_link)]
+- 2024 \| Language model performance on English control constructions and its implications. _The Journal of Linguistic Science_. [[link](https://drive.google.com/file/d/1z9k7zT0VfAk1s5kq6O6XTscl3tiO1RvL/view?usp=drive_link)]
 - 2023 \| Do language models know how to be polite?. _Proceedings of SCiL 2023_. (with Shaonan Wang) [[link](https://openpublishing.library.umass.edu/scil/article/id/972/)]
 - 2023 \| Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models. _Transactions on Machine Learning Research (TMLR)_. (with 443 authors) [[link](https://openreview.net/pdf?id=uyTL5Bvosj)]
 - 2022 \| Can language models capture syntactic associations without surface cues? A case study of reflexive anaphor licensing in English control constructions. _Proceedings of SCiL 2022_. (with Sebastian Schuster) [[link](https://aclanthology.org/2022.scil-1.18/)]
