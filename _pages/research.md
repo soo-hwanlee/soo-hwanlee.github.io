@@ -13,7 +13,7 @@ author_profile: true
 
 ### Journal papers
 
-- In prep. \| No escape from syntax: Evidence from Gĩkũyũ subject nominalizations.
+- In prep. \| No escape from syntax: Evidence from Gĩkũyũ subject nominalizations. [[draft](https://drive.google.com/file/d/1cUHPlrzn-VM72wQXDtGb-iQgGjqufmOC/view?usp=drive_link)]
 - Revise & resubmit \| Korean case stacking: Case, discourse and the nominal
 template. _NLLT_. (with Yining Nie) [[link](https://drive.google.com/file/d/1S__lZblmE0ma9xcOKhPRWZrqoG13cj1F/view?usp=drive_link)]
 - Revise & resubmit \| TP inside subject nominalizations: Evidence from Oshiwambo. _Glossa_. (with Olivia Ndapo) [[link](https://ling.auf.net/lingbuzz/007960)]
