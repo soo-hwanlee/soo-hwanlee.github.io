@@ -13,7 +13,7 @@ author_profile: true
 
 ### Journal papers
 
-- In prep. \| No escape from syntax: Evidence from Gĩkũyũ subject nominalizations. [[draft](https://drive.google.com/file/d/1cUHPlrzn-VM72wQXDtGb-iQgGjqufmOC/view?usp=drive_link)]
+- In prep. \| No escape from syntax: Evidence from Gĩkũyũ subject nominalizations. [[draft](https://ling.auf.net/lingbuzz/008309)]
 - Revise & resubmit \| Korean case stacking: Case, discourse and the nominal
 template. _NLLT_. (with Yining Nie) [[link](https://drive.google.com/file/d/1S__lZblmE0ma9xcOKhPRWZrqoG13cj1F/view?usp=drive_link)]
 - Revise & resubmit \| TP inside subject nominalizations: Evidence from Oshiwambo. _Glossa_. (with Olivia Ndapo) [[link](https://ling.auf.net/lingbuzz/007960)]
@@ -23,7 +23,7 @@ template. _NLLT_. (with Yining Nie) [[link](https://drive.google.com/file/d/1S__
 
 ### Proceedings papers
 
-- To appear \| The Person Case Constraint (PCC) and honorification. _Proceedings of CLS 60_. [[draft](https://drive.google.com/file/d/1BgtS5DV0jDTHfdmYo2I9LxNB91NSJqh-/view?usp=drive_link)]
+- To appear \| The Person Case Constraint (PCC) and honorification. _Proceedings of CLS 60_. [[link](https://ling.auf.net/lingbuzz/008308)]
 - 2024 \| Subject nominalizations in Setswana. _Proceedings of LSA 2024_. [[link](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/5662)]
 - 2023 \| Negation in Ewe (Tongugbe) agent nominalizations. _Proceedings of NELS 53_. (with Selikem Gotah) [[link](https://drive.google.com/file/d/1NkJsoPUg_y5F1lkbQKu96Nl2jp73W69L/view?usp=drive_link)]
 - 2023 \| Linearly adjacent allomorphs and syntactic copies. _Proceedings of CLS 58_. [[link](https://drive.google.com/file/d/1BxvMkJIQpcQGlKAjzkcIEqlEiiFS7_i_/view?usp=drive_link)]
