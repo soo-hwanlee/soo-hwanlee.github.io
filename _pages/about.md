@@ -11,6 +11,8 @@ redirect_from:
 
 Welcome! I am a postdoctoral researcher in the Language Contact and Cognition Lab working with [Marlyse Baptista](https://web.sas.upenn.edu/marlysebaptista/) in the [Department of Linguistics at the University of Pennsylvania](https://www.ling.upenn.edu/). I am currently working on a collaborative project on the comparative syntax of Creoles and their source languages. I received a PhD in Linguistics from NYU. My advisor was [Alec Marantz](https://wp.nyu.edu/morphlab/alec-marantz/). You can find my CV [here](https://drive.google.com/file/d/1Q4UTS7XJkwzN3FFIKcBvewswEad437AE/view?usp=drive_link). 
 
+<!-- The project also involves building and analyzing corpora on these languages. -->
+
 <!-- and my academic family tree [here](https://academictree.org/linguistics/tree.php?pid=20966&fontsize=1&pnodecount=4&cnodecount=2)! -->
 
 My research primarily focuses on syntax and morphology. A theoretical framework I adopt is Distributed Morphology. One of my ongoing projects focuses on how nominal arguments are represented and licensed in syntax. I also examine the syntactic size of (non-)derived nominals by drawing evidence from understudied and underrepresented Bantu and Kwa family languages.
