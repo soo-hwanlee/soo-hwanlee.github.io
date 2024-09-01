@@ -18,7 +18,7 @@ author_profile: true
 template. _NLLT_. (with Yining Nie) [[link](https://drive.google.com/file/d/1S__lZblmE0ma9xcOKhPRWZrqoG13cj1F/view?usp=drive_link)]
 - Revise & resubmit \| TP inside subject nominalizations: Evidence from Oshiwambo. _Glossa_. (with Olivia Ndapo) [[link](https://ling.auf.net/lingbuzz/007960)]
 - 2024 \| Addressees as applied arguments. _The Journal of Studies in Language_. [[link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003109337)]
-- 2024 \| Two types of English possessive free relatives. _Studies in Linguistics_. [[link](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11861268)] & [[preprint](https://drive.google.com/file/d/1Ajf1AweD7POy_D76SaHEAzPBct8zVEYc/view?usp=drive_link)]
+- 2024 \| Two types of English possessive free relatives. _Studies in Linguistics_. [[link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003105500)] & [[preprint](https://drive.google.com/file/d/1Ajf1AweD7POy_D76SaHEAzPBct8zVEYc/view?usp=drive_link)]
 - 2024 \| Syntactic negation in Ewe (Tongugbe) agent nominalizations. _Syntax_. (with Selikem Gotah) [[link](https://onlinelibrary.wiley.com/doi/full/10.1111/synt.12280)]
 - 2018 \| Suppletion in serial verb constructions. _Studies in Generative Grammar_. [[link](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002383221)]
 
