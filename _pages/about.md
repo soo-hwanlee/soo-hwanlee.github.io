@@ -17,7 +17,10 @@ Welcome! I am a postdoctoral researcher in the Language Contact and Cognition La
 
 My research primarily focuses on syntax and morphology. A theoretical framework I adopt is Distributed Morphology. One of my ongoing projects focuses on how nominal arguments are represented and licensed in syntax. I also examine the syntactic size of (non-)derived nominals by drawing evidence from understudied and underrepresented Bantu and Kwa family languages.
 
-My research also focuses on evaluating large language models (LLMs) on tasks related to linguistic dependencies, including, but not limited to, agreement, anaphor binding, control, and politeness. My research so far suggests that LLMs do not fully recognize these linguistic dependencies. I am also interested in how LMs handle low-resource and typologically diverse languages.
+My research also focuses on evaluating large language models (LLMs) on tasks related to linguistic dependencies, including, but not limited to, agreement, anaphor binding, control, and politeness. I am also interested in how LMs handle low-resource and typologically diverse languages.
+
+<!-- My research so far suggests that LLMs do not fully recognize these linguistic dependencies. -->
+
 
 ## Research interests
 
