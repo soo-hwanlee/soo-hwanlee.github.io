@@ -62,7 +62,7 @@ template. _NLLT_. (with Yining Nie) [[link](https://drive.google.com/file/d/1S__
 
 ## Invited talks
 
-- Upcoming \| TBD. [Seminar talk in the Integrated Language Science and Technology (ILST) at the University of Pennsylvania](https://web.sas.upenn.edu/langscience/).
+- Upcoming \| TBD. [Seminar talk in the Integrated Language Science and Technology at the University of Pennsylvania](https://web.sas.upenn.edu/langscience/).
 - Upcoming \| TBD. [Colloquium in the Institute of Linguistics at the University of Minnesota](https://cla.umn.edu/linguistics/research/colloquium-other-events).
 - Upcoming \| No escape from syntax: Evidence from Gĩkũyũ subject nominalizations. [NYU Syntax Brown Bag](https://sites.google.com/a/nyu.edu/nyusyntaxbrownbag/).
 - 2024 \| Subject nominalizations in Ewe and Oshiwambo (joint work with Selikem Gotah and Olivia Ndapo). [Yale Syntax Reading Group](https://ling.yale.edu/research/reading-groups).
