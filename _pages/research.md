@@ -8,7 +8,8 @@ author_profile: true
 ## Theoretical
 
 ### Thesis
-- 2024 \| _Introducing Arguments and Case_. Doctoral dissertation. NYU. [[link](https://ling.auf.net/lingbuzz/008237)]
+- 2024 \| _Introducing Arguments and Case_. Doctoral dissertation. NYU.
+<!-- - [[link](https://ling.auf.net/lingbuzz/008237)] -->
 <!-- - 2019 \| _Gender stacking in Swahili_. Master's thesis. Sogang University. [[link](https://drive.google.com/file/d/1Ieou_edDvC5XSdBRykbxW_sPLAe0hBNq/view?usp=drive_link)] -->
 
 ### Journal papers
