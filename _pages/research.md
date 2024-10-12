@@ -63,7 +63,7 @@ template. _NLLT_. (with Yining Nie) [[link](https://drive.google.com/file/d/1S__
 
 ## Invited talks
 
-- Upcoming \| Do language models (LMs) know how to be polite? LM performance on linguistic dependencies sensitive to politeness. [Seminar talk in the Integrated Language Science and Technology (ILST) at the University of Pennsylvania](https://mindcore.sas.upenn.edu/calendar_event/ilst-seminar-soo-hwan-lee/).
+- 2024 \| Do language models (LMs) know how to be polite? LM performance on linguistic dependencies sensitive to politeness. [Seminar talk in the Integrated Language Science and Technology (ILST) at the University of Pennsylvania](https://mindcore.sas.upenn.edu/calendar_event/ilst-seminar-soo-hwan-lee/).
 - 2024 \| The syntax of subject nominalizations in Gĩkũyũ. [Colloquium in the Institute of Linguistics at the University of Minnesota](https://cla.umn.edu/linguistics/news-events/events/syntax-subject-nominalizations-gikuyu).
 - 2024 \| No escape from syntax: Evidence from Gĩkũyũ subject nominalizations. [NYU Syntax Brown Bag](https://sites.google.com/a/nyu.edu/nyusyntaxbrownbag/).
 - 2024 \| Subject nominalizations in Ewe and Oshiwambo (joint work with Selikem Gotah and Olivia Ndapo). [Yale Syntax Reading Group](https://ling.yale.edu/research/reading-groups).
