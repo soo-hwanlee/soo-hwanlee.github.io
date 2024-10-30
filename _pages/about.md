@@ -15,7 +15,7 @@ Welcome! I am a postdoctoral researcher in the [Language Contact and Cognition L
 
 <!-- and my academic family tree [here](https://academictree.org/linguistics/tree.php?pid=20966&fontsize=1&pnodecount=4&cnodecount=2)! -->
 
-My research primarily focuses on syntax and morphology. A theoretical framework I adopt is Distributed Morphology. One of my ongoing projects focuses on how nominal arguments are represented and licensed in syntax. I also examine the syntactic size of (non-)derived nominals by drawing evidence from understudied and underrepresented Bantu and Kwa family languages.
+My research primarily focuses on syntax and morphology. One of my ongoing projects focuses on how nominal arguments are represented and licensed in syntax. I also examine the syntactic size of (non-)derived nominals by drawing evidence from understudied and underrepresented Bantu and Kwa family languages.
 
 My research also focuses on evaluating large language models (LLMs) on tasks related to linguistic dependencies, including, but not limited to, agreement, anaphor binding, control, and politeness. I am also interested in how LMs handle low-resource and typologically diverse languages.
 
