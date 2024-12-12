@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a postdoctoral researcher in the [Language Contact and Cognition Lab](https://web.sas.upenn.edu/language-contact-cognition-lab/) working with [Marlyse Baptista](https://web.sas.upenn.edu/marlysebaptista/) in the [Department of Linguistics at the University of Pennsylvania](https://www.ling.upenn.edu/). I received a PhD in Linguistics from NYU. My advisor was [Alec Marantz](https://wp.nyu.edu/morphlab/alec-marantz/). You can find my CV [here](https://drive.google.com/file/d/1M7HbTzQbXdHw1nKDIIX80U_Ss_ZDUBrR/view?usp=drive_link). 
+Welcome! I am a postdoctoral researcher in the [Language Contact and Cognition Lab](https://web.sas.upenn.edu/language-contact-cognition-lab/) working with [Marlyse Baptista](https://web.sas.upenn.edu/marlysebaptista/) in the [Department of Linguistics at the University of Pennsylvania](https://www.ling.upenn.edu/). I received a PhD in Linguistics from NYU. My advisor was [Alec Marantz](https://wp.nyu.edu/morphlab/alec-marantz/). You can find my CV [here](https://drive.google.com/file/d/1C9OKOxGhUcLaPaTwiHhBuGOlFJLUur0V/view?usp=drive_link). 
 
 <!-- I am currently working on a collaborative project on the comparative syntax of Creoles and their source languages. The project also involves building and analyzing corpora on underrepresented languages. -->
 
