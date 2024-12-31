@@ -7,8 +7,8 @@ author_profile: true
 
 ## Theoretical
 
-### Thesis
-<!-- - 2024 \| _Introducing Arguments and Case_. Doctoral dissertation. NYU. [[link](https://www.proquest.com/docview/3072250540?sourcetyp&sourcetype=Dissertations%20&%20Theses)] -->
+<!-- ### Thesis
+- 2024 \| _Introducing Arguments and Case_. Doctoral dissertation. NYU. [[link](https://www.proquest.com/docview/3072250540?sourcetyp&sourcetype=Dissertations%20&%20Theses)] -->
 
 <!-- - 2019 \| _Gender stacking in Swahili_. Master's thesis. Sogang University. [[link](https://drive.google.com/file/d/1Ieou_edDvC5XSdBRykbxW_sPLAe0hBNq/view?usp=drive_link)] -->
 
