@@ -14,7 +14,7 @@ author_profile: true
 
 ### Journal papers
 
-- Submitted. \| Gĩkũyũ nominalizations and the Complex Head analysis. <!-- [[link](https://ling.auf.net/lingbuzz/008309)] -->
+- Submitted \| Gĩkũyũ nominalizations and the Complex Head analysis. <!-- [[link](https://ling.auf.net/lingbuzz/008309)] -->
 - Revise & resubmit \| Korean case stacking: Case, discourse and the nominal
 template. _NLLT_. (with Yining Nie) <!-- [[link](https://drive.google.com/file/d/1S__lZblmE0ma9xcOKhPRWZrqoG13cj1F/view?usp=drive_link)] -->
 - 2025 \| TP in Oshiwambo subject nominalizations. _Glossa_. (with Olivia Ndapo) [[link](https://www.glossa-journal.org/article/id/16344/)]
