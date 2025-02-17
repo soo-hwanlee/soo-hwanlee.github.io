@@ -9,7 +9,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a postdoctoral researcher in the Language Contact and Cognition Lab working with Marlyse Baptista in the Department of Linguistics at the University of Pennsylvania. I received a PhD in Linguistics from New York University. My advisor was Alec Marantz. You can find my CV [here](https://drive.google.com/file/d/1YsMYeNXxGc_eTJwBWJlwdY1InUztBd4L/view?usp=drive_link).
+Welcome! I am a postdoctoral researcher in the Language Contact and Cognition Lab working with Marlyse Baptista in the Department of Linguistics at the University of Pennsylvania. I received a PhD in Linguistics from New York University. My advisor was Alec Marantz. 
+
+<!-- You can find my CV [here](https://drive.google.com/file/d/1YsMYeNXxGc_eTJwBWJlwdY1InUztBd4L/view?usp=drive_link). -->
 
 <!-- Welcome! I am a postdoctoral researcher in the [Language Contact and Cognition Lab](https://web.sas.upenn.edu/language-contact-cognition-lab/) working with [Marlyse Baptista](https://web.sas.upenn.edu/marlysebaptista/) in the [Department of Linguistics at the University of Pennsylvania](https://www.ling.upenn.edu/). I received a PhD in Linguistics from NYU. My advisor was [Alec Marantz](https://wp.nyu.edu/morphlab/alec-marantz/). -->
 
