@@ -27,8 +27,8 @@ template. _NLLT_. (with Yining Nie) -->  <!-- [[link](https://drive.google.com/f
 
 ### Conference presentations
 
-- 2024 \| Tense-associated nominalization in Oshiwambo. [ACAL 55](https://acal55.mull-lab.org/). (with Olivia Ndapo)
-- 2024 \| PCC and honorification. [CLS 60](http://chicagolinguisticsociety.org/).
+- 2024 \| Tense-associated nominalization in Oshiwambo. ACAL 55. (with Olivia Ndapo)
+- 2024 \| PCC and honorification. CLS 60.
 - 2024 \| Agent nominalization without _of_-insertion in Setswana. [LSA 2024](https://virtual.oxfordabstracts.com/#/event/public/4438/information?page=1813). [[proceedings paper](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/5662)]
 - 2023 \| Introducing arguments in and out of the thematic domain. [JK 30](https://www.sfu.ca/xsyn/jk30.html).
 - 2023 \| Negation in Ewe (Tongugbe) agent nominalization. [NELS 53](https://nels53.uni-goettingen.de/) (with Selikem Gotah)
