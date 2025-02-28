@@ -27,10 +27,10 @@ template. _NLLT_. (with Yining Nie) -->  <!-- [[link](https://drive.google.com/f
 
 ### Conference presentations
 
-- 2024 \| Tense-associated nominalization in Oshiwambo. ACAL 55. (with Olivia Ndapo)
-- 2024 \| PCC and honorification. CLS 60.
-- 2024 \| Agent nominalization without _of_-insertion in Setswana. [LSA 2024](https://virtual.oxfordabstracts.com/#/event/public/4438/information?page=1813). [[proceedings paper](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/5662)]
-- 2023 \| Introducing arguments in and out of the thematic domain. [JK 30](https://www.sfu.ca/xsyn/jk30.html).
+- 2024 \| Tense-associated nominalization in Oshiwambo. **ACAL 55**. (with Olivia Ndapo)
+- 2024 \| PCC and honorification. **CLS 60**.
+- 2024 \| Agent nominalization without _of_-insertion in Setswana. **LSA 2024**. [[proceedings paper](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/5662)]
+- 2023 \| Introducing arguments in and out of the thematic domain. **JK 30**.
 - 2023 \| Negation in Ewe (Tongugbe) agent nominalization. [NELS 53](https://nels53.uni-goettingen.de/) (with Selikem Gotah)
 - 2022 \| Linearly adjacent allomorphs and syntactic copies. [CLS 58](http://chicagolinguisticsociety.org/). [[proceedings paper](https://drive.google.com/file/d/1BxvMkJIQpcQGlKAjzkcIEqlEiiFS7_i_/view?usp=drive_link)]
 - 2021 \| Korean case stacking and the nominal template. [PLC 45](https://www.ling.upenn.edu/Events/PLC/plc45/index.html). (with Yining Nie) [[proceedings paper](https://repository.upenn.edu/pwpl/vol28/iss1/11/)]
