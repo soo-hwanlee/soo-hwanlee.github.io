@@ -27,20 +27,20 @@ template. _NLLT_. (with Yining Nie) -->  <!-- [[link](https://drive.google.com/f
 
 ### Conference presentations
 
-- 2024 \| Tense-associated nominalization in Oshiwambo. **ACAL 55**. (with Olivia Ndapo)
-- 2024 \| PCC and honorification. **CLS 60**.
-- 2024 \| Agent nominalization without _of_-insertion in Setswana. **LSA 2024**. [[proceedings paper](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/5662)]
-- 2023 \| Introducing arguments in and out of the thematic domain. **JK 30**.
-- 2023 \| Negation in Ewe (Tongugbe) agent nominalization. [NELS 53](https://nels53.uni-goettingen.de/) (with Selikem Gotah)
-- 2022 \| Linearly adjacent allomorphs and syntactic copies. [CLS 58](http://chicagolinguisticsociety.org/). [[proceedings paper](https://drive.google.com/file/d/1BxvMkJIQpcQGlKAjzkcIEqlEiiFS7_i_/view?usp=drive_link)]
-- 2021 \| Korean case stacking and the nominal template. [PLC 45](https://www.ling.upenn.edu/Events/PLC/plc45/index.html). (with Yining Nie) [[proceedings paper](https://repository.upenn.edu/pwpl/vol28/iss1/11/)]
-- 2021 \| Expressives and non-repeatability in Korean. [LSA 2021](https://www.linguisticsociety.org/node/34814/schedule).
-- 2020 \| Swahili locatives and underspecification in PF. [LSA 2020](https://www.linguisticsociety.org/node/17104/schedule). (with Inkie Chung)
-- 2019 \| Speech act phrases in Korean nominal structures. [JK 27](http://www.mikebarrie.com/JK/jk27.html). [[proceedings paper](https://web.stanford.edu/group/cslipublications/cslipublications/ja-ko-contents/JK27/JK27_Lee_Soo-Hwan.pdf)]
-- 2019 \| Prosodic boundaries and EPP in Swahili. [AMP 2019](https://www.stonybrook.edu/commcms/amp2019/). [[proceedings paper](http://journals.linguisticsociety.org/proceedings/index.php/amphonology/article/view/4658)]
-- 2019 \| Nominal mismatches in Swahili locatives. [LSA 2019](https://www.linguisticsociety.org/node/9647/schedule). (with Doo-Won Lee) [[proceedings paper](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/4473)]
-- 2018 \| Case drop and idioms in Korean. [Psycholinguistics Round Table 2018](https://gradmypage.cufs.ac.kr/PublicRelationAction.do?cmd=filedown&dirname=bbs_path&brdcode=12&grpcode=1&filename=PsyRTprogram2018May19HanyangUniversity(FINAL).pdf). (with Michael Barrie)
-- 2018 \| Suppletive allomorphy of pronouns conditioned by humbleness in Korean. [BLS 44](http://linguistics.berkeley.edu/bls/proceedings.html). (with Minjung Kim) [[proceedings paper](http://linguistics.berkeley.edu/bls/previous_proceedings/BLS44_proceedings.pdf)]
+- 2024 \| Tense-associated nominalization in Oshiwambo. ACAL 55. (with Olivia Ndapo)
+- 2024 \| PCC and honorification. CLS 60.
+- 2024 \| Agent nominalization without _of_-insertion in Setswana. LSA 2024. [[proceedings paper](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/5662)]
+- 2023 \| Introducing arguments in and out of the thematic domain. JK 30.
+- 2023 \| Negation in Ewe (Tongugbe) agent nominalization. NELS 53. (with Selikem Gotah)
+- 2022 \| Linearly adjacent allomorphs and syntactic copies. CLS 58. [[proceedings paper](https://drive.google.com/file/d/1BxvMkJIQpcQGlKAjzkcIEqlEiiFS7_i_/view?usp=drive_link)]
+- 2021 \| Korean case stacking and the nominal template. PLC 45. (with Yining Nie) [[proceedings paper](https://repository.upenn.edu/pwpl/vol28/iss1/11/)]
+- 2021 \| Expressives and non-repeatability in Korean. LSA 2021.
+- 2020 \| Swahili locatives and underspecification in PF. LSA 2020. (with Inkie Chung)
+- 2019 \| Speech act phrases in Korean nominal structures. JK 27. [[proceedings paper](https://web.stanford.edu/group/cslipublications/cslipublications/ja-ko-contents/JK27/JK27_Lee_Soo-Hwan.pdf)]
+- 2019 \| Prosodic boundaries and EPP in Swahili. AMP 2019. [[proceedings paper](http://journals.linguisticsociety.org/proceedings/index.php/amphonology/article/view/4658)]
+- 2019 \| Nominal mismatches in Swahili locatives. LSA 2019. (with Doo-Won Lee) [[proceedings paper](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/4473)]
+- 2018 \| Case drop and idioms in Korean. Psycholinguistics Round Table 2018. (with Michael Barrie)
+- 2018 \| Suppletive allomorphy of pronouns conditioned by humbleness in Korean. BLS 44. (with Minjung Kim) [[proceedings paper](http://linguistics.berkeley.edu/bls/previous_proceedings/BLS44_proceedings.pdf)]
 
 
 ### Proceedings papers
