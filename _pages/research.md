@@ -8,7 +8,7 @@ author_profile: true
 ## Theoretical
 
 ### Thesis
-- 2024 \| _Introducing Arguments and Case_. Doctoral dissertation. NYU. [[link](https://www.proquest.com/docview/3072250540?sourcetyp&sourcetype=Dissertations%20&%20Theses)]
+- 2024 \| _Introducing Arguments and Case_. Doctoral dissertation. NYU. [[dissertation](https://www.proquest.com/docview/3072250540?sourcetyp&sourcetype=Dissertations%20&%20Theses)]
 
 <!-- - 2019 \| _Gender stacking in Swahili_. Master's thesis. Sogang University. [[link](https://drive.google.com/file/d/1Ieou_edDvC5XSdBRykbxW_sPLAe0hBNq/view?usp=drive_link)] -->
 
@@ -18,8 +18,8 @@ author_profile: true
 - Revise & resubmit \| Korean case stacking: Case, discourse and the nominal
 template. _NLLT_. (with Yining Nie) -->  <!-- [[link](https://drive.google.com/file/d/1S__lZblmE0ma9xcOKhPRWZrqoG13cj1F/view?usp=drive_link)] -->
 
-- 2025 \| TP in Oshiwambo subject nominalizations. _Glossa_. (with Olivia Ndapo) [[link](https://www.glossa-journal.org/article/id/16344/)]
-- 2024 \| Syntactic negation in Ewe (Tongugbe) agent nominalizations. _Syntax_. (with Selikem Gotah) [[link](https://onlinelibrary.wiley.com/doi/full/10.1111/synt.12280)]
+- 2025 \| TP in Oshiwambo subject nominalizations. _Glossa_. (with Olivia Ndapo) [[paper](https://www.glossa-journal.org/article/id/16344/)]
+- 2024 \| Syntactic negation in Ewe (Tongugbe) agent nominalizations. _Syntax_. (with Selikem Gotah) [[paper](https://onlinelibrary.wiley.com/doi/full/10.1111/synt.12280)]
 
 <!-- - 2024 \| Addressees as applied arguments. _The Journal of Studies in Language_. [[link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003109337)]
 - 2024 \| Two types of English possessive free relatives. _Studies in Linguistics_. [[link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003105500)] & [[preprint](https://drive.google.com/file/d/1Ajf1AweD7POy_D76SaHEAzPBct8zVEYc/view?usp=drive_link)]
@@ -39,10 +39,9 @@ template. _NLLT_. (with Yining Nie) -->  <!-- [[link](https://drive.google.com/f
 - 2018 \| Suppletive allomorphy of pronouns conditioned by humbleness in Korean. BLS 44. (with Minjung Kim) [[proceedings paper](http://linguistics.berkeley.edu/bls/previous_proceedings/BLS44_proceedings.pdf)]
 
 
-### Proceedings papers
+<!-- ### Proceedings papers ->
 
-<!-- - To appear \| The Person Case Constraint (PCC) and honorification. _Proceedings of CLS 60_. [[link](https://ling.auf.net/lingbuzz/008308)] -->
-- 2024 \| Subject nominalizations in Setswana. _Proceedings of LSA 2024_. [[link](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/5662)]
+<!-- - 2024 \| Subject nominalizations in Setswana. _Proceedings of LSA 2024_. [[link](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/5662)]
 - 2023 \| Negation in Ewe (Tongugbe) agent nominalizations. _Proceedings of NELS 53_. (with Selikem Gotah) [[link](https://drive.google.com/file/d/1NkJsoPUg_y5F1lkbQKu96Nl2jp73W69L/view?usp=drive_link)]
 - 2023 \| Linearly adjacent allomorphs and syntactic copies. _Proceedings of CLS 58_. [[link](https://drive.google.com/file/d/1BxvMkJIQpcQGlKAjzkcIEqlEiiFS7_i_/view?usp=drive_link)]
 - 2023 \| Introducing arguments beyond the thematic domain. _Proceedings of LSA 2023_. [[link](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/5463)]
@@ -50,15 +49,19 @@ template. _NLLT_. (with Yining Nie) -->  <!-- [[link](https://drive.google.com/f
 - 2020 \| Speech act phrases in Korean nominal structures. _Proceedings of JK 27_. [[link](http://web.stanford.edu/group/cslipublications/cslipublications/ja-ko-contents/JK27/JK27_Lee_Soo-Hwan.pdf)]
 - 2020 \| Prosody and EPP in Swahili. _Proceedings of AMP 2019_. [[link](http://journals.linguisticsociety.org/proceedings/index.php/amphonology/article/view/4658)]
 - 2019 \| Nominal mismatches in Swahili locatives. _Proceedings of LSA 2019_. (with Doo-Won Lee) [[link](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/4473)]
-- 2018 \| Suppletive allomorphy conditioned by humbleness in Korean. _Proceedings of BLS 44_. (with Minjung Kim) [[link](http://linguistics.berkeley.edu/bls/previous_proceedings/BLS44_proceedings.pdf)]
+- 2018 \| Suppletive allomorphy conditioned by humbleness in Korean. _Proceedings of BLS 44_. (with Minjung Kim) [[link](http://linguistics.berkeley.edu/bls/previous_proceedings/BLS44_proceedings.pdf)] ->
+
+
+<!-- - To appear \| The Person Case Constraint (PCC) and honorification. _Proceedings of CLS 60_. [[link](https://ling.auf.net/lingbuzz/008308)] -->
+
 <!-- - In prep. \| PCC and honorification: the higher nominal blocks person agreement with the lower nominal. [[abstract](https://drive.google.com/file/d/1hWhaLbjl_S8IG3vIwXDaGJkOrbNaOKV0/view?usp=drive_link)] -->
 <!-- - Submitted \| A in A'-domain: Addressees as applied arguments. [[link](https://drive.google.com/file/d/1G0W6B5fcx0BjO_YvzagCMT4wOtWCLz0W/view?usp=drive_link)] -->
-<!-- - 2017 \| Suppletive passivization of _mac_ ‘to be hit’ in Korean. _Proceedings of BLS 43_. (with Minjung Kim) [[link](https://escholarship.org/uc/item/6s83k9xm)] -->
+<!-- - 2017 \| Suppletive passivization of _mac_ ‘to be hit’ in Korean. _Proceedings of BLS 43_. (with Minjung Kim) [[link](https://escholarship.org/uc/item/6s83k9xm)] --> 
 
 
 ### Book chapters
 
-- 2023 \| Formality weakening and the underspecified expressive _yo_ in Korean. In Elin McCready and Hiroki Nomoto, editors. _Discourse Particles in Asian Languages_. Routledge. [[link](https://www.taylorfrancis.com/chapters/edit/10.4324/9781351057837-8/formality-weakening-underspecified-expressive-yo-korean-soo-hwan-lee)]
+- 2023 \| Formality weakening and the underspecified expressive _yo_ in Korean. In Elin McCready and Hiroki Nomoto, editors. _Discourse Particles in Asian Languages_. Routledge. [[book chapter](https://www.taylorfrancis.com/chapters/edit/10.4324/9781351057837-8/formality-weakening-underspecified-expressive-yo-korean-soo-hwan-lee)]
 
 
 
