@@ -25,6 +25,8 @@ redirect_from:
 
 ## Courses
 
+- 2025 (Spring) \| Studies on Modern Linguistics (Graduate course), GNU
+- 2025 (Spring) \| Understanding English Sentence Structures (Undergrad course), GNU
 - 2022 (Fall) \| Grammatical Analysis (Syntax) (TA for Stephanie Harves), NYU
 - 2022 (Spring) \| First Language Acquisition (TA for Ailís Cournane), NYU
 - 2021 (Spring) \| Language (Intro to Linguistics) (TA for Lucas Champollion), NYU
