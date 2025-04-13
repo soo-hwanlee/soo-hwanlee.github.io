@@ -174,10 +174,10 @@ kramdown:
 
 
 # Collections
-#collections:
-#  research:
-#    output: true
-#    permalink: /:collection/:path/
+collections:
+ research:
+   output: true
+   permalink: /:collection/:path/
 
 # Defaults
 #defaults:
