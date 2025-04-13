@@ -9,7 +9,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a postdoctoral researcher in the Language Contact and Cognition Lab working with Marlyse Baptista in the Department of Linguistics at the University of Pennsylvania. I received a PhD in Linguistics from New York University where I worked with Alec Marantz. 
+Welcome! I am a linguist with primary interests in syntax and morphology. 
+
+At [GNU](https://www.gnu.ac.kr/main/main.do), I teach (under)graduate-level syntax and NLP courses as an assistant professor (tenure track). Previously, I was a postdoctoral researcher at the University of Pennsylvania working with Marlyse Baptista. I received my PhD from New York University where I worked with Alec Marantz. 
 
 <!-- You can find my CV [here](https://drive.google.com/file/d/1YsMYeNXxGc_eTJwBWJlwdY1InUztBd4L/view?usp=drive_link). -->
 
