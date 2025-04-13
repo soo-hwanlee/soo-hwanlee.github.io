@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a linguist specializing in syntax and morphology. 
+Welcome! I am a linguist specializing in syntax. 
 
 At [GNU](https://www.gnu.ac.kr/main/main.do), I teach (under)graduate-level syntax and NLP courses as an assistant professor (tenure track). Previously, I was a postdoctoral researcher at the [UPenn](https://www.upenn.edu/) working with Marlyse Baptista. I received my PhD from [NYU](https://www.nyu.edu/) where I worked with Alec Marantz. 
 
