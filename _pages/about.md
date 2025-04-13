@@ -11,7 +11,7 @@ redirect_from:
 
 Welcome! I am a linguist specializing in morphosyntax. 
 
-At [GNU](https://www.gnu.ac.kr/main/main.do), I teach (under)graduate-level syntax and NLP courses as an assistant professor (tenure track). Previously, I was a postdoctoral researcher at [UPenn](https://www.upenn.edu/) working with [Marlyse Baptista](https://web.sas.upenn.edu/marlysebaptista/). I received my PhD from [NYU](https://www.nyu.edu/) where I worked with [Alec Marantz](https://wp.nyu.edu/morphlab/alec-marantz/). 
+At [GNU](https://www.gnu.ac.kr/main/main.do), I teach (under)graduate-level syntax and NLP courses as an assistant professor (tenure track). Previously, I was a postdoctoral researcher at [UPenn](https://www.upenn.edu/) where I worked with [Marlyse Baptista](https://web.sas.upenn.edu/marlysebaptista/). I received my PhD from [NYU](https://www.nyu.edu/) where I worked with [Alec Marantz](https://wp.nyu.edu/morphlab/alec-marantz/). 
 
 <!-- You can find my CV [here](https://drive.google.com/file/d/1YsMYeNXxGc_eTJwBWJlwdY1InUztBd4L/view?usp=drive_link). -->
 
