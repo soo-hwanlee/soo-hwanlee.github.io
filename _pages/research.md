@@ -75,17 +75,15 @@ template. _NLLT_. (with Yining Nie) -->  <!-- [[link](https://drive.google.com/f
 
 ### Papers
 
-<!-- - - In prep. \| Language model performance on politeness dependencies in Hindi and Korean. (with Gurmeet Kaur and Shaonan Wang) [[link](https://drive.google.com/file/d/1lYB1hD_88c9yUukzNRJ8BMuIpT0mj4rt/view?usp=sharing)] -->
 - 2024 \| Language model performance on English control constructions and its implications. _The Journal of Linguistic Science_. [[link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003101345)]
-
-<!-- & [[preprint](https://drive.google.com/file/d/1z9k7zT0VfAk1s5kq6O6XTscl3tiO1RvL/view?usp=drive_link)] -->
-
 - 2023 \| Do language models know how to be polite?. _Proceedings of SCiL 2023_. (with Shaonan Wang) [[link](https://openpublishing.library.umass.edu/scil/article/id/972/)]
 - 2023 \| Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models. _Transactions on Machine Learning Research (TMLR)_. (with 443 authors) [[link](https://openreview.net/pdf?id=uyTL5Bvosj)]
 - 2022 \| Can language models capture syntactic associations without surface cues? A case study of reflexive anaphor licensing in English control constructions. _Proceedings of SCiL 2022_. (with Sebastian Schuster) [[link](https://aclanthology.org/2022.scil-1.18/)]
 - 2021 \| NOPE: A Corpus of Naturally-Occurring Presuppositions in English. _Proceedings of CoNLL 2021_. (with +Alicia Parrish, +Sebastian Schuster, +Alex Warstadt, Omar Agha, Zhuoye Zhao, Samuel R. Bowman, and Tal Linzen) [+ = equal contribution]  [[link](https://aclanthology.org/2021.conll-1.28/)]
 - 2021 \| Does Putting a Linguist in the Loop Improve NLU Data Collection? _Findings of ACL: EMNLP 2021_. (with Alicia Parrish, Will Huang, Omar Agha, Nikita Nangia, Alex Warstadt, Karmanya Aggarwal, Emily Allaway, Tal Linzen, and Samuel R. Bowman) [[link](https://aclanthology.org/2021.findings-emnlp.421/)]
 
+<!-- - - In prep. \| Language model performance on politeness dependencies in Hindi and Korean. (with Gurmeet Kaur and Shaonan Wang) [[link](https://drive.google.com/file/d/1lYB1hD_88c9yUukzNRJ8BMuIpT0mj4rt/view?usp=sharing)] -->
+<!-- & [[preprint](https://drive.google.com/file/d/1z9k7zT0VfAk1s5kq6O6XTscl3tiO1RvL/view?usp=drive_link)] -->
 
 ---
 
