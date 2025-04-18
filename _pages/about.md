@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a linguist specializing in syntax. I am currently an assistant professor (tenure track) at [GNU](https://www.gnu.ac.kr/main/main.do). Previously, I was a postdoctoral researcher at [UPenn](https://www.upenn.edu/) where I worked with [Marlyse Baptista](https://web.sas.upenn.edu/marlysebaptista/). I received my PhD from [NYU](https://www.nyu.edu/) where I worked with [Alec Marantz](https://wp.nyu.edu/morphlab/alec-marantz/). You can find my CV [here](https://drive.google.com/file/d/19zM26-TUKkxoqDi036L-5FjKod_p28G2/view?usp=drive_link).
+Welcome! I am a linguist specializing in syntax and morphology. I am currently an assistant professor (tenure track) at [GNU](https://www.gnu.ac.kr/main/main.do). Previously, I was a postdoctoral researcher at [UPenn](https://www.upenn.edu/) where I worked with [Marlyse Baptista](https://web.sas.upenn.edu/marlysebaptista/). I received my PhD from [NYU](https://www.nyu.edu/) where I worked with [Alec Marantz](https://wp.nyu.edu/morphlab/alec-marantz/). You can find my CV [here](https://drive.google.com/file/d/19zM26-TUKkxoqDi036L-5FjKod_p28G2/view?usp=drive_link).
 
 <!-- Welcome! I am a postdoctoral researcher in the [Language Contact and Cognition Lab](https://web.sas.upenn.edu/language-contact-cognition-lab/) working with [Marlyse Baptista](https://web.sas.upenn.edu/marlysebaptista/) in the [Department of Linguistics at the University of Pennsylvania](https://www.ling.upenn.edu/). I received a PhD in Linguistics from NYU. My advisor was [Alec Marantz](https://wp.nyu.edu/morphlab/alec-marantz/). -->
 
