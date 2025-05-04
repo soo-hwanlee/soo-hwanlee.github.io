@@ -12,7 +12,7 @@ author_profile: true
 
 <!-- - 2019 \| _Gender stacking in Swahili_. Master's thesis. Sogang University. [[link](https://drive.google.com/file/d/1Ieou_edDvC5XSdBRykbxW_sPLAe0hBNq/view?usp=drive_link)] -->
 
-### Journal papers
+### Papers
 
 <!-- - Submitted \| Gĩkũyũ nominalizations and the Complex Head analysis. <!-- [[link](https://ling.auf.net/lingbuzz/008309)] 
 - Revise & resubmit \| Korean case stacking: Case, discourse and the nominal
