@@ -37,6 +37,7 @@ template. _NLLT_. (with Yining Nie) -->  <!-- [[link](https://drive.google.com/f
 - 2019 \| Speech act phrases in Korean nominal structures. JK 27. [[proceedings paper](https://web.stanford.edu/group/cslipublications/cslipublications/ja-ko-contents/JK27/JK27_Lee_Soo-Hwan.pdf)]
 - 2019 \| Prosodic boundaries and EPP in Swahili. AMP 2019. [[proceedings paper](http://journals.linguisticsociety.org/proceedings/index.php/amphonology/article/view/4658)]
 - 2019 \| Nominal mismatches in Swahili locatives. LSA 2019. (with Doo-Won Lee) [[proceedings paper](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/4473)]
+- 2019 \| Swahili locatives and underspecification in PF. (with Inkie Chung)  
 - 2018 \| Suppletive allomorphy of pronouns conditioned by humbleness in Korean. BLS 44. (with Minjung Kim) [[proceedings paper](http://linguistics.berkeley.edu/bls/previous_proceedings/BLS44_proceedings.pdf)]
 
 
