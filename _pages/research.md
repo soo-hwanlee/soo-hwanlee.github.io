@@ -29,7 +29,7 @@ template. _NLLT_. (with Yining Nie) -->  <!-- [[link](https://drive.google.com/f
 ### Conference presentations
 - 2025 \| Two types of subject nominalizations in Gĩkũyũ. LSA 2025.
 - 2024 \| Tense-associated nominalization in Oshiwambo. ACAL 55. (with Olivia Ndapo)
-- 2024 \| The PCC and honorification. CLS 60. [see my [dissertation](https://www.proquest.com/docview/3072250540?sourcetyp&sourcetype=Dissertations%20&%20Theses) for a previous version of this]
+- 2024 \| The PCC and honorification. CLS 60. [see my [[dissertation](https://www.proquest.com/docview/3072250540?sourcetyp&sourcetype=Dissertations%20&%20Theses)] for a previous version of this]
 - 2024 \| Agent nominalization without _of_-insertion in Setswana. LSA 2024. [[proceedings paper](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/5662)]
 - 2023 \| Negation in Ewe (Tongugbe) agent nominalization. NELS 53. (with Selikem Gotah)
 - 2022 \| Linearly adjacent allomorphs and syntactic copies. CLS 58. [[proceedings paper](https://drive.google.com/file/d/1BxvMkJIQpcQGlKAjzkcIEqlEiiFS7_i_/view?usp=drive_link)]
