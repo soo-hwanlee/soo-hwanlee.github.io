@@ -17,7 +17,7 @@ Welcome! I am a linguist specializing in syntax and morphology. I am currently a
 
 <!-- and my academic family tree [here](https://academictree.org/linguistics/tree.php?pid=20966&fontsize=1&pnodecount=4&cnodecount=2)! -->
 
-Some of my ongoing projects focus on how nominal arguments are represented and licensed in syntax. I also examine the syntactic size of (non-)derived nominals by drawing evidence from understudied and underrepresented Bantu and Kwa family languages.
+Some of my ongoing projects focus on how nominal arguments are represented and licensed in syntax. I also examine the syntactic size of entity nominalizations (e.g., _singer_) by drawing evidence from understudied and underrepresented Bantu and Kwa family languages.
 
 My research also focuses on evaluating large language models (LLMs) on tasks related to linguistic dependencies, including, but not limited to, agreement, anaphor binding, control, and politeness. I am also interested in how LMs handle low-resource and typologically diverse languages.
 
