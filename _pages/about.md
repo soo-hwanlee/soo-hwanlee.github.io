@@ -97,6 +97,6 @@ For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
 
----
+<!-- ---
 
-<!-- In addition to doing research, I enjoy watching student performances that advertise various forms of art & culture. [Here](https://drive.google.com/file/d/1RTVsX3WxeTH16KoummRFMV1-oB8GZc9Q/view?usp=drive_link) is a short post-curtain call clip from a show organized by the students from the [Department of Folk Art & Dance](https://www.gnu.ac.kr/enminsok/main.do) at GNU. -->
+In addition to doing research, I enjoy watching student performances that advertise various forms of art & culture. [Here](https://drive.google.com/file/d/1RTVsX3WxeTH16KoummRFMV1-oB8GZc9Q/view?usp=drive_link) is a short post-curtain call clip from a show organized by the students from the [Department of Folk Art & Dance](https://www.gnu.ac.kr/enminsok/main.do) at GNU. -->
