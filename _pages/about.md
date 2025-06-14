@@ -31,7 +31,7 @@ My research also focuses on evaluating large language models (LLMs) on tasks rel
 - Case & discourse markers
 - (L)LM performance
 
-
+In addition to being a linguist, I am a strong advocate of student performances that advertise various forms of art & culture. Here is a short post-curtain call [clip](https://drive.google.com/file/d/112FXk6QFZr_-SS_01O5o1_V_I4w6BYp7/view?usp=drive_link) from a show organized by the students from the [Department of Folk Art & Dance](https://www.gnu.ac.kr/enminsok/main.do) at GNU.
 
 <!-- ## Papers
 
