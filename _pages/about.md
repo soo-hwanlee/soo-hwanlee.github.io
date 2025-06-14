@@ -26,7 +26,7 @@ My research also focuses on evaluating large language models (LLMs) on tasks rel
 
 ## Research interests
 
-- Nominal structure
+- Nominal structure & nominalizations
 - Argument structure
 - Case & discourse markers
 - (L)LM performance
