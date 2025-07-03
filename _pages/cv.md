@@ -24,12 +24,12 @@ redirect_from:
 - 2018 \| Linguistic Society of Korea (LSK) Scholarship -->
 
 ## Graduate Courses
-- 2025 (Fall) \| Minimalist Grammar (Instructor), GNU
-- 2025 (Spring) \| Studies in Modern Linguistics (Instructor), GNU
+- 2025 (Fall) \| Minimalist Grammar, GNU
+- 2025 (Spring) \| Studies in Modern Linguistics, GNU
 
 ## Undergraduate Courses
-- 2025 (Fall) \| Analyzing English Sentences (Instructor), GNU
-- 2025 (Spring) \| Understanding English Sentence Structures (Instructor), GNU
+- 2025 (Fall) \| Analyzing English Sentences, GNU
+- 2025 (Spring) \| Understanding English Sentence Structures, GNU
 - 2022 (Fall) \| Grammatical Analysis (Syntax) (TA for Stephanie Harves), NYU
 - 2022 (Spring) \| First Language Acquisition (TA for Ailís Cournane), NYU
 - 2021 (Spring) \| Language (Intro to Linguistics) (TA for Lucas Champollion), NYU
