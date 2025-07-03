@@ -23,11 +23,11 @@ redirect_from:
 - 2019 \| Dean's Student Travel Grant Award, New York University
 - 2018 \| Linguistic Society of Korea (LSK) Scholarship -->
 
-## Graduate Courses
+## Graduate courses
 - 2025 (Fall) \| Minimalist Grammar, GNU
 - 2025 (Spring) \| Studies in Modern Linguistics, GNU
 
-## Undergraduate Courses
+## Undergraduate courses
 - 2025 (Fall) \| Analyzing English Sentences, GNU
 - 2025 (Spring) \| Understanding English Sentence Structures, GNU
 - 2022 (Fall) \| Grammatical Analysis (Syntax) (TA for Stephanie Harves), NYU
