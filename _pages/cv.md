@@ -23,14 +23,16 @@ redirect_from:
 - 2019 \| Dean's Student Travel Grant Award, New York University
 - 2018 \| Linguistic Society of Korea (LSK) Scholarship -->
 
-## Courses
+## Graduate Courses
+- 2025 (Fall) \| Minimalist Grammar (Instructor), GNU
+- 2025 (Spring) \| Studies in Modern Linguistics (Instructor), GNU
 
-- 2025 (Spring) \| Studies in Modern Linguistics (Graduate course instructor), GNU
+## Undergraduate Courses
+- 2025 (Fall) \| Analyzing English Sentences (Undergraduate course instructor), GNU
 - 2025 (Spring) \| Understanding English Sentence Structures (Undergraduate course instructor), GNU
 - 2022 (Fall) \| Grammatical Analysis (Syntax) (TA for Stephanie Harves), NYU
 - 2022 (Spring) \| First Language Acquisition (TA for Ailís Cournane), NYU
 - 2021 (Spring) \| Language (Intro to Linguistics) (TA for Lucas Champollion), NYU
-- 2017 (Spring) \| English (Student teacher during teaching practicum), Sacred Heart Girls’ High School, South Korea
 
 ## Guest lecture
 
