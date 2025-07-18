@@ -32,6 +32,7 @@ template. _NLLT_. (with Yining Nie) -->  <!-- [[link](https://drive.google.com/f
 - 2024 \| The PCC and honorification. CLS 60. (please see my [[dissertation](https://www.proquest.com/docview/3072250540?sourcetyp&sourcetype=Dissertations%20&%20Theses)] for this work)
 - 2024 \| Agent nominalization without _of_-insertion in Setswana. LSA 2024. [[proceedings paper](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/5662)]
 - 2023 \| Negation in Ewe (Tongugbe) agent nominalization. NELS 53. (with Selikem Gotah)
+- 2023 \| Introducing arguments in and out of the thematic domain. JK 30.
 - 2022 \| Linearly adjacent allomorphs and syntactic copies. CLS 58. [[proceedings paper](https://drive.google.com/file/d/1BxvMkJIQpcQGlKAjzkcIEqlEiiFS7_i_/view?usp=drive_link)]
 - 2021 \| Korean case stacking and the nominal template. PLC 45. (with Yining Nie) [[proceedings paper](https://repository.upenn.edu/pwpl/vol28/iss1/11/)]
 - 2020 \| Swahili locatives and underspecification in PF. LSA 2020. (with Inkie Chung)  
