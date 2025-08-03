@@ -92,6 +92,7 @@ template. _NLLT_. (with Yining Nie) -->  <!-- [[link](https://drive.google.com/f
 
 ## Invited talks
 
+- Upcoming \| TBA. [Invited talk at the Linguistic Society of Korea (LSK)]
 - Upcoming \| What Bantu languages tell us about nominalizations. [Plenary talk at the 10th Asian Junior Linguists (AJL 10) Conference at International Christian University](https://sites.google.com/view/ajl10/home), [Invited talk at Sogang University](https://www.sogang.ac.kr/ko/home).
 - 2024 \| Do language models (LMs) know how to be polite? LM performance on linguistic dependencies sensitive to politeness. [Seminar talk in the Integrated Language Science and Technology (ILST) at the University of Pennsylvania](https://mindcore.sas.upenn.edu/calendar_event/ilst-seminar-soo-hwan-lee/).
 - 2024 \| The syntax of subject nominalizations in Gĩkũyũ. [Colloquium in the Institute of Linguistics at the University of Minnesota](https://cla.umn.edu/linguistics/news-events/events/syntax-subject-nominalizations-gikuyu), [NYU Syntax Brown Bag](https://sites.google.com/a/nyu.edu/nyusyntaxbrownbag/).
