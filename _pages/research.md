@@ -20,7 +20,7 @@ template. _NLLT_. (with Yining Nie) -->  <!-- [[link](https://drive.google.com/f
 
 - Revised & resubmitted \| No escape from syntax: Gĩkũyũ nominalizations and the Complex Head analysis.
 - 2025 \| TP in Oshiwambo subject nominalizations. _Glossa_. (with Olivia Ndapo) [[paper](https://www.glossa-journal.org/article/id/16344/)]
-- 2024 \| Syntactic negation in Ewe (Tongugbe) agent nominalizations. _Syntax_. (with Selikem Gotah) [[paper](https://onlinelibrary.wiley.com/doi/full/10.1111/synt.12280)]
+- 2024 \| Syntactic negation in Ewe (Tongugbe) agent nominalizations. _Syntax_. (with Selikem Gotah) [[paper](https://onlinelibrary.wiley.com/doi/full/10.1111/synt.12280)] [[preprint](https://ling.auf.net/lingbuzz/006823)]
 
 <!-- - 2024 \| Addressees as applied arguments. _The Journal of Studies in Language_. [[link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003109337)]
 - 2024 \| Two types of English possessive free relatives. _Studies in Linguistics_. [[link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003105500)] & [[preprint](https://drive.google.com/file/d/1Ajf1AweD7POy_D76SaHEAzPBct8zVEYc/view?usp=drive_link)]
