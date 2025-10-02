@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a linguist specializing in syntax and morphology. I am currently a tenure-track assistant professor in the Department of English Language and Literature at Gyeongsang National University (GNU). Previously, I was a postdoctoral researcher at the University of Pennsylvania where I worked with [Marlyse Baptista](https://web.sas.upenn.edu/marlysebaptista/). I received my PhD from New York University (NYU) where I worked with [Alec Marantz](https://wp.nyu.edu/morphlab/alec-marantz/). You can find my CV [here](https://drive.google.com/file/d/1fjRjlNk2LBNXGd2I0OFREnbW7XeI1Oiy/view?usp=drive_link).
+Welcome! I am a linguist specializing in syntax and morphology. I am currently a tenure-track assistant professor in the Department of English Language and Literature at Gyeongsang National University (GNU) in Korea. Previously, I was a postdoctoral researcher at the University of Pennsylvania where I worked with [Marlyse Baptista](https://web.sas.upenn.edu/marlysebaptista/). I received my PhD from New York University (NYU) where I worked with [Alec Marantz](https://wp.nyu.edu/morphlab/alec-marantz/). You can find my CV [here](https://drive.google.com/file/d/1fjRjlNk2LBNXGd2I0OFREnbW7XeI1Oiy/view?usp=drive_link).
 
 <!-- Welcome! I am a linguist specializing in syntax and morphology. I am currently a tenure-track assistant professor at [GNU](https://www.gnu.ac.kr/main/main.do). Previously, I was a postdoctoral researcher at [UPenn](https://www.upenn.edu/) where I worked with [Marlyse Baptista](https://web.sas.upenn.edu/marlysebaptista/). I received my PhD from [NYU](https://www.nyu.edu/) where I worked with [Alec Marantz](https://wp.nyu.edu/morphlab/alec-marantz/). You can find my CV [here](https://drive.google.com/file/d/1YRC2pAU2YTmiWKK4wLvyLwLNvehsSo6T/view?usp=drive_link). -->
 
@@ -21,7 +21,7 @@ Welcome! I am a linguist specializing in syntax and morphology. I am currently a
 
 My projects focus on how nominal arguments are represented and licensed in syntax. In my [dissertation](https://ling.auf.net/lingbuzz/008237), I investigate how case markers interact with honorific features in syntactically meaningful ways. Here, I pursue the idea that first Merge (complement-head relation) is unique and different from non-first Merge (specifier-head relation). In my other projects, I examine the syntactic size of entity nominalizations (e.g., _a singer_) by drawing evidence from understudied and underrepresented Bantu and Kwa family languages. My findings so far suggest that entity nominalizations come in various verbal sizes and they can be as big as TPs/NegPs and as small as a verbal complex head. 
 
-My research also focuses on evaluating LLMs on tasks related to linguistic dependencies, including, but not limited to, agreement, anaphor binding, control, negation, and politeness. I am also interested in how LMs handle low-resource and typologically diverse languages.
+My research also focuses on evaluating Large Language Models (LLMs) on tasks related to linguistic dependencies, including, but not limited to, agreement, anaphor binding, control, negation, and politeness. I am also interested in how LMs handle low-resource and typologically diverse languages.
 
 <!-- My research so far suggests that LLMs do not fully recognize these linguistic dependencies. -->
 
