@@ -18,7 +18,7 @@ author_profile: true
 - Revise & resubmit \| Korean case stacking: Case, discourse and the nominal
 template. _NLLT_. (with Yining Nie) -->  <!-- [[link](https://drive.google.com/file/d/1S__lZblmE0ma9xcOKhPRWZrqoG13cj1F/view?usp=drive_link)] -->
 
-- Revised & resubmitted \| No escape from syntax: Gĩkũyũ nominalizations and the Complex Head analysis.
+- Revised & resubmitted \| No escape from syntax: Gĩkũyũ nominalizations and the Complex Head analysis. [[link]([https://www.glossa-journal.org/article/id/16344/](https://ling.auf.net/lingbuzz/008309?_s=ttUjnL4a0vyEd3Cr&_k=2nUGa0OpKJPDmhOq))]
 - 2025 \| TP in Oshiwambo subject nominalizations. _Glossa_. (with Olivia Ndapo) [[paper](https://www.glossa-journal.org/article/id/16344/)]
 - 2024 \| Syntactic negation in Ewe (Tongugbe) agent nominalizations. _Syntax_. (with Selikem Gotah) [[paper](https://onlinelibrary.wiley.com/doi/full/10.1111/synt.12280)] [[preprint](https://ling.auf.net/lingbuzz/006823)]
 
