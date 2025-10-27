@@ -27,6 +27,7 @@ template. _NLLT_. (with Yining Nie) -->  <!-- [[link](https://drive.google.com/f
 - 2018 \| Suppletion in serial verb constructions. _Studies in Generative Grammar_. [[link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002383221)] -->
 
 ### Conference presentations
+- Upcoming \| _Wh_-Extraction across _wh_-Islands in English control constructions. LSK 2025.
 - 2025 \| Two types of subject nominalizations in Gĩkũyũ. LSA 2025.
 - 2024 \| Tense-associated nominalization in Oshiwambo. ACAL 55. (with Olivia Ndapo)
 - 2024 \| The PCC and honorification. CLS 60. (a revised version of this work is available [[here](https://ling.auf.net/lingbuzz/008308?_s=a-h09duPqCo4AIMC&_k=aXZKPy1nWWWJH_t8)])
