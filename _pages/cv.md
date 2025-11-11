@@ -23,7 +23,7 @@ redirect_from:
 - 2019 \| Dean's Student Travel Grant Award, New York University
 - 2018 \| Linguistic Society of Korea (LSK) Scholarship -->
 
-## Graduate (PhD & MA) courses
+## PhD & MA graduate courses
 - 2025 (Fall) \| Minimalist Grammar, GNU
 - 2025 (Spring) \| Studies in Modern Linguistics, GNU
 
