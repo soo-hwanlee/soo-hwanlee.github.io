@@ -27,7 +27,7 @@ template. _NLLT_. (with Yining Nie) -->  <!-- [[link](https://drive.google.com/f
 - 2018 \| Suppletion in serial verb constructions. _Studies in Generative Grammar_. [[link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002383221)] -->
 
 ### Conference presentations
-- Upcoming \| _Wh_-extraction across _wh_-islands in English control constructions. LSK 2025. (with Michael Barrie)
+- 2025 \| _Wh_-extraction across _wh_-islands in English control constructions. LSK 2025. (with Michael Barrie)
 - 2025 \| Two types of subject nominalizations in Gĩkũyũ. LSA 2025.
 - 2024 \| Tense-associated nominalization in Oshiwambo. ACAL 55. (with Olivia Ndapo)
 - 2024 \| The PCC and honorification. CLS 60. (a revised version of this work is available [[here](https://ling.auf.net/lingbuzz/008308?_s=a-h09duPqCo4AIMC&_k=aXZKPy1nWWWJH_t8)])
@@ -90,8 +90,8 @@ constructions by humans and GPT models. (with Gyu-Ho Shin and Chanyoung Lee)
 
 ## Invited talks
 
-- Upcoming \| Don't sweep everything under the Lexicon!. [Invited talk at Sogang University](https://www.sogang.ac.kr/ko/home).
 - Upcoming \| What Bantu languages tell us about nominalizations. [Plenary talk at the 10th Asian Junior Linguists (AJL 10) Conference at International Christian University (ICU)](https://sites.google.com/view/ajl10/home), [Invited talk at Sogang University](https://www.sogang.ac.kr/ko/home).
+- 2025 \| Don't sweep everything under the Lexicon!. [Invited talk at Sogang University](https://www.sogang.ac.kr/ko/home).
 - 2025 \| The Person Case Constraint (PCC) and the constraints on honorific markers. [Syntax/semantics reading group at the National University of Singapore (NUS)](https://mitcho.com/nus/synsem/).
 - 2024 \| Do language models (LMs) know how to be polite? LM performance on linguistic dependencies sensitive to politeness. [Seminar talk in the Integrated Language Science and Technology (ILST) at the University of Pennsylvania](https://mindcore.sas.upenn.edu/calendar_event/ilst-seminar-soo-hwan-lee/).
 - 2024 \| The syntax of subject nominalizations in Gĩkũyũ. [Colloquium in the Institute of Linguistics at the University of Minnesota](https://cla.umn.edu/linguistics/news-events/events/syntax-subject-nominalizations-gikuyu), [NYU Syntax Brown Bag](https://sites.google.com/a/nyu.edu/nyusyntaxbrownbag/).
