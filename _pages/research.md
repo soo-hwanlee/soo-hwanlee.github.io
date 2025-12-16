@@ -90,7 +90,7 @@ constructions by humans and GPT models. (with Gyu-Ho Shin and Chanyoung Lee)
 
 ## Invited talks
 
-- Upcoming \| What Bantu languages tell us about nominalizations. [Plenary talk at the 10th Asian Junior Linguists (AJL 10) Conference at International Christian University (ICU)](https://sites.google.com/view/ajl10/home), [Invited talk at Sogang University](https://www.sogang.ac.kr/ko/home).
+- 2025 \| What Bantu languages tell us about nominalizations. [Plenary talk at the 10th Asian Junior Linguists (AJL 10) Conference at International Christian University (ICU)](https://sites.google.com/view/ajl10/home), [Invited talk at Sogang University](https://www.sogang.ac.kr/ko/home).
 - 2025 \| Don't sweep everything under the Lexicon! [Invited talk at Sogang University](https://www.sogang.ac.kr/ko/home).
 - 2025 \| The Person Case Constraint (PCC) and the constraints on honorific markers. [Syntax/semantics reading group at the National University of Singapore (NUS)](https://mitcho.com/nus/synsem/).
 - 2024 \| Do language models (LMs) know how to be polite? LM performance on linguistic dependencies sensitive to politeness. [Seminar talk in the Integrated Language Science and Technology (ILST) at the University of Pennsylvania](https://mindcore.sas.upenn.edu/calendar_event/ilst-seminar-soo-hwan-lee/).
