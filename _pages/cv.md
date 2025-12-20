@@ -24,13 +24,13 @@ redirect_from:
 - 2018 \| Linguistic Society of Korea (LSK) Scholarship -->
 
 ## PhD & MA graduate courses
-- 2026 (Spring) \| Seminar in Syntax: Nominalizations (How do verbs turn into nouns?), GNU
+- Forthcoming \| Seminar in Syntax: Nominalizations (How do verbs turn into nouns?), GNU
 - 2025 (Fall) \| Minimalist Grammar, GNU
 - 2025 (Spring) \| Studies in Modern Linguistics, GNU
 
 ## Undergraduate courses
-- Every Fall \| Analyzing English Sentences (Undergrad Syntax II - A'-properties), GNU
 - Every Spring \| Understanding English Sentence Structures (Undergrad Syntax I - A-properties), GNU
+- Every Fall \| Analyzing English Sentences (Undergrad Syntax II - A'-properties), GNU
 - 2022 (Fall) \| Grammatical Analysis (Syntax) (TA for Stephanie Harves), NYU
 - 2022 (Spring) \| First Language Acquisition (TA for Ailís Cournane), NYU
 - 2021 (Spring) \| Language (Intro to Linguistics) (TA for Lucas Champollion), NYU
