@@ -18,9 +18,12 @@ author_profile: true
 - Revise & resubmit \| Korean case stacking: Case, discourse and the nominal
 template. _NLLT_. (with Yining Nie) -->  <!-- [[link](https://drive.google.com/file/d/1S__lZblmE0ma9xcOKhPRWZrqoG13cj1F/view?usp=drive_link)] -->
 - 2026 \| [No escape from syntax: Gĩkũyũ nominalizations and the Complex Head analysis](https://www.cambridge.org/core/journals/journal-of-linguistics/article/no-escape-from-syntax-gikuyu-nominalizations-and-the-complex-head-analysis/905FEF3D95C5447C729983962DA5B175). _Journal of Linguistics_.
+- 2025 \| [TP in Oshiwambo subject nominalizations](https://www.glossa-journal.org/article/id/16344/). _Glossa_. (with Olivia Ndapo)
+- 2024 \| [Syntactic negation in Ewe (Tongugbe) agent nominalizations](https://onlinelibrary.wiley.com/doi/full/10.1111/synt.12280). _Syntax_. (with Selikem Gotah) [[preprint](https://ling.auf.net/lingbuzz/006823)]
+
 <!-- [[paper](https://www.cambridge.org/core/journals/journal-of-linguistics/article/no-escape-from-syntax-gikuyu-nominalizations-and-the-complex-head-analysis/905FEF3D95C5447C729983962DA5B175)] -->
-- 2025 \| TP in Oshiwambo subject nominalizations. _Glossa_. (with Olivia Ndapo) [[paper](https://www.glossa-journal.org/article/id/16344/)]
-- 2024 \| Syntactic negation in Ewe (Tongugbe) agent nominalizations. _Syntax_. (with Selikem Gotah) [[paper](https://onlinelibrary.wiley.com/doi/full/10.1111/synt.12280)] [[preprint](https://ling.auf.net/lingbuzz/006823)]
+<!-- [[paper](https://www.glossa-journal.org/article/id/16344/)]-->
+<!-- [[paper](https://onlinelibrary.wiley.com/doi/full/10.1111/synt.12280)] -->
 
 <!-- - 2024 \| Addressees as applied arguments. _The Journal of Studies in Language_. [[link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003109337)]
 - 2024 \| Two types of English possessive free relatives. _Studies in Linguistics_. [[link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003105500)] & [[preprint](https://drive.google.com/file/d/1Ajf1AweD7POy_D76SaHEAzPBct8zVEYc/view?usp=drive_link)]
