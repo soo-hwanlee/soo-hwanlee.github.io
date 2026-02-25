@@ -24,7 +24,7 @@ redirect_from:
 - 2018 \| Linguistic Society of Korea (LSK) Scholarship -->
 
 ## PhD & MA graduate courses
-- Upcoming Spring \| Seminar in Syntax: Nominalizations (How do verbs turn into nouns?), GNU
+- 2026 (Spring) \| Seminar in Syntax: Nominalizations (How do verbs turn into nouns?), GNU
 - 2025 (Fall) \| Minimalist Grammar, GNU
 - 2025 (Spring) \| Studies in Modern Linguistics, GNU
 
