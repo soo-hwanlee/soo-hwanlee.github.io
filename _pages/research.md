@@ -32,6 +32,8 @@ template. _NLLT_. (with Yining Nie) -->  <!-- [[link](https://drive.google.com/f
 - 2018 \| Suppletion in serial verb constructions. _Studies in Generative Grammar_. [[link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002383221)] -->
 
 ### Conference presentations
+
+-2026 \| Korean nominal stacking and the argument/oblique alternation (joint work with and presented by Yining Nie). [AAAL Workshop 2](https://aaal.uni-koeln.de/workshops/workshop-2).
 - 2025 \| _Wh_-extraction across _wh_-islands in English control constructions. LSK 2025. (with Michael Barrie)
 - 2025 \| Two types of subject nominalizations in Gĩkũyũ. LSA 2025.
 - 2024 \| Tense-associated nominalization in Oshiwambo. ACAL 55. (with Olivia Ndapo)
