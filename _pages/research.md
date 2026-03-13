@@ -21,7 +21,7 @@ author_profile: true
 template. _NLLT_. (with Yining Nie) -->  <!-- [[link](https://drive.google.com/file/d/1S__lZblmE0ma9xcOKhPRWZrqoG13cj1F/view?usp=drive_link)] -->
 - 2026 \| No escape from syntax: Gĩkũyũ nominalizations and the Complex Head analysis. _Journal of Linguistics_. [[paper](https://www.cambridge.org/core/journals/journal-of-linguistics/article/no-escape-from-syntax-gikuyu-nominalizations-and-the-complex-head-analysis/905FEF3D95C5447C729983962DA5B175)]
 - 2025 \| TP in Oshiwambo subject nominalizations. _Glossa_. (with Olivia Ndapo) [[paper](https://www.glossa-journal.org/article/id/16344/)]
-- 2024 \| Syntactic negation in Ewe (Tongugbe) agent nominalizations. _Syntax_. (with Selikem Gotah) [[paper] [[preprint](https://ling.auf.net/lingbuzz/006823)](https://onlinelibrary.wiley.com/doi/full/10.1111/synt.12280)] (And yes, this predates the launch of _Syntactic Theory and Research_ (_STAR_)!)
+- 2024 \| Syntactic negation in Ewe (Tongugbe) agent nominalizations. _Syntax_. (with Selikem Gotah) [[paper](https://onlinelibrary.wiley.com/doi/full/10.1111/synt.12280)] [[preprint](https://ling.auf.net/lingbuzz/006823)] (And yes, this predates the launch of _Syntactic Theory and Research_ (_STAR_)!)
 
 
 <!-- [[paper](https://www.cambridge.org/core/journals/journal-of-linguistics/article/no-escape-from-syntax-gikuyu-nominalizations-and-the-complex-head-analysis/905FEF3D95C5447C729983962DA5B175)] -->
