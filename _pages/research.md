@@ -80,9 +80,9 @@ author_profile: true
 
 ### Papers
 
-- Accepted \| Beyond linearity and beyond English: Language model performance on Korean NPI licensing. _Proceedings of SCiL 2026_. (with C. Lee and G-H. Shin)
-- Accepted \| GPT surprisal as a limited proxy for human sentence acceptability: Evidence from Korean clausal constructions. _Proceedings of CogSci 2026_. (with C. Lee and G-H. Shin)
-- Accepted \| Probability versus prompting: Language model performance on dependencies beyond English. _Studies in Linguistics_. (with S. Wang)
+- To appear \| Beyond linearity and beyond English: Language model performance on Korean NPI licensing. _Proceedings of SCiL 2026_. (with C. Lee and G-H. Shin)
+- To appear \| GPT surprisal as a limited proxy for human sentence acceptability: Evidence from Korean clausal constructions. _Proceedings of CogSci 2026_. (with C. Lee and G-H. Shin)
+- To appear \| Probability versus prompting: Language model performance on dependencies beyond English. _Studies in Linguistics_. (with S. Wang)
 - 2024 \| Language model performance on English control constructions and its implications. _Journal of Linguistic Science_. [[link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003101345)]
 - 2023 \| Do language models know how to be polite?. _Proceedings of SCiL 2023_. (with S. Wang) [[link](https://openpublishing.library.umass.edu/scil/article/id/972/)]
 - 2023 \| Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models. _Transactions on Machine Learning Research (TMLR)_. (with various authors) [[link](https://openreview.net/pdf?id=uyTL5Bvosj)]
