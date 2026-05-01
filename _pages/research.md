@@ -97,7 +97,7 @@ author_profile: true
 
 ## Invited talks
 
-- Upcoming \| TBD. [Invited talk at Chosun University](https://eng.chosun.ac.kr/eng/index.do).
+- Upcoming \| Argument structure inside Bantu nominalizations. [Invited talk at Chosun University](https://eng.chosun.ac.kr/eng/index.do).
 - 2025 \| What Bantu languages tell us about nominalizations. [Plenary talk at the 10th Asian Junior Linguists (AJL 10) Conference at International Christian University (ICU)](https://sites.google.com/view/ajl10/home).
 - 2025 \| Don't sweep everything under the Lexicon! [Invited talk at Sogang University](https://www.sogang.ac.kr/en/home).
 - 2025 \| The Person Case Constraint (PCC) and the constraints on honorific markers. [Syntax/semantics reading group at the National University of Singapore (NUS)](https://mitcho.com/nus/synsem/).
