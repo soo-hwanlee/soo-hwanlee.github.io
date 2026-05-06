@@ -32,7 +32,7 @@ author_profile: true
 
 ### Conference presentations
 
-- 2026 \| Syntax versus syncretism: Phases and the intervention effect of honorific case markers. WAFL 19.
+- Upcoming \| Syntax versus syncretism: Phases and the intervention effect of honorific case markers. WAFL 19.
 - 2026 \| Korean nominal stacking and the argument/oblique alternation. AAAL Workshop 2. (joint work with and presented by Yining Nie)
 - 2025 \| _Wh_-extraction across _wh_-islands in English control constructions. LSK 2025. (with Michael Barrie)
 - 2025 \| Two types of subject nominalizations in Gĩkũyũ. LSA 2025.
