@@ -21,7 +21,7 @@ Welcome! I am a linguist specializing in syntax. I am currently an Assistant Pro
 
 My projects focus on how nominal arguments are represented and licensed in syntax. I also examine the syntactic size of entity nominalizations (e.g., _a sing-er_) by drawing evidence from understudied and underrepresented languages.
 
-My research also focuses on evaluating Large Language Models (LLMs) on tasks related to linguistic dependencies, including, but not limited to, agreement, binding, control, negation, and politeness. I am also interested in how LMs handle low-resource and typologically diverse languages.
+My research also focuses on evaluating large language models (LLMs) on tasks related to linguistic dependencies, including, but not limited to, agreement, binding, control, negation, and politeness. I am also interested in how LMs handle low-resource and typologically diverse languages.
 
 <!-- My research so far suggests that LLMs do not fully recognize these linguistic dependencies. -->
 
