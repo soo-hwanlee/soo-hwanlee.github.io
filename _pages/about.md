@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a linguist specializing in syntax. 
+Welcome! I am a linguist specializing in syntax and morphology. 
 
 I am currently an Assistant Professor in the Department of English Language and Literature at Gyeongsang National University (GNU) in Korea. Previously, I was a postdoctoral researcher at the University of Pennsylvania where I worked with Marlyse Baptista. I received my PhD from New York University (NYU) where I worked with Alec Marantz. You can find my CV [here](https://drive.google.com/file/d/1b4Ykx7J_70qiU_xgpeB4jGueX4ASqwiV/view?usp=drive_link).
 
