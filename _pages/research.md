@@ -22,6 +22,8 @@ author_profile: true
 - 2024 \| Syntactic negation in Ewe (Tongugbe) agent nominalizations. _Syntax_. (with Selikem Gotah) [[paper](https://onlinelibrary.wiley.com/doi/full/10.1111/synt.12280)] [[preprint](https://ling.auf.net/lingbuzz/006823)] (And yes, this predates the launch of _Syntactic Theory and Research_ (_STAR_)!)
 
 
+<!-- (a revised version of this work is available [[here](https://ling.auf.net/lingbuzz/008308?_s=a-h09duPqCo4AIMC&_k=aXZKPy1nWWWJH_t8)]) -->
+
 <!-- [[paper](https://www.cambridge.org/core/journals/journal-of-linguistics/article/no-escape-from-syntax-gikuyu-nominalizations-and-the-complex-head-analysis/905FEF3D95C5447C729983962DA5B175)] -->
 <!-- [[paper](https://www.glossa-journal.org/article/id/16344/)]-->
 <!-- [[paper](https://onlinelibrary.wiley.com/doi/full/10.1111/synt.12280)] -->
