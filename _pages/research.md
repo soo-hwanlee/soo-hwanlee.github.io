@@ -37,7 +37,7 @@ author_profile: true
 - 2025 \| _Wh_-extraction across _wh_-islands in English control constructions. LSK 2025. (with Michael Barrie)
 - 2025 \| Two types of subject nominalizations in Gĩkũyũ. LSA 2025.
 - 2024 \| Tense-associated nominalization in Oshiwambo. ACAL 55. (with Olivia Ndapo)
-- 2024 \| The PCC and honorification. CLS 60. (a revised version of this work is available [[here](https://ling.auf.net/lingbuzz/008308?_s=a-h09duPqCo4AIMC&_k=aXZKPy1nWWWJH_t8)])
+- 2024 \| The PCC and honorification. CLS 60.
 - 2024 \| Agent nominalization without _of_-insertion in Setswana. LSA 2024. [[proceedings paper](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/5662)]
 - 2023 \| Negation in Ewe (Tongugbe) agent nominalization. NELS 53. (with Selikem Gotah)
 - 2023 \| Introducing arguments in and out of the thematic domain. JK 30.
