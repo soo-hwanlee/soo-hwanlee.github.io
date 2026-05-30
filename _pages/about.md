@@ -27,7 +27,7 @@ My projects focus on how nominal arguments are represented and licensed in synta
 
 
 
-My research also focuses on evaluating large language models (LLMs) on tasks related to linguistic dependencies. My work is primarily concerned with using linguistic theories to evaluate the performance of LLMs.
+My research also focuses on evaluating large language models (LLMs) on tasks related to linguistic dependencies. My work is primarily concerned with using syntactic theories to evaluate LLM performance. I am also interested in how well LLMs perform on typologically diverse languages.
 
 <!-- My research so far suggests that LLMs do not fully recognize these linguistic dependencies. -->
 
