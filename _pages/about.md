@@ -21,13 +21,15 @@ I am currently an Assistant Professor at Gyeongsang National University (GNU) in
 
 <!-- and my academic family tree [here](https://academictree.org/linguistics/tree.php?pid=20966&fontsize=1&pnodecount=4&cnodecount=2)! -->
 
-My projects focus on how nominal arguments are represented and licensed in syntax. I also examine the syntactic size of entity nominalizations (e.g., _a sing-er_) by drawing evidence from understudied and underrepresented languages.
+My projects focus on how nominal arguments are represented and licensed in syntax. I also examine the syntactic size of nominalizations (e.g., _a sing-er_) by drawing evidence from understudied and underrepresented languages.
 
 <!-- In my dissertation, I investigate how case markers interact with honorific features in syntactically meaningful ways. Here, I pursue the idea that first Merge (complement-head relation) is unique and different from non-first Merge (specifier-head relation). My findings so far suggest that entity nominalizations come in various verbal sizes and they can be as big as TPs/NegPs and as small as a verbal complex head. -->
 
 
 
 My research also focuses on evaluating large language models (LLMs) on tasks related to linguistic dependencies. My work is primarily concerned with evaluating LLMs using formal linguistic theories. I am also interested in how well LLMs perform on typologically diverse languages.
+
+My research also examines how large language models (LLMs) handle linguistic dependencies. I evaluate LLMs through the lens of formal linguistic theories, with a focus on how well these models perform across typologically diverse languages.
 
 <!-- My research so far suggests that LLMs do not fully recognize these linguistic dependencies. -->
 
