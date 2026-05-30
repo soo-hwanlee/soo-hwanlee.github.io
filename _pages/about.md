@@ -25,7 +25,7 @@ My projects focus on how nominal arguments are represented and licensed in synta
 
 <!-- In my dissertation, I investigate how case markers interact with honorific features in syntactically meaningful ways. Here, I pursue the idea that first Merge (complement-head relation) is unique and different from non-first Merge (specifier-head relation). My findings so far suggest that entity nominalizations come in various verbal sizes and they can be as big as TPs/NegPs and as small as a verbal complex head. -->
 
-My research also examines how large language models (LLMs) handle linguistic dependencies. I evaluate LLMs through the lens of formal linguistic theories, with a focus on how well these models perform across typologically diverse languages.
+My research also examines how large language models (LLMs) handle linguistic dependencies. I evaluate LLMs using formal linguistic theories. My work also focuses on how well these models perform across typologically diverse languages.
 
 <!-- My research also focuses on evaluating large language models (LLMs) on tasks related to linguistic dependencies. My work is primarily concerned with evaluating LLMs using formal linguistic theories. I am also interested in how well LLMs perform on typologically diverse languages. -->
 
