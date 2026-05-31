@@ -93,7 +93,7 @@ author_profile: true
 - 2021 \| Does Putting a Linguist in the Loop Improve NLU Data Collection? _Findings of ACL: EMNLP 2021_. (with A. Parrish, W. Huang, O. Agha, N. Nangia, A. Warstadt, K. Aggarwal, E. Allaway, T. Linzen, and S. R. Bowman) [[link](https://aclanthology.org/2021.findings-emnlp.421/)]
 
 
-<!-- 2026 \| Probability versus prompting: Language model performance on dependencies beyond English. _Studies in Linguistics_. (with S. Wang) -->
+<!-- 2026 \| Probability versus prompting: Language model performance on dependencies beyond English. _Studies in Linguistics_. (with S. Wang) [[link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003335082)] -->
 <!-- 2024 \| Language model performance on English control constructions and its implications. _Journal of Linguistic Science_. [[link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003101345)] -->
 
 ---
