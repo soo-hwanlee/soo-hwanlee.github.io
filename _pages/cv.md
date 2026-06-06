@@ -31,7 +31,7 @@ redirect_from:
 
 ## Undergraduate courses
 - Every Spring \| Understanding English Sentence Structures (Syntax I - A-properties), GNU
-- Every Fall \| Analyzing English Sentences (Syntax II - A'-properties & LLMs performance), GNU
+- Every Fall \| Analyzing English Sentences (Syntax II - A'-properties & LLM performance), GNU
 - 2022 (Fall) \| Grammatical Analysis (Syntax) (TA working with Stephanie Harves), NYU
 - 2022 (Spring) \| First Language Acquisition (TA working with Ailís Cournane), NYU
 - 2021 (Spring) \| Language (Intro to Linguistics) (TA working with Lucas Champollion), NYU
