@@ -34,7 +34,7 @@ author_profile: true
 
 ### Conference presentations
 
-- Upcoming \| Syntax versus syncretism: Phases and the intervention effect of honorific case markers. WAFL 19.
+- 2026 \| Syntax versus syncretism: Phases and the intervention effect of honorific case markers. WAFL 19.
 - 2026 \| Korean nominal stacking and the argument/oblique alternation. AAAL Workshop 2. (joint work with and presented by Yining Nie)
 - 2025 \| _Wh_-extraction across _wh_-islands in English control constructions. LSK 2025. (with Michael Barrie)
 - 2025 \| Two types of subject nominalizations in Gĩkũyũ. LSA 2025.
@@ -86,15 +86,14 @@ author_profile: true
 <!-- - To appear \| Beyond linearity and beyond English: Language model performance on Korean NPI licensing. _Proceedings of SCiL 2026_. (with C. Lee and G-H. Shin) -->
 - To appear \| GPT surprisal as a limited proxy for human sentence acceptability: Evidence from Korean clausal constructions. _Proceedings of the 48th Annual Meeting of the Cognitive Science Society_. (with C. Lee and G-H. Shin) 
 - 2026 \| Open-access Dataset on Acceptability Ratings of Korean Clausal Constructions by Humans and GPT Models. _Proceedings of LREC 2026_. (with G-H. Shin and C. Lee) [[link](https://doi.org/10.63317/2icd7h29b849)]
+- 2026 \| Probability versus prompting: Language model performance on dependencies beyond English. _Studies in Linguistics_. (with S. Wang) [[link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003335082)]
+- 2024 \| Language model performance on English control constructions and its implications. _Journal of Linguistic Science_. [[link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003101345)] 
 - 2023 \| Do language models know how to be polite?. _Proceedings of SCiL 2023_. (with S. Wang) [[link](https://openpublishing.library.umass.edu/scil/article/id/972/)]
 - 2023 \| Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models. _Transactions on Machine Learning Research (TMLR)_. (with various authors) [[link](https://openreview.net/pdf?id=uyTL5Bvosj)]
 - 2022 \| Can language models capture syntactic associations without surface cues? A case study of reflexive anaphor licensing in English control constructions. _Proceedings of SCiL 2022_. (with S. Schuster) [[link](https://aclanthology.org/2022.scil-1.18/)]
 - 2021 \| NOPE: A Corpus of Naturally-Occurring Presuppositions in English. _Proceedings of CoNLL 2021_. (with +A. Parrish, +S. Schuster, +A. Warstadt, O. Agha, Z. Zhao, S. R. Bowman, and T. Linzen) [+ = equal contribution]  [[link](https://aclanthology.org/2021.conll-1.28/)]
 - 2021 \| Does Putting a Linguist in the Loop Improve NLU Data Collection? _Findings of ACL: EMNLP 2021_. (with A. Parrish, W. Huang, O. Agha, N. Nangia, A. Warstadt, K. Aggarwal, E. Allaway, T. Linzen, and S. R. Bowman) [[link](https://aclanthology.org/2021.findings-emnlp.421/)]
 
-
-<!-- 2026 \| Probability versus prompting: Language model performance on dependencies beyond English. _Studies in Linguistics_. (with S. Wang) [[link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003335082)] -->
-<!-- 2024 \| Language model performance on English control constructions and its implications. _Journal of Linguistic Science_. [[link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003101345)] -->
 
 ---
 
