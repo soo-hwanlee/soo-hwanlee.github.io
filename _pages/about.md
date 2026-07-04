@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a linguist specializing in syntax and its neighboring domains of language. You can find my CV [here](https://drive.google.com/file/d/1UC7R805ELhZ2V5tjfQYDJPoXZl3luQrD/view?usp=drive_link).
+Welcome! I am a linguist specializing in syntax and its neighboring domains of language. You can find my CV [here](https://drive.google.com/file/d/1xG6ieRIJ8NrK_YoYO_xC0A3wuuLJIdDe/view?usp=drive_link).
 
 I am currently an assistant professor at Gyeongsang National University (GNU) in Korea. Previously, I was a postdoc at the University of Pennsylvania where I worked with Marlyse Baptista. I received my PhD from New York University (NYU) where I worked with Alec Marantz.
 
