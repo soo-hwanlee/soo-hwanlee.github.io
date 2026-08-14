@@ -30,8 +30,9 @@ redirect_from:
 - 2025 (Spring) \| Studies in Modern Linguistics, GNU
 
 ## Undergraduate courses
-- Every Spring \| Understanding English Sentence Structures (Syntax I - A-properties), GNU
-- Every Fall \| Analyzing English Sentences (Syntax II - A'-properties & evaluating LLMs), GNU
+- 2026 (Spring) \| Understanding English Sentence Structures (Syntax I - A-properties), GNU
+- 2025 (Fall) \| Analyzing English Sentences (Syntax II - A'-properties & evaluating LLMs), GNU
+- 2025 (Spring) \| Understanding English Sentence Structures (Syntax I - A-properties), GNU
 - 2022 (Fall) \| Grammatical Analysis (Syntax) (TA working with Stephanie Harves), NYU
 - 2022 (Spring) \| First Language Acquisition (TA working with Ailís Cournane), NYU
 - 2021 (Spring) \| Language (Intro to Linguistics) (TA working with Lucas Champollion), NYU
