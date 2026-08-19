@@ -30,7 +30,7 @@ redirect_from:
 - 2025 (Spring) \| Studies in Modern Linguistics, GNU
 
 ## Undergraduate courses
-- 2026 (Fall) \| Understanding English Syntactic Structure (Syntax I & II A/Ā-properties), KNU
+- 2026 (Fall) \| Understanding English Syntactic Structure (Syntax I & II - A/Ā-properties), KNU
 - 2026 (Spring) \| Understanding English Sentence Structures (Syntax I - A-properties), GNU
 - 2025 (Fall) \| Analyzing English Sentences (Syntax II - Ā-properties & evaluating LLMs), GNU
 - 2025 (Spring) \| Understanding English Sentence Structures (Syntax I - A-properties), GNU
