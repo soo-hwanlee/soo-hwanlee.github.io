@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a linguist specializing in syntax and its neighboring domains of language. You can find my CV [here](https://drive.google.com/file/d/1qbLhnl3pc-8aGZ7FcH2RK1AC9drZOojK/view?usp=drive_link)
+Welcome! I am a linguist specializing in syntax and its neighboring domains of language. You can find my CV [here](https://drive.google.com/file/d/1qbLhnl3pc-8aGZ7FcH2RK1AC9drZOojK/view?usp=drive_link).
 
 I will be joining Kyungpook National University (KNU) as an assistant professor this September. Previously, I was a postdoc at the University of Pennsylvania where I worked with Marlyse Baptista. I received my PhD from New York University (NYU) where I worked with Alec Marantz.
 
