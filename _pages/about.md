@@ -9,9 +9,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a linguist specializing in syntax and its neighboring domains of language. You can find my CV [here](https://drive.google.com/file/d/1qbLhnl3pc-8aGZ7FcH2RK1AC9drZOojK/view?usp=drive_link).
+Welcome! I am a linguist specializing in syntax and its neighboring domains of language.
 
-I am an assistant professor at Kyungpook National University (KNU) in Korea. Previously, I was a postdoc at the University of Pennsylvania where I worked with Marlyse Baptista. I received my PhD from New York University (NYU) where I worked with Alec Marantz.
+I am currently an assistant professor at Kyungpook National University (KNU) in Korea. Previously, I was a postdoc at the University of Pennsylvania where I worked with Marlyse Baptista. I received my PhD from New York University (NYU) where I worked with Alec Marantz. You can find my CV [here](https://drive.google.com/file/d/1qbLhnl3pc-8aGZ7FcH2RK1AC9drZOojK/view?usp=drive_link).
 
 <!-- Welcome! I am a linguist specializing in syntax and morphology. I am currently a tenure-track assistant professor at [GNU](https://www.gnu.ac.kr/main/main.do). Previously, I was a postdoctoral researcher at [UPenn](https://www.upenn.edu/) where I worked with [Marlyse Baptista](https://web.sas.upenn.edu/marlysebaptista/). I received my PhD from [NYU](https://www.nyu.edu/) where I worked with [Alec Marantz](https://wp.nyu.edu/morphlab/alec-marantz/). You can find my CV [here](https://drive.google.com/file/d/1YRC2pAU2YTmiWKK4wLvyLwLNvehsSo6T/view?usp=drive_link). -->
 
