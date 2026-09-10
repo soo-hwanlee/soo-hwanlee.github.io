@@ -100,6 +100,7 @@ author_profile: true
 
 ## Invited talks
 
+- Upcoming \| On Passives and Impersonals in Cabo Verdean Creole (joint work with Marlyse Baptista, Ousmane Cisse, and Julie Legate). [Penn Syntax Lab](https://web.sas.upenn.edu/syntax-lab/).
 - 2026 \| Argument structure inside Bantu nominalizations. [Invited talk at Chosun University](https://eng.chosun.ac.kr/eng/index.do).
 - 2025 \| What Bantu languages tell us about nominalizations. [Plenary talk at the 10th Asian Junior Linguists (AJL 10) Conference at International Christian University (ICU)](https://sites.google.com/view/ajl10/home).
 - 2025 \| Don't sweep everything under the Lexicon! [Invited talk at Sogang University](https://www.sogang.ac.kr/en/home).
