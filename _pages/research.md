@@ -34,7 +34,7 @@ author_profile: true
 
 ### Conference presentations
 
-- Upcoming \| Passives and Impersonals in Cabo Verdean Creole. LSA 2027. (with Marlyse Baptista, Ousmane Cisse, and Julie Legate)
+- Upcoming \| Passives and impersonals in Cabo Verdean Creole. LSA 2027. (with Marlyse Baptista, Ousmane Cisse, and Julie Legate)
 - 2026 \| Syntax versus syncretism: Phases and the intervention effect of honorific case markers. WAFL 19.
 - 2026 \| Korean nominal stacking and the argument/oblique alternation. AAAL Workshop 2. (presented by Yining Nie)
 - 2025 \| _Wh_-extraction across _wh_-islands in English control constructions. LSK 2025. (with Michael Barrie)
