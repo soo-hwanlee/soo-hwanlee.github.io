@@ -16,7 +16,7 @@ author_profile: true
 
 ### Papers
 - Submitted \| A composite probe analysis of extraction across weak _wh_-islands in English control constructions. (with Michael Barrie)
-- Revised \& resubmitted \| Sentential negation in Setswana subject nominalizations. (with Omphemetse Maleka, Rigardt Pretorius, and Seunghun Lee)
+- Revised & resubmitted \| Sentential negation in Setswana subject nominalizations. (with Omphemetse Maleka, Rigardt Pretorius, and Seunghun Lee)
 - 2026 \| Is it syntax or syncretism? Phases and honorific case markers in Korean. _Glossa_. [[paper](https://www.glossa-journal.org/article/id/25012/)] 
 - 2026 \| No escape from syntax: Gĩkũyũ nominalizations and the Complex Head analysis. _Journal of Linguistics_. [[paper](https://www.cambridge.org/core/journals/journal-of-linguistics/article/no-escape-from-syntax-gikuyu-nominalizations-and-the-complex-head-analysis/905FEF3D95C5447C729983962DA5B175)]
 - 2025 \| TP in Oshiwambo subject nominalizations. _Glossa_. (with Olivia Ndapo) [[paper](https://www.glossa-journal.org/article/id/16344/)]
