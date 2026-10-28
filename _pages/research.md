@@ -86,7 +86,7 @@ author_profile: true
 
 ### Papers
 
-- Forthcoming \| Do LLMs reason like humans? Evidence from acceptability ratings in Korean active and passive constructions. _Proceedings of PACLIC 40_. (with G-H. Shin and C. Lee)
+- Forthcoming \| Do LLMs reason like humans? Evidence from acceptability ratings in Korean active and passive constructions. _Proceedings of PACLIC 40_. (with C. Lee and G-H. Shin)
 - 2026 \| Open-access dataset on acceptability ratings of Korean clausal constructions by humans and GPT models. _Proceedings of LREC 2026_. (with G-H. Shin and C. Lee) [[link](https://doi.org/10.63317/2icd7h29b849)]
 - 2026 \| Probability versus prompting: Language model performance on dependencies beyond English. _Studies in Linguistics_. (with S. Wang) [[link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003335082)]
 - 2024 \| Language model performance on English control constructions and its implications. _Journal of Linguistic Science_. [[link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003101345)] 
