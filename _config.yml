@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Soo-Hwan Lee"
   avatar           : "lee-lsa.png"
-  bio              : "A linguist"
+  bio              : "a linguist"
   location         : #"Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=9MzzEVQAAAAJ&hl=en"
-  email            : "soohwan.lee@sas.upenn.edu"
+  email            : #"soohwan.lee@sas.upenn.edu"
   researchgate     : #example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
